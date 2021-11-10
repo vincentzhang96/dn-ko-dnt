@@ -1,0 +1,5 @@
+ROWID	_LevelLimit|INTEGER	_SlotID|INTEGER	_IsCash|BOOLEAN
+1	10	1	false
+2	40	2	false
+3	60	3	false
+4	1	4	true

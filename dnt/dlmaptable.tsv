@@ -1,0 +1,10 @@
+ROWID	_GateEnterImage|TEXT	_StageCount|INTEGER	_FloorCount|INTEGER	_StartRound|INTEGER	_FloorSet|INTEGER	_ChallengeType|BOOLEAN	_GameModeName|INTEGER
+12001	Potal12001-1A.dds	30	0	0	0	false	0
+12004	Potal12001-1A.dds	36	1	0	0	false	0
+12007	Potal12001-1A.dds	24	0	0	0	false	0
+12008	Potal12001-1A.dds	14	0	0	0	false	0
+12011	Potal12001-1A.dds	20	1	0	1	false	0
+12021	Potal12001-1A.dds	15	2	20	1	false	0
+12031	Potal12001-1A.dds	15	3	35	1	false	0
+225	Potal12001-1A.dds	2	1	20	0	false	0
+12601	Potal12001-1A.dds	50	1	0	2	true	1410000

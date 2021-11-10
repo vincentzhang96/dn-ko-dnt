@@ -1,0 +1,6 @@
+ROWID	_FileName|TEXT	_FrameCount|INTEGER	_FrameDelay|INTEGER	_MoveSpeed|INTEGER
+1	LoadingAni_A.dds	4	1000	30000
+2	LoadingAni_Ac.dds	4	1000	30000
+3	LoadingAni_C.dds	4	1000	30000
+4	LoadingAni_W.dds	4	1000	30000
+5	LoadingAni_s.dds	4	1000	30000

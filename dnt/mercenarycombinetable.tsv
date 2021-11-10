@@ -1,0 +1,4 @@
+ROWID	_Grade1|INTEGER	_Grade2|INTEGER	_ResultGroup|INTEGER
+1	2	2	1
+2	2	3	2
+3	3	3	3

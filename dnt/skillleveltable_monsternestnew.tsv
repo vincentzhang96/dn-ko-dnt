@@ -1,0 +1,961 @@
+ROWID	_SkillIndex|INTEGER	_SkillLevel|INTEGER	_SkillLevelIconID|INTEGER	_EffectClassValue1|TEXT	_EffectClassValue1Duration|INTEGER	_EffectClassValue2|TEXT	_EffectClassValue2Duration|INTEGER	_EffectClassValue3|TEXT	_EffectClassValue3Duration|INTEGER	_EffectClassValue4|TEXT	_EffectClassValue4Duration|INTEGER	_EffectClassValue5|TEXT	_EffectClassValue5Duration|INTEGER	_LevelLimit|INTEGER	_DelayTime|INTEGER	_AddRange|INTEGER	_NeedItem|INTEGER	_NeedItemDecreaseCount|INTEGER	_DecreaseHP|INTEGER	_DecreaseSP|INTEGER	_HeroGetPoint|INTEGER	_SkillExplanationID|INTEGER	_SkillExplanationIDParam|TEXT	_StateEffectTableID|TEXT	_StateEffectOtherID|TEXT	_CanUseParam1|TEXT	_CanUseParam2|TEXT	_CanUseParam3|TEXT	_CanUseParam4|TEXT	_CanUseParam5|TEXT	_CanUseParam6|TEXT	_CanUseParam7|TEXT	_CanUseParam8|TEXT	_CanUseParam9|TEXT	_CanUseParam10|TEXT	_ProcessParam1|TEXT	_ProcessParam2|TEXT	_ProcessParam3|TEXT	_ProcessParam4|TEXT	_ProcessParam5|TEXT	_ProcessParam6|TEXT	_ProcessParam7|TEXT	_ProcessParam8|TEXT	_ProcessParam9|TEXT	_ProcessParam10|TEXT	_AddThreat|INTEGER	_ApplyTargetType|INTEGER	_HPConsumeType|DOUBLE	_SPConsumeType|DOUBLE	_NeedSkillPoint|INTEGER	_CPScore|INTEGER	_StartSuperArmor|DOUBLE	_StartCanHit|BOOLEAN	_ApplyType|INTEGER	_EffectClassValue6|TEXT	_EffectClassValue6Duration|INTEGER	_EffectClassValue7|TEXT	_EffectClassValue7Duration|INTEGER	_PDamage|DOUBLE	_MDamage|DOUBLE
+162101	322000	1	0	1;0;5000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1015972		0	0											Attack01_Bash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162102	322001	1	0	1;0;5000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1015972		0	0											Attack01_Cresent_R										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162103	322002	1	0	1;0;5000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1015972		0	0											Attack01_Cresent_Y										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162104	322003	1	0	1;0;5000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1015972		0	0											Attack02_Crush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162105	322004	1	0	1;0;5000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1015972		0	0											Attack02_Crush2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162106	322005	1	0	1;0;5000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1015972		0	0											Attack03_SlashCombo										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162107	322006	1	0	1;0;5000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1015972		0	0											Attack03_SlashCombo2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162108	322007	1	0	1;0;5000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1015972		0	0											Attack04_JumpAttack_Start	Attack04_JumpSpinAttack_Loop	Attack04_JumpSpinAttack_End	1000	1200						0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162109	322008	1	0	1;0;5000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1015972		0	0											Attack04_JumpAttack_Start										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162110	322009	1	0	1;0;5000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1015972		0	0											Attack05_Diving_Start	Attack05_Diving_Loop	Attack05_Diving_End	9000	500						0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162111	322010	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Breath_Start	Attack06_Breath_Loop	Attack06_Breath_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162112	322011	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Breath_Start	Attack06_Breath_Loop	Attack06_Breath_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164691	322012	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Event_Diving_Start	Event_Diving_Loop	Event_Diving_End	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164811	322013	1	0	0.5	9999999		0		0		0		0	0	0	0	0	0	0	0	0	1000127911		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165667	322027	1	0	322325	999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164810	322030	1	0	30;1;1	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162113	322031	1	0	1;0.1;100	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162114	322032	1	0	0.5	300000	-0.03	300000		0		0		0	0	0	0	0	0	0	0	0	1015939		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162115	322033	1	0	1;1;Hit_Front;1	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000111740		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162116	322034	1	0	322035;322036	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162117	322035	1	0	-0.9	10000	-0.9	10000		0		0		0	0	0	0	0	0	0	0	0	1015945		23113	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162118	322036	1	0	100;1000	8000		0		0		0		0	0	0	0	0	0	0	0	0	1000111755		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164511	322037	1	0	322097	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164672	322038	1	0	-0.05;1;1000	60000	0;55454;0;60;0;255	60000		0		0		0	0	0	0	0	0	0	0	0	1015970		322038	0																					0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+164767	322039	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack04_Charge_Start	Attack04_Charge_Loop	Attack04_Charge_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164800	322040	1	0	0.5	9999999		0		0		0		0	0	0	0	0	0	0	0	0	1000171437		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164754	322049	1	0	10488;3208;564	999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162119	322050	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack01_Bash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162120	322051	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack02_TailAttack										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162121	322052	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack03_SheidAttack										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162122	322053	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack04_Charge_Start	Attack04_Charge_Loop	Attack04_Charge_End	1000	1200						0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162123	322054	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack05_Combo										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162124	322055	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack06_Counter_Start	Attack06_Counter_Loop	Attack06_Counter_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162125	322056	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		23432	0											Attack07_Explospell_03_1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162126	322057	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		23432	0											Attack07_Explospell_06_1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162127	322058	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		23432	0											Attack07_Explospell_09_1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162128	322059	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		23432	0											Attack07_Explospell_12_1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162129	322060	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack08_CrashGraound										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162130	322061	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_Provoke										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162131	322062	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack14_Thrust_Start	Attack14_Thrust_Loop	Attack14_Thrust_End	1716							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162132	322063	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack10_Explosion_Laser_Start	Attack10_Explosion_Laser_Loop	Attack10_Explosion_Laser_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162133	322064	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		0	0											Attack11_Quake										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162134	322065	1	0	2;3;1;322035	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015943		23431	0											Attack12_Boggle_Down_Start	Attack12_Boggle_Down_End	Stand	3166							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162135	322066	1	0	2;3;1;322035	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015943		23431	0											Attack12_Boggle_Start	Attack12_Boggle_End	Stand	2498							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162136	322067	1	0	2;3;1;322035	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015943		23431	0											Attack13_Breath_Start	Attack13_Breath_Loop	Attack13_Breath_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162137	322068	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Counter_End										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162138	322069	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Counter_Jump										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162139	322070	1	0	2;3;1;322075	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23431	0											Attack01_Bash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162140	322071	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		0	0											Attack02_TailAttack_Bubble										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162141	322072	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		0	0											Attack03_SheidAttack_Bubble										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162142	322073	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		0	0											Attack05_Combo	Attack05_Combo_Loop	Attack05_Combo_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162143	322074	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		0	0											Attack08_CrashGraound_Bubble										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162163	322075	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack11_Quake_Clone_JH										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163220	322076	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Change_Target										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163221	322077	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack04_Charge_Start	Attack04_Charge_Loop	Attack04_Charge_End	8328							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163222	322078	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack08_CrashGraound_Long										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163223	322079	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack11_Quake_Long										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163224	322080	1	0	2;3;1;322035	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015943		23431	0											Attack15_Short_Breath										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163225	322081	1	0	2;3;1;322035	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015943		23431	0											Attack16_Drinking_Start	Attack16_Drinking_Loop	Attack16_Drinking_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163560	322082	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack01_Bash_Water										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163561	322083	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack02_TailAttack_Water										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163562	322084	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	0		23432	0											Attack17_Swing_Combo_Start	Attack17_Swing_Combo_Loop	Attack17_Swing_Combo_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163692	322085	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack99_Charge_Zone_Dash_Start	Attack99_Charge_Zone_Dash_Loop	Attack99_Charge_Zone_Dash_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163693	322086	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack11_Quake_Long_JH										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163694	322087	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack15_Broken_Cave_Start	Attack15_Broken_Cave_Loop	Attack15_Broken_Cave_End	30000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163695	322088	1	0	1;6;1;322032	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015938		23432	0											Attack08_CrashGraound_Long_Clone_JH										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164351	322089	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											EVENT_Drinking_Start	EVENT_Drinking_Loop	EVENT_Drinking_End	2664							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164507	322090	1	0		60000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack17_Eat_Eat_Eat_Start	Attack17_Eat_Eat_Eat_Loop	Attack17_Eat_Eat_Eat_End	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162184	322091	1	0	2;3;1;322035	60000		0		0		0		0	0	0	0	0	0	0	0	0	1015943		23431	0											Attack1_Bubble										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163559	322092	1	0	-0.02;1;1000	60000	0;55454;0;60;0;255	60000		0		0		0	0	0	0	0	0	0	0	0	1015941		0	0											PoisonSwamp										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163687	322093	1	0	-0.3	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Time_Over										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163690	322094	1	0	322092;	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163691	322095	1	0	322081	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164366	322096	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Event_Down	Event_Down2	Event_Down3	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164508	322097	1	0	-0.1;1;1000	10000	0;66101;0;60;0;255	10000		0		0		0	0	0	0	0	0	0	0	0	1015964		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164509	322098	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack99_Stun_Start	Attack99_Stun_Loop	Attack99_Stun_End	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164642	322099	1	0		30000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack17_Eat_Eat_Eat_Start2	Attack17_Eat_Eat_Eat_Loop2	Attack17_Eat_Eat_Eat_End2	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162144	322100	1	0		600000	103667;500,0,500;322109,322101;1000;5000;	3000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Stone_Body_Start	Attack00_Stone_Body_Loop	Attack00_Stone_Body_End	1000000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162145	322101	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Smash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162146	322102	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Smash_02										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162147	322103	1	0	1;0.1;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack03_Combo_Up										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162148	322104	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_RisingSlash_Start	Attack04_RisingSlash_End									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162149	322105	1	0	1;0.1;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack04_RisingSlash2_Start	Attack04_RisingSlash2_Loop	Attack04_RisingSlash2_End	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162150	322106	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_SlashCombo_Start	Attack04_SlashCombo_Loop	Attack04_SlashCombo_End	6000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162151	322107	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_DashSlash_1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162152	322108	1	0	1;0.1;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		0	0											Attack05_DashSlash_Start	Attack05_DashSlash_Loop	Attack05_DashSlash_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162153	322109	1	0	1;0.1;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack09_FirePillar										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162154	322110	1	0	1;0.1;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack07_Howl_Start	Attack07_Howl_Loop	Attack07_Howl_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162155	322111	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack08_UpperSlash_Start	Attack08_UpperSlash_Loop	Attack08_UpperSlash_End	500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162156	322112	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack_Test_StackUp_01										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162157	322113	1	0	1;500000000;322117;1;0;0;6	15000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack14_Protect_Start	Attack14_Protect_Loop1	Attack14_Protect_End	12000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162158	322114	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_LineFire_AllKill										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162159	322115	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_DiveStomp_Start	Attack06_DiveStomp_Loop	Attack06_DiveStomp_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162160	322116	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_Howl_Start	Attack07_Howl_Loop	Attack07_Howl_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162161	322117	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack14_Protect_Break										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162162	322118	1	0	1;5;1;322117	600000		0		0		0		0	0	0	0	0	0	0	0	0	0		23471	0											Attack01_StackUp										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162177	322119	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack13_Nandong_Start	Attack13_Nandong_Loop1	Attack13_Nandong_End	19000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162179	322120	1	0	1;0.1;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack03_Combo										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162180	322121	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Windhole_Start	Attack06_Windhole_Loop	Attack06_Windhole_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162181	322122	1	0	1;0.1;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack04_Flame_Nova_Split_Start	Attack04_Flame_Nova_Split_Loop_1	Attack04_Flame_Nova_Split_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162182	322123	1	0	322152;322155;322100;322130;322179	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Stone_Body_End										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162183	322124	1	0	1;0.1;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack04_Flame_Nova_Start	Attack04_Flame_Nova_Loop_1	Attack04_Flame_Nova_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162185	322125	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_OpenFire_Start	Attack02_OpenFire_Loop1	Attack02_OpenFire_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162186	322126	1	0	1;0.1;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack08_UpperSlash2_Start	Attack08_UpperSlash2_Loop	Attack08_UpperSlash2_End	500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162190	322127	1	0	1;0.1;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack06_SpearRain_Start	Attack06_SpearRain_Loop	Attack06_SpearRain_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162204	322128	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_Summon_Nova_Start	Attack04_Summon_Nova_Loop	Attack04_Summon_Nova_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162205	322129	1	0	0;0;0;21411	7000		0		0		0		0	0	0	0	0	0	0	0	0	1000111750		0	0											Attack17_StraightFire_Start	Attack17_StraightFire_Loop1	Attack17_StraightFire_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162164	322130	1	0		600000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Stone_Body_Start	Attack00_Stone_Body_Loop	Attack00_Stone_Body_End	1000000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162165	322131	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Smash_1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162166	322132	1	0	2	2000		0		0		0		0	0	0	0	0	0	0	0	0	1000171303		11288	0											Attack05_LineP_Confuse										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162167	322133	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_ShieldSlam										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162168	322134	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_ShieldCrash_Start	Attack04_ShieldCrash_Loop	Attack04_ShieldCrash_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162169	322135	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack08_ShieldPush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162170	322136	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Bulldozer_Start1	Attack05_Bulldozer_Loop4	Attack05_Bulldozer_End1	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162171	322137	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Bulldozer_Start1	Attack05_Bulldozer_Loop4	Attack05_Bulldozer_End2	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162172	322138	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Bulldozer_Start2	Attack05_Bulldozer_Loop1	Attack05_Bulldozer_End1	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162173	322139	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Bulldozer_Start2	Attack05_Bulldozer_Loop1	Attack05_Bulldozer_End2	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162174	322140	1	0	15000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000170950		112	0											Attack05_Bulldozer_Start3	Attack05_Bulldozer_Loop2	Attack05_Bulldozer_End1	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162175	322141	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Bulldozer_Start3	Attack05_Bulldozer_Loop2	Attack05_Bulldozer_End2	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162178	322142	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_ShieldSlam_BlueFire										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162187	322143	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_SummonShield_Start	Attack03_SummonShield_Loop	Attack03_SummonShield_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162188	322144	1	0	15000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000170950		112	0											Attack07_UpperCombo_Start	Attack07_UpperCombo_Loop	Attack07_UpperCombo_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162193	322145	1	0	2;5;1;322146	600000		0		0		0		0	0	0	0	0	0	0	0	0	0		23471	0											Attack01_StackUp										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162192	322146	1	0		20000		0		0		0		0	0	0	0	0	0	0	0	0	1000163783		0	0																					0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+162194	322147	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_LineP_Shield										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162195	322148	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_LineP_Start	Attack03_LineP_Loop	Attack03_LineP_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162199	322149	1	0	15000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000170950		112	0											Attack09_SummonRock	Attack09_SummonRock_Bomb									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162200	322150	1	0	1;1;Hit_Shockwave90;1;1;5;1;20	3500		0		0		0		0	0	0	0	0	0	0	0	0	1000111740		0	0											Attack10_EarthSpear_Start	Attack10_EarthSpear_Loop1	Attack10_EarthSpear_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162196	322151	1	0	3;10;1;322152	600000		0		0		0		0	0	0	0	0	0	0	0	0	1000170951		23435	0											Attack02_StackUp_Stonize										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162197	322152	1	0		600000	322118;322151	600000	322151	1000		0		0	0	0	0	0	0	0	0	0	1000170952		0	0																					0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+162198	322153	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Stonize_Max										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162201	322154	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack10_EarthSpear_Mini_Start	Attack10_EarthSpear_Mini_End									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162202	322155	1	0		600000		0		0		0		0	0	0	0	0	0	0	0	0	1000153624		0	0																					0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+162203	322156	1	0	3;1	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+162206	322157	1	0	322152;322153;322151	9999999	322151;322129	1000		0		0		0	0	0	0	0	0	0	0	0	1000167677		0	0											Attack00_BurstMode										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162207	322158	1	0	322152;322153;322151	9999999	322151	1000		0		0		0	0	0	0	0	0	0	0	0	1000169137		0	0											Attack00_BurstMode										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162208	322159	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_PowerSmash_Start	Attack01_PowerSmash_Loop	Attack01_PowerSmash_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162210	322160	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_SummonBlueFire	Attack09_SummonBlueFire_Bomb									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162211	322161	1	0	15000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000170950		112	0											Attack05_BlueFireRush_Start	Attack05_BlueFireRush_Loop	Attack05_BlueFireRush_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162212	322162	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack08_ShieldPush_BlueFire										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162233	322163	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Battle_Start	Attack00_Battle_Loop	Attack00_Battle_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+162234	322164	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Battle_Start	Attack00_Battle_Loop	Attack00_Battle_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163009	322165	1	0	322152;322155;322100;322130;322179	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Stone_Body_End_1st										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163022	322166	1	0	15000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000170950		112	0											Attack01_Smash_Comet										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163023	322167	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack19_Nanjang_Start	Attack19_Nanjang_Loop1	Attack19_Nanjang_End	19000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163134	322168	1	0	15000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000170950		112	0											Attack03_StoneShower_Start	Attack03_StoneShower_Loop	Attack03_StoneShower_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163135	322169	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack11_MakeShield_Start	Attack11_MakeShield_End									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163136	322170	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack12_RushShield_Start	Attack12_RushShield_Loop	Attack12_RushShield_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163137	322171	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack13_Meteor_Start	Attack13_Meteor_Loop	Attack13_Meteor_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163138	322172	1	0	-0.9	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack12_Parking_Start	Attack12_Parking_Loop	Attack12_Parking_End	2000	600						0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163139	322173	1	0	-0.9	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack17_Parking_Start	Attack17_Parking_Loop	Attack17_Parking_End	2000	600						0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163143	322174	1	0	1;0.1;10000000	10000	1;1;322153;1;0;0;3	20000	322178	0	500	0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack10_Hell_Flare_Start	Attack10_Hell_Flare_Loop	Attack10_Hell_Flare_End	19000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163144	322175	1	0	-1	60000	-1	60000		0		0		0	0	0	0	0	0	0	0	0	1000177375		94 	0											Attack18_Counter_End1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163145	322176	1	0	-0.9	2000		0		0		0		0	0	0	0	0	0	0	0	0	1000170953		0	0											Attack01_Earthquake_Start	Attack01_Earthquake_Loop	Attack01_Earthquake_End	1000000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163146	322177	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack18_Counter_End2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163153	322178	1	0	3;120000000;322175;1;0;	4500		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack18_Counter_Start	Attack18_Counter_Loop1	Attack18_Counter_End2	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163154	322179	1	0		600000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Stone_Body_Start_1st	Attack00_Stone_Body_Loop_1st	Attack00_Stone_Body_End	1000000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163226	322180	1	0	0	0	20;0;0	1000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack18_Counter_Set										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163227	322181	1	0	-0.1	30000	-0.1	30000		0		0		0	0	0	0	0	0	0	0	0	0		11347	0											Attack15_PinBall2_Start	Attack15_PinBall2_Loop	Attack15_PinBall2_End	100							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163228	322182	1	0	50000000000;99999999999	4000		0		0		0		0	0	0	0	0	0	0	0	0	0		11348	0											Attack15_PinBall3_Start	Attack15_PinBall3_Loop	Attack15_PinBall3_End	100							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163229	322183	1	0		8500		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_LineP_Decal										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163230	322184	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_LineFire_SetUp										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163231	322185	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_LineFire_PreSet										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163232	322186	1	0		1000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_LineFire_Ignite										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163688	322187	1	0	1;50000;322188;1;0;0;25	32000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack16_Line_Start	Attack16_Line_Loop1	Attack16_Line_End	25000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163689	322188	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack16_Line_End_Fail										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163702	322189	1	0	322152;322153;322151	9999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+163028	322190	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Move_Front										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163029	322191	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Move_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163030	322192	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Move_Left										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163031	322193	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Move_Back										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163032	322194	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_Stomp_Start	Attack07_Stomp_Loop	Attack07_Stomp_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163140	322195	1	0		90000	322196;322197	1000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack10_Change_Blue										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163141	322196	1	0		90000	322195;322197	1000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack10_Change_Red										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163142	322197	1	0		90000	322195;322196	1000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack10_Change_Nomal										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163472	322198	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_Stomp_Start	Attack07_Stomp_End	Stand2	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164911	322199	1	0		9999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163033	322201	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack01_Punch_Right_Nomal_Start_Direct	Attack01_Punch_Right_Nomal_End1	Stand	2166							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163034	322202	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack01_Punch_Right_Nomal_Start	Attack01_Punch_Right_Nomal_Loop	Attack01_Punch_Right_Nomal_End1	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163035	322203	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack01_Punch_Right_Nomal_Start	Attack01_Punch_Right_Nomal_Loop	Attack01_Punch_Right_Nomal_End1	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163036	322204	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack01_Punch_Right_Nomal_Start_Direct_Long	Attack01_Punch_Right_Nomal_End2	Stand	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163037	322205	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack01_Punch_Right_Nomal_Start	Attack01_Punch_Right_Nomal_Loop	Attack01_Punch_Right_Nomal_End2	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163038	322206	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack01_Punch_Right_Nomal_Start	Attack01_Punch_Right_Nomal_Loop	Attack01_Punch_Right_Nomal_End2	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163039	322207	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack02_Punch_Left_Nomal_Start_Direct	Attack02_Punch_Left_Nomal_End	Stand	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163040	322208	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack02_Punch_Left_Nomal_Start	Attack02_Punch_Left_Nomal_Loop	Attack02_Punch_Left_Nomal_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163041	322209	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack02_Punch_Left_Nomal_Start	Attack02_Punch_Left_Nomal_Loop	Attack02_Punch_Left_Nomal_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163042	322210	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack03_FootStomp_Start_Direct	Attack03_FootStomp_End1	Stand	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163043	322211	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack03_FootStomp_Nomal_Start_Direct	Attack02_Punch_Left_Nomal_End	Stand	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163044	322212	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack03_FootStomp_Nomal_Start	Attack02_Punch_Left_Nomal_Loop	Attack02_Punch_Left_Nomal_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163045	322213	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack03_FootStomp_Nomal_Start	Attack02_Punch_Left_Nomal_Loop	Attack02_Punch_Left_Nomal_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163046	322214	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack03_FootStomp_Nomal_Start_Direct2	Attack03_FootStomp_End2	Stand	2332							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163047	322215	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack03_FootStomp_Nomal_Start	Attack02_Punch_Left_Nomal_Loop	Attack03_FootStomp_End2	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163048	322216	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack03_FootStomp_Nomal_Start	Attack02_Punch_Left_Nomal_Loop	Attack03_FootStomp_End2	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163049	322217	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack04_Clapping_Nomal_Start_Direct	Attack04_Clapping_Nomal_End1	Stand	3166							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163050	322218	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack04_Clapping_Nomal_Start	Attack04_Clapping_Nomal_Loop	Attack04_Clapping_Nomal_End1	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163051	322219	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack04_Clapping_Nomal_Start	Attack04_Clapping_Nomal_Loop	Attack04_Clapping_Nomal_End1	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163052	322220	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack04_Clapping_Nomal_Start_Direct_2	Attack04_Clapping_Nomal_End2	Stand	5830							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163053	322221	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack04_Clapping_Nomal_Start	Attack04_Clapping_Nomal_Loop	Attack04_Clapping_Nomal_End2	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163054	322222	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack04_Clapping_Nomal_Start	Attack04_Clapping_Nomal_Loop	Attack04_Clapping_Nomal_End2	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163055	322223	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack06_Stamp_Nomal_Start_Direct	Attack06_Stamp_Nomal_End	Stand	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163056	322224	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack06_Stamp_Nomal_Start	Attack06_Stamp_Nomal_Loop	Attack06_Stamp_Nomal_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163057	322225	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack06_Stamp_Nomal_Start	Attack06_Stamp_Nomal_Loop	Attack06_Stamp_Nomal_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163058	322226	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack06_Stamp_Nomal_Start_Direct_L	Attack06_Stamp_Nomal_Left	Stand	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163059	322227	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack06_Stamp_Nomal_Start	Attack06_Stamp_Nomal_Loop_L	Attack06_Stamp_Nomal_Left	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163060	322228	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack06_Stamp_Nomal_Start	Attack06_Stamp_Nomal_Loop_L	Attack06_Stamp_Nomal_Left	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163061	322229	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack06_Stamp_Nomal_Start_Direct_R	Attack06_Stamp_Nomal_Right	Stand	1332							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163062	322230	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack06_Stamp_Nomal_Start	Attack06_Stamp_Nomal_Loop_R	Attack06_Stamp_Nomal_Right	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163063	322231	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack06_Stamp_Nomal_Start	Attack06_Stamp_Nomal_Loop_R	Attack06_Stamp_Nomal_Right	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163473	322232	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack05_Crush_Start_Yellow	Attack05_Crush_Loop_Yellow	Attack05_Crush_Yellow_End	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163064	322241	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack01_Punch_Right_Blue_Start_Direct	Attack01_Punch_Right_Blue_End1	Stand	2166							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163065	322242	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack01_Punch_Right_Blue_Start	Attack01_Punch_Right_Blue_Loop	Attack01_Punch_Right_Blue_End1	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163066	322243	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack01_Punch_Right_Blue_Start	Attack01_Punch_Right_Blue_Loop	Attack01_Punch_Right_Blue_End1	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163067	322244	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack01_Punch_Right_Blue_Start_Direct_Long	Attack01_Punch_Right_Blue_End2	Stand	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163068	322245	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack01_Punch_Right_Blue_Start	Attack01_Punch_Right_Blue_Loop	Attack01_Punch_Right_Blue_End2	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163069	322246	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack01_Punch_Right_Blue_Start	Attack01_Punch_Right_Blue_Loop	Attack01_Punch_Right_Blue_End2	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163070	322247	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack02_Punch_Left_Blue_Start_Direct	Attack02_Punch_Left_Blue_End	Stand	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163071	322248	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack02_Punch_Left_Blue_Start	Attack02_Punch_Left_Blue_Loop	Attack02_Punch_Left_Blue_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163072	322249	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack02_Punch_Left_Blue_Start	Attack02_Punch_Left_Blue_Loop	Attack02_Punch_Left_Blue_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163073	322250	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack03_FootStomp_Start_Direct	Attack03_FootStomp_End1	Stand	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163074	322251	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack03_FootStomp_Blue_Start_Direct	Attack02_Punch_Left_Blue_End	Stand	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163075	322252	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack03_FootStomp_Blue_Start	Attack02_Punch_Left_Blue_Loop	Attack02_Punch_Left_Blue_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163076	322253	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack03_FootStomp_Blue_Start	Attack02_Punch_Left_Blue_Loop	Attack02_Punch_Left_Blue_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163077	322254	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack03_FootStomp_Blue_Start_Direct2	Attack03_FootStomp_Blue_End2	Stand	2332							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163078	322255	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack03_FootStomp_Blue_Start	Attack02_Punch_Left_Blue_Loop	Attack03_FootStomp_Blue_End2	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163079	322256	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack03_FootStomp_Blue_Start	Attack02_Punch_Left_Blue_Loop	Attack03_FootStomp_Blue_End2	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163080	322257	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack04_Clapping_Blue_Start_Direct	Attack04_Clapping_Blue_End1	Stand	3166							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163081	322258	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack04_Clapping_Blue_Start	Attack04_Clapping_Blue_Loop	Attack04_Clapping_Blue_End1	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163082	322259	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack04_Clapping_Blue_Start	Attack04_Clapping_Blue_Loop	Attack04_Clapping_Blue_End1	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163083	322260	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack04_Clapping_Blue_Start_Direct_2	Attack04_Clapping_Blue_End2	Stand	5830							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163084	322261	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack04_Clapping_Blue_Start	Attack04_Clapping_Blue_Loop	Attack04_Clapping_Blue_End2	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163085	322262	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack04_Clapping_Blue_Start	Attack04_Clapping_Blue_Loop	Attack04_Clapping_Blue_End2	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163086	322263	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack06_Stamp_Blue_Start_Direct	Attack06_Stamp_Blue_End	Stand	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163087	322264	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack06_Stamp_Blue_Start	Attack06_Stamp_Blue_Loop	Attack06_Stamp_Blue_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163088	322265	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack06_Stamp_Blue_Start	Attack06_Stamp_Blue_Loop	Attack06_Stamp_Blue_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163089	322266	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack06_Stamp_Blue_Start_Direct_L	Attack06_Stamp_Blue_Left	Stand	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163090	322267	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack06_Stamp_Blue_Start	Attack06_Stamp_Blue_Loop_L	Attack06_Stamp_Blue_Left	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163091	322268	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack06_Stamp_Blue_Start	Attack06_Stamp_Blue_Loop_L	Attack06_Stamp_Blue_Left	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163092	322269	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack06_Stamp_Blue_Start_Direct_R	Attack06_Stamp_Blue_Right	Stand	1332							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163093	322270	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack06_Stamp_Blue_Start	Attack06_Stamp_Blue_Loop_R	Attack06_Stamp_Blue_Right	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163094	322271	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack06_Stamp_Blue_Start	Attack06_Stamp_Blue_Loop_R	Attack06_Stamp_Blue_Right	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163095	322272	1	0	-0.7;-0.7;0	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000128714		303	0											Attack05_Crush_Start_Ice	Attack05_Crush_Loop_Ice	Attack05_Crush_Ice_End	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163096	322281	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack01_Punch_Right_Red_Start_Direct	Attack01_Punch_Right_Red_End1	Stand	2166							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163097	322282	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack01_Punch_Right_Red_Start	Attack01_Punch_Right_Red_Loop	Attack01_Punch_Right_Red_End1	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163098	322283	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack01_Punch_Right_Red_Start	Attack01_Punch_Right_Red_Loop	Attack01_Punch_Right_Red_End1	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163099	322284	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack01_Punch_Right_Red_Start_Direct_Long	Attack01_Punch_Right_Red_End2	Stand	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163100	322285	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack01_Punch_Right_Red_Start	Attack01_Punch_Right_Red_Loop	Attack01_Punch_Right_Red_End2	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163101	322286	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack01_Punch_Right_Red_Start	Attack01_Punch_Right_Red_Loop	Attack01_Punch_Right_Red_End2	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163102	322287	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack02_Punch_Left_Red_Start_Direct	Attack02_Punch_Left_Red_End	Stand	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163103	322288	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack02_Punch_Left_Red_Start	Attack02_Punch_Left_Red_Loop	Attack02_Punch_Left_Red_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163104	322289	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack02_Punch_Left_Red_Start	Attack02_Punch_Left_Red_Loop	Attack02_Punch_Left_Red_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163105	322290	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack03_FootStomp_Start_Direct	Attack03_FootStomp_End1	Stand	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163106	322291	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack03_FootStomp_Red_Start_Direct	Attack02_Punch_Left_Red_End	Stand	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163107	322292	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack03_FootStomp_Red_Start_Rava	Attack02_Punch_Left_Red_Loop_Rava	Attack02_Punch_Left_Red_End_Rava	500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163108	322293	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack03_FootStomp_Red_Start	Attack02_Punch_Left_Red_Loop	Attack02_Punch_Left_Red_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163109	322294	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack03_FootStomp_Red_Start_Direct2	Attack03_FootStomp_Red_End2	Stand	2332							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163110	322295	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack03_FootStomp_Red_Start	Attack02_Punch_Left_Red_Loop	Attack03_FootStomp_Red_End2	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163111	322296	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack03_FootStomp_Red_Start	Attack02_Punch_Left_Red_Loop	Attack03_FootStomp_Red_End2	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163112	322297	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack04_Clapping_Red_Start_Direct	Attack04_Clapping_Red_End1	Stand	3166							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163113	322298	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack04_Clapping_Red_Start	Attack04_Clapping_Red_Loop	Attack04_Clapping_Red_End1	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163114	322299	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack04_Clapping_Red_Start	Attack04_Clapping_Red_Loop	Attack04_Clapping_Red_End1	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163115	322300	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack04_Clapping_Red_Start_Direct_2	Attack04_Clapping_Red_End2	Stand	5830							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163010	322301	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack04_Clapping_Red_Start	Attack04_Clapping_Red_Loop	Attack04_Clapping_Red_End2	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163011	322302	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack04_Clapping_Red_Start	Attack04_Clapping_Red_Loop	Attack04_Clapping_Red_End2	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163012	322303	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack06_Stamp_Red_Start_Direct	Attack06_Stamp_Red_End	Stand	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163013	322304	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack06_Stamp_Red_Start	Attack06_Stamp_Red_Loop	Attack06_Stamp_Red_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163014	322305	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack06_Stamp_Red_Start	Attack06_Stamp_Red_Loop	Attack06_Stamp_Red_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163015	322306	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack06_Stamp_Red_Start_Direct_L	Attack06_Stamp_Red_Left	Stand	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163016	322307	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack06_Stamp_Red_Start	Attack06_Stamp_Red_Loop_L	Attack06_Stamp_Red_Left	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163017	322308	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack06_Stamp_Red_Start	Attack06_Stamp_Red_Loop_L	Attack06_Stamp_Red_Left	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163018	322309	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack06_Stamp_Red_Start_Direct_R	Attack06_Stamp_Red_Right	Stand	1332							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163019	322310	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack06_Stamp_Red_Start	Attack06_Stamp_Red_Loop_R	Attack06_Stamp_Red_Right	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163020	322311	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack06_Stamp_Red_Start	Attack06_Stamp_Red_Loop_R	Attack06_Stamp_Red_Right	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163021	322312	1	0	1;0;10000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		301	0											Attack05_Crush_Start_Fire	Attack05_Crush_Loop_Fire	Attack05_Crush_Fire_End	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163233	322321	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Stamp_Nomal_Start	Attack06_Stamp_Nomal_Loop	Attack06_Stamp_Nomal_End	25000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163234	322322	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Stamp_Blue_Start	Attack06_Stamp_Blue_Loop	Attack06_Stamp_Blue_End	25000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163235	322323	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Stamp_Red_Start	Attack06_Stamp_Red_Loop	Attack06_Stamp_Red_End	25000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164586	322324	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Stamp_Nomal_End_Kill										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164910	322325	1	0		2000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack3_KBLOW										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163544	322351	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack1_Breath_R_Start	Attack1_Breath_R_Loop	Attack1_Breath_R_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163545	322352	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack1_Breath_R_Start_DR	Attack1_Breath_R_End_DR	Stand2	1322							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163546	322353	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack2_Bite										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163547	322354	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Down_KnockBack	Down	Down_StandUp	60000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163548	322355	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack1_Breath_B_Start	Attack1_Breath_B_Loop	Attack1_Breath_B_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163549	322356	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack1_Breath_B_Start_DR	Attack1_Breath_B_End_DR	Stand2	1322							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163550	322357	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack2_Bite										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164513	322358	1	0	1	30000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack4_Wind_Blue_Start	Attack4_Wind_Blue_Loop	Attack4_Wind_Blue_End	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164514	322359	1	0	1	30000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack4_Wind_Red_Start	Attack4_Wind_Red_Loop	Attack4_Wind_Red_End	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164526	322360	1	0	322358;322359;322361;322362	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164527	322361	1	0	11404	60000		60000		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+164528	322362	1	0	11405	60000		60000		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+164585	322363	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_FireWave_Start	Attack01_FireWave_Loop	Attack01_FireWave_End	16000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164722	322364	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_FireWave_Start	Attack01_FireWave_Loop	Attack01_FireWave_End	16000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164723	322365	1	0		3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack1_Breath_Max_Start	Attack1_Breath_Max_Loop	Attack1_Breath_Max_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164803	322366	1	0		3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack1_Breath_Max_Start	Attack1_Breath_Max_Loop	Attack1_Breath_Max_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164804	322367	1	0	1;1;Hit_Front;1	3000		3000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Typ_FootStomp_Nomal_Start	Attack03_Typ_Punch_Left_Nomal_Loop	Attack03_Typ_Punch_Left_Nomal_End	2000							0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+163116	322401	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_WallJump_Start	Attack00_WallJump_End									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163117	322402	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Claw_Left										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163118	322403	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Claw_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163119	322404	1	0	-0.5	60000	-0.5	60000		0		0		0	0	0	0	0	0	0	0	0	1000170954		94	0											Attack02_TailWhip_Left										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163120	322405	1	0	-0.5	60000	-0.5	60000		0		0		0	0	0	0	0	0	0	0	0	1000170954		94	0											Attack02_TailWhip_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163121	322406	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Smash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163122	322407	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_BiteForward										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163123	322408	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Breath_Start	Attack06_Breath_Loop	Attack06_Breath_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163124	322409	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_Spirit_Start	Attack09_Spirit_Loop	Attack09_Spirit_End	27000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163125	322410	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack10_Step_L										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163126	322411	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack11_Step_R										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163127	322412	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack11_Step_B										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163147	322413	1	0		60000	322414	5000		0		0		0	0	0	0	0	0	0	0	0	1000170880		0	0											Attack12_Change_Fear_Start	Attack12_Change_Fear_Loop	Attack12_Change_Fear_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163148	322414	1	0		60000	322413	5000		0		0		0	0	0	0	0	0	0	0	0	1000170881		0	0											Attack12_Change_Hypnosis_Start	Attack12_Change_Hypnosis_Loop	Attack12_Change_Hypnosis_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163149	322415	1	0	100;1000;0;1	8000	1;66104;68;21;110;800	5000		0		0		0	0	0	0	0	0	0	0	0	1000170957		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163150	322416	1	0	100;2000;-0.4;1;1;1;15	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000170958		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163151	322417	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Needle_Claw_Left_Start	Attack01_Needle_Claw_Left_End									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163152	322418	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Needle_Claw_Right_Start	Attack01_Needle_Claw_Right_End									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163155	322419	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack13_Will_O_Wsip_Start	Attack13_Will_O_Wsip_Loop	Attack13_Will_O_Wsip_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163156	322420	1	0	-1	60000	-1	60000		0		0		0	0	0	0	0	0	0	0	0	1000170956		94	0											Attack10_Step_Rush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163157	322421	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_Sting_Start	Attack04_Sting_Loop	Attack04_Sting_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163158	322422	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_Hunt_Start	Attack07_Hunt_Loop	Attack07_Hunt_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163159	322423	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack15_Will_O_Shower_Start	Attack15_Will_O_Shower_Loop	Attack15_Will_O_Shower_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163552	322424	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_Hunt2_Needle_Start	Attack07_Hunt2_Needle_Loop	Attack07_Hunt2_Needle_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163555	322425	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack14_Will_O_Wsip2_Start	Attack14_Will_O_Wsip2_Loop	Attack14_Will_O_Wsip2_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163556	322426	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack17_Sleeping										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163685	322427	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack18_WakeUp										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163686	322428	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Move_Center										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164510	322429	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_SetUp_Spirit_Start	Attack09_SetUp_Spirit_Loop	Attack09_SetUp_Spirit_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164512	322430	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack16_Change_Normal										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163268	322431	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Claw_Left_Fear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163269	322432	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Claw_Right_Fear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163270	322433	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Smash_Fear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163271	322434	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_Fear_On_Start	Attack04_Fear_On_Loop	Attack04_Fear_On_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163272	322435	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_BiteForward_Fear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163273	322436	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Fear_Breath_Start	Attack06_Fear_Breath_Loop	Attack06_Fear_Breath_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163274	322437	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_Fear_Chase_Start	Attack07_Fear_Chase_Loop1	Attack07_Fear_Chase_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163275	322438	1	0	100;1000;0;1	8000		0		0		0		0	0	0	0	0	0	0	0	0	1000170957		0	0											Attack08_Fear_FallGuys_Start	Attack08_Fear_FallGuys_Loop	Attack08_Fear_FallGuys_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163553	322439	1	0	100;1000;0;1	8000		0		0		0		0	0	0	0	0	0	0	0	0	1000170957		0	0											Attack07_Fear_Ghost_Pillar_Start	Attack07_Fear_Ghost_Pillar_Loop	Attack07_Fear_Ghost_Pillar_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163557	322440	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Smash_Fear_Needle										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164655	322441	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack19_Opening										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164674	322442	1	0	100;1000;0;1	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000170957		0	0											Attack20_TimeOver_Start	Attack20_TimeOver_Loop1	Attack20_TimeOver_End	7000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164768	322443	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Claw_Left_Fear_Phase										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164769	322444	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Claw_Right_Fear_Phase										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164770	322445	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack22_Hunting_Ready										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164771	322446	1	0	-1	60000	-1	60000		0		0		0	0	0	0	0	0	0	0	0	1000170956		94	0											Attack22_Hunting_Start	Attack22_Hunting_Loop1	Attack22_Hunting_End	8500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164801	322447	1	0	0;0;0;0;	2000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Hunting_Shaodw										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164339	322461	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Fox_Grasb_Normal_Start	Attack02_Fox_Grasb_Normal_Loop	Attack02_Fox_Grasb_Normal_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164340	322462	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Fox_Grasb_Fear_Start	Attack03_Fox_Grasb_Fear_Loop	Attack03_Fox_Grasb_Fear_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164341	322463	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_Fox_Grasb_Hypno_Start	Attack04_Fox_Grasb_Hypno_Loop	Attack04_Fox_Grasb_Hypno_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164599	322464	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack19_Set_FearZone_Start	Attack19_Set_FearZone_Loop1	Attack19_Set_FearZone_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164600	322465	1	0	100;1000;-0.3;	20000	0;0;0;0;	1100		3000	0	2000		0	0	0	0	0	0	0	0	0	1000171446		0	0											Attack20_FearZone_Start	Attack20_FearZone_Loop1	Attack20_FearZone_End	4500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164601	322466	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Fall										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164602	322467	1	0	3;3	99999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164603	322468	1	0	10000	99999	10000	99999		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164604	322469	1	0	322467	500		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164605	322470	1	0	322465	500		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163276	322471	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Claw_Left_Hypnosis										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163277	322472	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Claw_Right_Hypnosis										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163278	322473	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Smash_Hypnosis										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163279	322474	1	0	2	20000	1;66105;245;169;180;255	20000	23438	20000		0		0	0	0	0	0	0	0	0	0	1000171235		0	0											Attack04_Hypnosis_On_Start	Attack04_Hypnosis_On_Loop	Attack04_Hypnosis_On_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163280	322475	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_BiteForward_Hypnosis										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163281	322476	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Hypnosis_Breath_Start	Attack06_Hypnosis_Breath_Loop	Attack06_Hypnosis_Breath_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163282	322477	1	0	2	20000	1;66105;245;169;180;255	20000	23438	20000		0		0	0	0	0	0	0	0	0	0	1000171235		0	0											Attack07_Hypno_Pulling_Start	Attack07_Hypno_Pulling_Loop	Attack07_Hypno_Pulling_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163283	322478	1	0	100;2000;-0.6;1;2;1;20	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000170958		0	0											Attack08_Hypno_ComeHere_Start	Attack08_Hypno_ComeHere_Loop	Attack08_Hypno_ComeHere_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163554	322479	1	0	100;2000;-0.6;1;2;1;20	5000		10000		0		0		0	0	0	0	0	0	0	0	0	1000170958		0	0											Attack07_Hypno_Gas_Pillar_Start	Attack07_Hypno_Gas_Pillar_Loop	Attack07_Hypno_Gas_Pillar_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163558	322480	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Smash_Hypnosis_Fog										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164495	322481	1	0	100;2000;-0.4;1;1;1;15	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000170958		0	0											Attack01_Hypno_Bomb										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164643	322482	1	0	322468	500		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164673	322483	1	0	1;500000000;322485;1;0;0;12	60000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack21_Protect_Start	Attack21_Protect_Loop1	Attack21_Protect_End	60000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164330	322484	1	0	0	0	0;0;0;0;	900		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack21_Protect_Success										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164331	322485	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack21_Protect_Fail_Start	Attack21_Protect_Fail_Loop	Attack21_Protect_Fail_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164332	322486	1	0	322465;Regist	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170264		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164333	322487	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Claw_Left_Hypnosis_Phase										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164334	322488	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Claw_Right_Hypnosis_Phase										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164802	322489	1	0	1	2000		0		0		0		0	0	0	0	0	0	0	0	0	1000171527		11288	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+163551	322490	1	0	100;2000;-0.6;1;9;0;20	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000170958		0	0											Attack08_Hypno_ComeHere_Fast_Start	Attack08_Hypno_ComeHere_Fast_Loop	Attack08_Hypno_ComeHere_Fast_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164496	322501	1	0	2;20;1;322568	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170905		23437	0											Attack03_Field_Hypno_Start	Attack03_Field_Hypno_Loop1	Attack03_Field_Hypno_End	30500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164497	322502	1	0	2;20;1;322568	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170905		23437	0											Attack10_TopLeft_Hypno_Start	Attack10_TopLeft_Hypno_Loop1	Attack10_TopLeft_Hypno_End	30500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164498	322503	1	0	2;20;1;322568	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170905		23437	0											Attack11_TopRight_Hypno_Start	Attack11_TopRight_Hypno_Loop1	Attack11_TopRight_Hypno_End	30500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164499	322504	1	0	2;20;1;322568	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170905		23437	0											Attack12_BotLeft_Hypno_Start	Attack12_BotLeft_Hypno_Loop1	Attack12_BotLeft_Hypno_End	30500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164500	322505	1	0	2;20;1;322568	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170905		23437	0											Attack13_BotRight_Hypno_Start	Attack13_BotRight_Hypno_Loop1	Attack13_BotRight_Hypno_End	30500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164501	322506	1	0	1;20;1;322567	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170801		23436	0											Attack02_Field_Fear_Start	Attack02_Field_Fear_Loop1	Attack02_Field_Fear_End	30500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164502	322507	1	0	1;20;1;322567	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170801		23436	0											Attack06_TopLeft_Fear_Start	Attack06_TopLeft_Fear_Loop1	Attack06_TopLeft_Fear_End	30500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164503	322508	1	0	1;20;1;322567	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170801		23436	0											Attack07_TopRight_Fear_Start	Attack07_TopRight_Fear_Loop1	Attack07_TopRight_Fear_End	30500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164504	322509	1	0	1;20;1;322567	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170801		23436	0											Attack08_BotLeft_Fear_Start	Attack08_BotLeft_Fear_Loop1	Attack08_BotLeft_Fear_End	30500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164505	322510	1	0	1;20;1;322567	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170801		23436	0											Attack09_BotRightt_Fear_Start	Attack09_BotRightt_Fear_Loop1	Attack09_BotRightt_Fear_End	30500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164506	322511	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Remove_Field										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164818	322512	1	0	100;1000;0;1	8000		0		0		0		0	0	0	0	0	0	0	0	0	1000170957		0	0											Attack15_Random_Fear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164819	322513	1	0	3;3;3;322416	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000170958		0	0											Attack16_Random_Hypnosis										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164515	322521	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_FearBall										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164516	322522	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_HypnoBall										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164517	322523	1	0	3;20;5;322528	30000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_FearBomb										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164518	322524	1	0	4;20;5;322529	30000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_HypnoBomb										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164519	322525	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Normal_Start	Attack01_Normal_Loop1	Attack01_Normal_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164520	322526	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Hypno_Start	Attack02_Hypno_Loop1	Attack02_Hypno_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164521	322527	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Fear_Start	Attack03_Fear_Loop1	Attack03_Fear_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164522	322528	1	0	3	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164523	322529	1	0	2	5000	7;5	5000		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164524	322530	1	0	322523	60000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164525	322531	1	0	322524	60000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164687	322541	1	0	0.3	9999999	3208;10488;564;	9999999		0		0		0	0	0	0	0	0	0	0	0	1000170960		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164688	322542	1	0	0.5	9999999	3208;10488;564;	9999999		0		0		0	0	0	0	0	0	0	0	0	1000170960		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164689	322543	1	0	0.7	9999999	3208;10488;564;	9999999		0		0		0	0	0	0	0	0	0	0	0	1000170960		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164690	322544	1	0	1	9999999	3208;10488;564;	9999999		0		0		0	0	0	0	0	0	0	0	0	1000170960		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164720	322545	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack20_LineUp_Start	Attack20_LineUp_Loop1	Attack20_LineUp_End	20000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164721	322546	1	0		2000		0		0		0		0	0	0	0	0	0	0	0	0	1000170583		0	0											Attack01_Activate_Start	Attack01_Activate_Loop1	Attack01_Activate_End	100000000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164725	322547	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Ready										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164755	322548	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack15_MiniGaya_Start	Attack15_MiniGaya_Loop1	Attack15_MiniGaya_End	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164756	322549	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Boom_Set										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164757	322550	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Boom										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164758	322551	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack16_BlowUp_Start	Attack16_BlowUp_Loop1	Attack16_BlowUp_End	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164759	322552	1	0	322553	9999000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164760	322553	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Boom										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164807	322554	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Battle_Camera_Start	Attack00_Battle_Camera_Loop	Attack00_Battle_Camera_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164812	322555	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack21_Nanjang2_Start	Attack21_Nanjang2_Loop1	Attack21_Nanjang_End	20000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164814	322556	1	0		9999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165295	322557	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack18_FallBack										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165379	322558	1	0		1000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_LineFire_Garo										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165380	322559	1	0		1000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_LineFire_Sero										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165381	322560	1	0	322151;322152;322100	1000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164761	322561	1	0	100;1000;0;1	8000		0		0		0		0	0	0	0	0	0	0	0	0	1000170682		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164762	322562	1	0		30000	2	30000		0		0		0	0	0	0	0	0	0	0	0	1000171156		11288	0											Attack01_Claw_Left_Fear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164763	322563	1	0		30000	2	30000		0		0		0	0	0	0	0	0	0	0	0	1000171156		11288	0											Attack01_Claw_Right_Fear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164764	322564	1	0		30000	2	30000		0		0		0	0	0	0	0	0	0	0	0	1000171156		11288	0											Attack03_Smash_Fear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164765	322565	1	0		30000	2	30000		0		0		0	0	0	0	0	0	0	0	0	1000171156		11288	0											Attack02_TailWhip_Left										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164766	322566	1	0		30000	2	30000		0		0		0	0	0	0	0	0	0	0	0	1000171156		11288	0											Attack02_TailWhip_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164805	322567	1	0	-0.1;1;1000	10000	1;66104;68;21;110;255	10000	23439	10000		0		0	0	0	0	0	0	0	0	0	1000170886		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164806	322568	1	0	2	10000	1;66105;245;169;180;255	10000	23438	10000		0		0	0	0	0	0	0	0	0	0	1000170887		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164808	322569	1	0	1;0;1;48	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack23_Frog_Start	Attack23_Frog_Loop1	Attack23_Frog_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164815	322570	1	0	100;1000;0;1	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000170957		11288	0											Attack07_Fear_Ghost_Pillar_Start	Attack07_Fear_Ghost_Pillar_Loop	Attack07_Fear_Ghost_Pillar_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164816	322571	1	0		30000	2	30000		0		0		0	0	0	0	0	0	0	0	0	1000171156		0	0											Attack07_Hunt2_Needle_Start	Attack07_Hunt2_Needle_Loop	Attack07_Hunt2_Needle_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+164817	322572	1	0	100;1000;0;1	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000170957		0	0											Attack18_PanicAttack_Start	Attack18_PanicAttack_Loop1	Attack18_PanicAttack_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165110	322573	1	0	10488;3208;564	999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165348	322574	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Z4Bonus										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165349	322575	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Z4Bonus										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165358	322576	1	0	100;1000;0;1	20000		0		0		0		0	0	0	0	0	0	0	0	0	1000170957		0	0											Attack00_AfterFearZone										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165359	322577	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Groggy_Start	Attack00_Groggy_Loop	Attack00_Groggy_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165363	322578	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack24_Small_Shower_Start	Attack24_Small_Shower_Loop	Attack24_Small_Shower_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165364	322579	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack25_HuntingPhase_Ready										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165365	322580	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack25_HuntingPhase_Start	Attack25_HuntingPhase_Loop1	Attack25_HuntingPhase_End	8500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165376	322581	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack17_Hunting_WillO										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165377	322582	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack26_HuntingPhase2_Ready										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+165378	322583	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack26_HuntingPhase2_Start	Attack26_HuntingPhase2_Loop1	Attack26_HuntingPhase2_End	8500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166247	323001	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		0	0											Attack01_Slash_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166248	323002	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack02_Blow_Karapa_One										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166249	323003	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack03_JumpAttack_Karapa_One										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166250	323004	1	0	1;4;1;323017	90000	-0.3	5000		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack04_PullWep_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166251	323005	1	0	0.95;0.1	0	1	15000	23508	15000		0		0	0	0	0	0	0	0	0	0	1000175673		0	0											Attack04_Frost_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166252	323006	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		0	0											Attack05_SpawnBaby_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166253	323007	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		0	0											Attack06_Chew_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166254	323008	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		0	0											Attack07_DigGround_Start_Karapa	Attack07_DigGround_Loop_Karapa	Attack07_DigGround_End_Karapa	12000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166255	323009	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23501	0											Attack08_SuperIce_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166256	323010	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23501	0											Attack09_SuperWep_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166257	323011	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack10_SuperChew_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166258	323012	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack11_TotemShield_Start_Karapa	Attack11_TotemShield_Loop_Karapa	Attack11_TotemShield_End_Karapa	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167224	323013	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack12_Absorb										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167225	323014	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack13_RolllingPop										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167236	323015	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack02_Blow_Karapa_Two										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167237	323016	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack03_JumpAttack_Karapa_Two										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167238	323017	1	0	0.2	300000	-0.02	300000	323002;323003;323004;323006;323011;323015;323016;323018;323019	300000		3000		0	0	0	0	0	0	0	0	0	1000175399		23513	0																					0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+167268	323018	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack02_Blow_Karapa_Three										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167269	323019	1	0	1;4;1;323017	90000		0		0		0		0	0	0	0	0	0	0	0	0	1000175398		23510	0											Attack03_JumpAttack_Karapa_Three										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166305	323021	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Bite_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166306	323022	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_JumpAttack_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166307	323023	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_DashBite										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166308	323031	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_JumpAttack										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166309	323032	1	0	Jump;Normal_Jump;	30000	-0.3	30000	-0.3	30000		0		0	0	0	0	0	0	0	0	0	1000175909		0	23503											Attack02_Slow										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166320	323041	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Bite										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166321	323042	1	0	80000000;0;3000000;1	20000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	23502											Attack02_Web										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166322	323043	1	0	80000000;0;3000000;1	20000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	23052											Attack03_Web_Multi										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166323	323044	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_Poison										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167287	323045	1	0	30;1;1	5000	0.3	10000	0.3	10000		0		0	0	0	0	0	0	0	0	0	1000119017		0	0											Attack05_Cure										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167288	323046	1	0	323045	9999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167604	323051	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack8_VolNest_Explosion										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167605	323052	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack9_Kairon_Dieskill_Explosion										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167606	323053	1	0	323051	9999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166122	323101	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_IceBolt										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166123	323102	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack08_Blizzard_Start	Attack08_Blizzard_Loop	Attack08_Blizzard_End	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166124	323103	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Upper_Start	Attack03_Upper_Loop	Attack03_Upper_End	7500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166125	323104	1	0		1000000	-0.7	10000	-0.7	10000		0		0	0	0	0	0	0	0	0	0	1000128714		0	0											Attack04_IceWall										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166126	323105	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_IceDrop										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166127	323106	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_IceAge										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166128	323107	1	0	0.5;1	2000		0		0		0		0	0	0	0	0	0	0	0	0	1000111740		3	0											Attack07_Thunder										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166129	323108	1	0	323707;323708;323707;323708;323707;323708;323707;323708	20000	23506	20000	-0.01;1;1000	20000		0		0	0	0	0	0	0	0	0	0	1000175697		0	0											Attack02_Gravity_Start	Attack02_Gravity_Loop	Attack02_Gravity_End	2500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166130	323109	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_LineP_Start	Attack09_LineP_Loop	Attack09_LineP_End	11000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166165	323110	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack10_OneUpper										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166166	323111	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack11_Push										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166182	323112	1	0		10000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack12_AllRush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166218	323113	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack13_Gravity_P1_Start	Attack13_Gravity_P1_Loop	Attack13_Gravity_P1_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166219	323114	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack14_Upper_P1_Start	Attack14_Upper_P1_Loop	Attack14_Upper_P1_End	16000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166220	323115	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack15_IceWall_P1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166221	323116	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack16_IceAge_P1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166222	323117	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack17_Blizzard_P1_Start	Attack17_Blizzard_P1_Loop	Attack17_Blizzard_P1_End	12000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166223	323118	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack18_OneUpper_P1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166295	323119	1	0	-0.01;1	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166303	323120	1	0	100;30000000	14000		0		0		0		0	0	0	0	0	0	0	0	0	0		23484	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166304	323121	1	0	1.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166576	323122	1	0		9990000		0		0		0		0	0	0	0	0	0	0	0	0	0		11191	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166577	323123	1	0	30	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167220	323124	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack19_R4_Razer_Start	Attack19_R4_Razer_Loop	Attack19_R4_Razer_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167221	323125	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack20_R4_Razer2_Start	Attack20_R4_Razer2_Loop	Attack20_R4_Razer2_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167222	323126	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack21_R4_Razer3_Start	Attack21_R4_Razer3_Loop	Attack21_R4_Razer3_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167223	323127	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack22_R4_Razer4_Start	Attack22_R4_Razer4_Loop	Attack22_R4_Razer4_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167239	323128	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack23_DropLeft										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167240	323129	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack24_DropRight										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167241	323130	1	0		1000000	-0.7	10000	-0.7	10000		0		0	0	0	0	0	0	0	0	0	1000128714		0	0											Attack25_OneUpper_Long										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167248	323131	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack26_LineP_Mino_Start	Attack26_LineP_Mino_Loop	Attack26_LineP_Mino_End	11000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167249	323132	1	0	0.5;1	2000		0		0		0		0	0	0	0	0	0	0	0	0	1000111740		3	0											Attack27_Thunder_Ice										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167250	323133	1	0		1000000	-0.7	10000	-0.7	10000		0		0	0	0	0	0	0	0	0	0	1000128714		0	0											Attack28_IceWall_Slow										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167255	323134	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack29_Stun_Start	Attack29_Stun_Loop	Attack29_Stun_End	6000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167267	323135	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack30_LineP_ALL_Start	Attack30_LineP_ALL_Loop	Attack30_LineP_ALL_End	11000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167612	323136	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack31_ArrowDie										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167613	323137	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack32_MarkDie										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166224	323201	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_Gravity_Start	Attack001_Gravity_Loop	Attack001_Gravity_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166225	323202	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack002_Upper_Start	Attack002_Upper_Loop	Attack002_Upper_End	8000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166226	323203	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack003_IceWall										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166227	323204	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack004_IceAge										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166228	323205	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack005_Blizzard_Start	Attack005_Blizzard_Loop	Attack005_Blizzard_End	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166229	323206	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack006_OneUpper										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167251	323207	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack007_OneUpper_Start	Attack007_OneUpper_Loop	Attack007_OneUpper_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167297	323208	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack008_4R_Point_Start	Attack008_4R_Point_Loop	Attack008_4R_Point_End	100000000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167299	323209	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack009_4R_Point2_Start	Attack009_4R_Point2_Loop	Attack009_4R_Point2_End	100000000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167300	323210	1	0	23511	9990000		0		0		0		0	0	0	0	0	0	0	0	0	0		23511	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167301	323211	1	0	23512	9990000		0		0		0		0	0	0	0	0	0	0	0	0	0		23512	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167614	323212	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack012_4R_ArrowClear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167615	323213	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack013_4R_MarkClear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167616	323214	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack014_FrozenNestStart										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167697	323215	1	0	100;10000	16000		0		0		0		0	0	0	0	0	0	0	0	0	1000111755		11361	0											Attack015_Mogul_Gravity										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166310	323251	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_ArmAttack_KarapachoNest										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166311	323252	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack002_ArmSlash_KarapachoNest										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166312	323253	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack003_Sliding_KarapachoNest										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166313	323254	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_Chop_KarapachoNest										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166314	323255	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack002_Cut_KarapachoNest										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166315	323256	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack003_JumpAttack_KarapachoNest										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166316	323257	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack004_Pierce_KarapachoNest										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166317	323258	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_Claw_KarapachNest										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166318	323259	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack002_Bite_KarapachoNest										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166319	323260	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack003_RollingAttack_KarapachoNest										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166296	323301	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_Bash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166297	323302	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack002_Chop										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166298	323303	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack003_BattleRush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166299	323304	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack004_PullStep										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166300	323305	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack005_BigBash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166301	323306	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack006_CutGround_Start	Attack006_CutGround_Loop	Attack006_CutGround_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166302	323307	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack007_ComboAttack										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166324	323308	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack008_SwingRush_Start	Attack008_SwingRush_Loop	Attack008_SwingRush_End	3500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166658	323309	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack009_SoloBomb_Start	Attack009_SoloBomb_Loop	Attack009_SoloBomb_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167246	323310	1	0	1;900000000;323311;1;0;0;20	16000	0	0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack010_2R_LineP_Start	Attack010_2R_LineP_Loop	Attack010_2R_LineP_End	15000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167247	323311	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack011_Stun										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167723	323312	1	0	1;900000000;323311;1;0;0;30	16000	0	0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack012_LineP_Solo_Start	Attack012_LineP_Solo_Loop	Attack012_LineP_Solo_End	15000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166172	323401	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_Bash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166173	323402	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack002_Bomb										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166174	323403	1	0	100;10000	16000		0		0		0		0	0	0	0	0	0	0	0	0	1000111755		11361	0											Attack003_Howl										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166175	323404	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack004_Rush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166176	323405	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack005_Combo										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166177	323406	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack006_Rage										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166178	323407	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack007_Cross										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166179	323408	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack008_CircleCombo										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166180	323409	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack009_JumpAttack										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166181	323410	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack010_HornAttack										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166183	323411	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack011_AllRush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166325	323412	1	0	1;900000000;323413;1;0;0;20	17000	0	0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack012_LineP_Start	Attack012_LineP_Loop	Attack012_LineP_End	15000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166326	323413	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack013_Stun										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166581	323414	1	0		35000	0	0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack014_LineP_Start	Attack014_LineP_Loop	Attack014_LineP_End	30000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166582	323415	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack015_Stun										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166659	323416	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack016_SoloBomb_Start	Attack016_SoloBomb_Loop	Attack016_SoloBomb_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167724	323417	1	0	1;900000000;323413;1;0;0;30	17000	0	0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack017_2R_LineP_Start	Attack017_2R_LineP_Loop	Attack017_2R_LineP_End	15000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166259	323501	1	0	0.95;0.1	0	1	15000		15000	23508	15000		0	0	0	0	0	0	0	0	0	1000175673		23508	0											Attack01_PortionBreak_JumpAttack_Start	Attack01_PortionBreak_JumpAttack_Loop1	Attack01_PortionBreak_JumpAttack_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166260	323502	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Swing_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166261	323503	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_PortionBreak_OneHit_Karapa_End										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166262	323504	1	0	1;0;250000	10000	-0.7	1000		0		0		0	0	0	0	0	0	0	0	0	1000175531		11107	0											Attack10_Portionthrow_One_Karapa_P										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166263	323505	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_Portionthrow_Two_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166264	323506	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Portionthrow_Three_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166265	323507	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_JumpAttack_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166266	323508	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_Portionthrow_All_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166267	323509	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack08_DashCombo_Start_Karapa	Attack08_DashCombo_Loop_Karapa	Attack08_DashCombo_End_Karapa	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166585	323510	1	0	1;1	1000		0		0		0		0	0	0	0	0	0	0	0	0	1000175402		3	0											Attack10_Portionthrow_One_Karapa_I										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166586	323511	1	0	1;0;7000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		2	0											Attack10_Portionthrow_One_Karapa_F										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166587	323512	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack12_Move_Back_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167242	323513	1	0	1;0;7000000	10000	-0.5	10000		0		0		0	0	0	0	0	0	0	0	0	1000175910		11107	0											Attack13_Portionthrow_One_Karapa_P_Last										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167243	323514	1	0	1;1	1000		0		0		0		0	0	0	0	0	0	0	0	0	1000175402		3	0											Attack13_Portionthrow_One_Karapa_I_Last										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167244	323515	1	0	1;0;7000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		2	0											Attack13_Portionthrow_One_Karapa_F_Last										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167252	323516	1	0	1;0;7000000	10000	-0.5	10000		0		0		0	0	0	0	0	0	0	0	0	1000175910		11107	0											Attack14_Portionthrow_One_Karapa_P_Sec										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167253	323517	1	0	1;1	1000		0		0		0		0	0	0	0	0	0	0	0	0	1000175402		3	0											Attack14_Portionthrow_One_Karapa_I_Sec										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167254	323518	1	0	1;0;7000000	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		2	0											Attack14_Portionthrow_One_Karapa_F_Sec										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167265	323519	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack15_Portionthrow_Extra_Good										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167266	323520	1	0		5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack17_Portionthrow_One_Karapa_E2_ADAD										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167607	323521	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack19_Jump_Karapa_F_Start	Attack19_Jump_Karapa_F_Loop	Attack19_Jump_Karapa_F_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167608	323522	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack19_Jump_Karapa_I_Start	Attack19_Jump_Karapa_I_Loop	Attack19_Jump_Karapa_I_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167609	323523	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack19_Jump_Karapa_P_Start	Attack19_Jump_Karapa_P_Loop	Attack19_Jump_Karapa_P_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167610	323524	1	0	10488;3208;564	999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166335	323551	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack1_KarapachoNest_Toxic1_Start	Attack1_KarapachoNest_Toxic1_Loop	Attack1_KarapachoNest_Toxic1_End	900000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166336	323552	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack2_KarapachoNest_Toxic2_Start	Attack2_KarapachoNest_Toxic2_Loop	Attack2_KarapachoNest_Toxic2_End	900000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166337	323553	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack3_KarapachoNest_Toxic3_Start	Attack3_KarapachoNest_Toxic3_Loop	Attack3_KarapachoNest_Toxic3_End	900000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167611	323554	1	0	100;500;1;5;1;15;	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack3_KarapachoNest_Toxic3_Start	Attack3_KarapachoNest_Toxic3_Loop	Attack3_KarapachoNest_Toxic3_End	900000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166420	323561	1	0	-0.25	2000	0.8	500		0		0		0	0	0	0	0	0	0	0	0	1000175532		0	0											Attack01_KarapachoNest_Gate 3_Toxic_First_Start	Attack01_KarapachoNest_Gate 3_Toxic_First_Loop	Attack01_KarapachoNest_Gate 3_Toxic_First_End	900000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166421	323562	1	0	-0.2	2000	0.8	500		0		0		0	0	0	0	0	0	0	0	0	1000175532		0	0											Attack02_KarapachoNest_Gate 3_Toxic_Second_Start	Attack02_KarapachoNest_Gate 3_Toxic_Second_Loop	Attack02_KarapachoNest_Gate 3_Toxic_Second_End	900000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166422	323563	1	0	-0.1	2000	0.8	500		0		0		0	0	0	0	0	0	0	0	0	1000175532		0	0											Attack03_KarapachoNest_Gate 3_Toxic_Third_Start	Attack03_KarapachoNest_Gate 3_Toxic_Third_Loop	Attack03_KarapachoNest_Gate 3_Toxic_Third_End	900000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166661	323564	1	0	-0.05	2000	0.8	500		0		0		0	0	0	0	0	0	0	0	0	1000175532		0	0											Attack04_KarapachoNest_Gate 3_Toxic_Last										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167693	323565	1	0	100;500;1;5;1;15;	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_KarapachoNest_Gate 3_Toxic_Fear										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167694	323566	1	0		3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_KarapachoNest_Gate 3_Toxic_Dummy										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167713	323567	1	0	1;0;7000000	10000		0		3000		0		0	0	0	0	0	0	0	0	0	1000126624		2	0											Attack07_KarapachoNest_Gate 3_F										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167714	323568	1	0	1;1	1000		0		3000		0		0	0	0	0	0	0	0	0	0	1000175402		3	0											Attack07_KarapachoNest_Gate 3_I										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167715	323569	1	0	1;0;7000000	10000	-0.5	10000		3000		0		0	0	0	0	0	0	0	0	0	1000175910		11107	0											Attack07_KarapachoNest_Gate 3_P										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166575	323571	1	0	323707;323708;323707;323708;323707;323708;323707;323708	20000	23506	20000	-0.01;1;1000	20000		8000		0	0	0	0	0	0	0	0	0	1000175697		0	0											Attack01_Trap_Shot										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167219	323572	1	0	0.5	300000	-0.02	300000	323571	300000		0		0	0	0	0	0	0	0	0	0	1000175534		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167258	323573	1	0	1;6;1;323572	90000		4000		0		0		0	0	0	0	0	0	0	0	0	1000175533		0	0											Attack01_Trap_Shot_LookTarget										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166134	323601	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_Bash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166135	323602	1	0	323707;323708;323707;323708;323707;323708;323707;323708	20000	23506	20000	-0.01;1;1000	20000		0		0	0	0	0	0	0	0	0	0	1000175697		0	0											Attack002_Rush_Start	Attack002_Rush_Loop	Attack002_Rush_End	6000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166136	323603	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack003_Dash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166137	323604	1	0	0.95;0.1	0	1	15000	23508	15000		0		0	0	0	0	0	0	0	0	0	1000175673		23508	0											Attack004_SpinStaff										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166138	323605	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack005_GravityBomb										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166139	323606	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack006_Unholyfield										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166140	323607	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack007_FlyShoot_Start	Attack007_FlyShoot_Loop	Attack007_FlyShoot_End	16500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166141	323608	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack008_Laser_Start	Attack008_Laser_Loop	Attack008_Laser_End	20000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166142	323609	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack009_PizzaP_Start	Attack009_PizzaP_Loop	Attack009_PizzaP_End	20000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166143	323610	1	0	0;0;0;21411	35000		0		0		0		0	0	0	0	0	0	0	0	0	1000111750		0	0											Attack010_LineP_Start	Attack010_LineP_Loop	Attack010_LineP_End	35000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166144	323611	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack011_PhaseChange										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166155	323612	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack012_Bite_Start	Attack012_Bite_Loop	Attack012_Bite_End	16500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166167	323613	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack013_MoveLaser_Start	Attack013_MoveLaser_Loop	Attack013_MoveLaser_End	16500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166168	323614	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack014_Rage										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166327	323615	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack015_Teleport_Start	Attack015_Teleport_Loop	Attack015_Teleport_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166328	323616	1	0	1;500000000;323618;1;0;0;5	15000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack016_SummonMon1_Start	Attack016_SummonMon1_Loop	Attack016_SummonMon1_End	14000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166329	323617	1	0	1;500000000;323618;1;0;0;5	15000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack017_SummonMon2_Start	Attack017_SummonMon2_Loop	Attack017_SummonMon2_End	14000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166330	323618	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack018_SummonFail										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166583	323619	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack019_Summon_Broo										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166584	323620	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack020_Summon_Succubus										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166648	323621	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack021_Summon_Broo_1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166649	323622	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack022_Summon_Broo_2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166650	323623	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack023_Summon_Broo_3										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166651	323624	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack024_Summon_Broo_4										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167270	323625	1	0	0.5	30000	0.5	30000		0		0		0	0	0	0	0	0	0	0	0	1000174737		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167617	323626	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack025_LineP_Stun_Start	Attack025_LineP_Stun_Loop	Attack025_LineP_Stun_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167618	323627	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack026_Mogul_Start	Attack026_Mogul_Loop	Attack026_Mogul_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167698	323628	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack027_Bash_P2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167699	323629	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack028_Dash_P2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167700	323630	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack029_GravityBomb_P2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167701	323631	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack030_FlyShoot_P2_Start	Attack030_FlyShoot_P2_Loop	Attack030_FlyShoot_P2_End	19000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167702	323632	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack031_Bite_P2_Start	Attack031_Bite_P2_Loop	Attack031_Bite_P2_End	16500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166331	323701	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_Slash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166332	323702	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack002_Boomerang										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166333	323703	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack003_MagicActivate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166334	323704	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack004_Bomb										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166423	323705	1	0	2	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166424	323706	1	0		5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166425	323707	1	0	2	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166426	323708	1	0		2000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166578	323709	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166579	323710	1	0	0	9999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166580	323711	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Debuff_Karapa										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166660	323712	1	0	2	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000174601		23507;8	0											Attack005_TeamReverse										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167298	323713	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_StandHeal										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166184	323800	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Bash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166185	323801	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Scratchcombo										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166186	323802	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Skinstrike_Start	Attack03_Skinstrike_Loop	Attack03_Skinstrike_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166187	323803	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_Cannon_Start	Attack04_Cannon_Loop	Attack04_Cannon_End	1000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166188	323804	1	0	-0.9;-0.9;0;1	15000	-0.03;1;1000	15000		0		0		0	0	0	0	0	0	0	0	0	1000173024		23483	0											Attack05_Stomp_Start	Attack05_Stomp_Loop	Attack05_Stomp_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166189	323805	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Windmill_Start	Attack06_Windmill_Loop	Attack06_Windmill_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166190	323806	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_IceCannon_Start	Attack07_IceCannon_Loop	Attack07_IceCannon_End	7900							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166209	323807	1	0	2000;322643;322642	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000173047		23482	0											Attack08_IceCannon2_Start	Attack08_IceCannon2_Loop	Attack08_IceCannon2_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168943	323851	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		23482	0											Attack08_IceCannon2_Start	Attack08_IceCannon2_Loop	Attack08_IceCannon2_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166230	323901	1	0	-0.01	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000173387		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166231	323902	1	0	-0.03	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000173388		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166232	323903	1	0	-0.05	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000173389		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166233	323904	1	0	-0.07	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000173390		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166234	323905	1	0	-0.1	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000173391		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166235	323906	1	0	-0.15	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000173392		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166236	323907	1	0	-0.2	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000173393		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166237	323908	1	0	-0.25	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000173394		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166238	323909	1	0	-0.3	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000173395		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166239	323910	1	0	-0.4	50000		0		0		0		0	0	0	0	0	0	0	0	0	1000173396		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166240	323911	1	0	323901;323902;323903;323904;323904;323905;323906;323907;323908;323909;323910;	90000	323911	90000	1;61026;200;70;70;500	90000		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Aura_1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166241	323912	1	0	323901;323902;323903;323904;323904;323905;323906;323907;323908;323909;323910;323911;	40000		0		0		0		0	0	0	0	0	0	0	0	0	1000173386		0	0											Attack01_Aura_2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166268	323913	1	0		2000	-0.1;1	0	323913	2000	1.1	2000	0.00002;-1;0	2000	0	0	0	0	0	0	0	0	1000173557		0	0											GustDraon_2R_TornadoWalll_Start	GustDraon_2R_TornadoWalll_Loop	GustDraon_2R_TornadoWalll_End	3600000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166269	323951	1	0	323955;323956;323957;323958;323959;323960	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Punch_Right_Red_Start_Direct	Attack01_Punch_Right_Red_End1	Stand	2166							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166270	323952	1	0	323961;323962;323963;323964;323965;323966	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Punch_Right_Red_Start_Direct	Attack01_Punch_Right_Red_End1	Stand	2166							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166271	323953	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Punch_Right_Red_Start_Direct_Long	Attack01_Punch_Right_Red_End2	Stand	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166272	323954	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Punch_Right_Red_Start_Direct	Attack01_Punch_Right_Red_End1	Stand	2166							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166273	323955	1	0	1;0;1000	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166274	323956	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166275	323957	1	0	-0.3;-0.3;0	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111734		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166276	323958	1	0	1;0;1000	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000126625		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166277	323959	1	0	100000	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111818		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166278	323960	1	0	-0.3	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000173709		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166279	323961	1	0	1;0;1000	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166280	323962	1	0	1;-0.5	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166281	323963	1	0	-0.3;-0.3;0	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111734		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166282	323964	1	0	1;0;1000	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000126625		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166283	323965	1	0	100000	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000111818		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+166284	323966	1	0	-0.3	30000		0		0		0		0	0	0	0	0	0	0	0	0	1000173709		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167736	324351	1	0	1;4;1;324380	45000		0		0		0		0	0	0	0	0	0	0	0	0	1000176925		23555	0											Attack01_Swipe										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167737	324352	1	0	1;4;1;324380	45000		0		0		0		0	0	0	0	0	0	0	0	0	1000176925		23555	0											Attack01_Swipe_powerup										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167738	324353	1	0	1;1	10000		1000		0		0		0	0	0	0	0	0	0	0	0	1000111740		3	0											Attack02_Freeze										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167739	324354	1	0	1;4;1;324380	45000		0		0		0		0	0	0	0	0	0	0	0	0	1000176925		23555	0											Attack03_Combo										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167740	324355	1	0	-0.04	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000176926		0	0											Attack03_Combo_powerup										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167741	324356	1	0	23538	45000	20;0	0	Jump;Normal_Jump;	45000	-0.5	45000	-0.5	45000	0	0	0	0	0	0	0	0	1000176927		0	0											Attack04_Stomp										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167742	324357	1	0	23538	45000	20;0	0	Jump;Normal_Jump;	45000	-0.5	45000	-0.5	45000	0	0	0	0	0	0	0	0	1000176927		0	0											Attack04_Stomp_powerup										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167783	324358	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_SummonHound										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167809	324359	1	0	324384;1	60000	23539	60000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Hunt_Start	Attack06_Hunt_Loop	Attack06_Hunt_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168490	324360	1	0	-0.04	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000176926		0	0											Attack07_SuperSwipe										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168491	324361	1	0	-0.04	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000176926		0	0											Attack08_SuperSwipeCombo										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168564	324362	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_IceCross1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168565	324363	1	0	1;1	3000		1000		0		0		0	0	0	0	0	0	0	0	0	1000111740		3	0											Attack10_FrenzyStrike										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168566	324364	1	0		6000000	23539	60000000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack11_Hunt50_Start	Attack11_Hunt50_Loop	Attack11_Hunt50_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168567	324365	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack12_LineP_Start	Attack12_LineP_Loop	Attack12_LineP_End	20000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168573	324366	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_IceCross2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168574	324367	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_IceCross3										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168575	324368	1	0	1;4;1;324380	45000		0		0		0		0	0	0	0	0	0	0	0	0	1000176925		23555	0											Attack03_Combo_2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168576	324369	1	0	-0.04	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000176926		0	0											Attack03_Combo_powerup_2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168577	324370	1	0	-0.04	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000176926		0	0											Attack03_Combo_powerup_3										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169586	324371	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack13_BackSwipe										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169587	324372	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack14_FrostHowl_Start	Attack14_FrostHowl_Loop	Attack14_FrostHowl_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256552	324373	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Summon_On										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260153	324374	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack00_Dash_Animation										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167782	324380	1	0	-0.03;1;1000	15000	324351;324352;324354;324368	15000		15000		0		0	0	0	0	0	0	0	0	0	1000176929		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167808	324381	1	0	324384;1	60000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167813	324382	1	0	30;1;1	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168568	324383	1	0		8000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168569	324384	1	0		500		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168570	324385	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168571	324386	1	0	20;0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167748	324401	1	0	1;4;1;324380	45000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_JumpBite										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167749	324402	1	0	1;4;1;324380	45000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_DashBite										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167750	324403	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_FreezingAura_Start	Attack03_FreezingAura_Loop	Attack03_FreezingAura_End	15000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167751	324404	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_Frozen										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168781	324421	1	0	324365;324422	500		0		0		0		0	0	0	0	0	0	0	0	0	1000111745		0	0											Attack01_ProtectZone										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168782	324422	1	0	1;1	2000		1000		0		0		0	0	0	0	0	0	0	0	0	1000111740		3	0											Attack02_IcicleBlizzard										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+252912	324423	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_DoubleBite										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+252913	324424	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_HeadButt										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+252914	324425	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_MissionSuccess										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+252915	324426	1	0		500		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_PlayDogZone										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+252917	324427	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_TimeOver										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167752	324451	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_Punch_Left										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167753	324452	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack002_DownPunch_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167754	324453	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack003_Bubi_Left										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167755	324454	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack004_SpinKick_Left										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167756	324455	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack005_Punch_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167757	324456	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack006_Bash_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167758	324457	1	0	1;1	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000111740		3	0											Attack007_Spore										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167759	324458	1	0	1;1	10000	0.75	3000		0		0		0	0	0	0	0	0	0	0	0	1000111740		3	0											Attack008_Breath_LV1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167760	324459	1	0	23538	45000	20;0	0	Jump;Normal_Jump;	45000	-0.5	45000	-0.5	45000	0	0	0	0	0	0	0	0	1000176927		0	0											Attack009_Breath_LV2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167761	324460	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack010_HipAttack										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167762	324461	1	0		900	0;0;0;21411	7000		10000		0		0	0	0	0	0	0	0	0	0	1000111750		0	0											Attack011_Crush_Start	Attack011_Crush_Loop	Attack011_Crush_End2	3500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167763	324462	1	0	324531;324532;324533;324534;324535	10000		900		0		0		0	0	0	0	0	0	0	0	0	1000178200		0	0											Attack012_ThrowingStone										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167764	324463	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack013_Burrow_Start	Attack013_Burrow_Loop	Attack013_Burrow_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167765	324464	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack014_Combo1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167766	324465	1	0	0	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack015_Combo2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167767	324466	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack016_Combo3										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167768	324467	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack017_RollingRush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167769	324468	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack018_Rush_Start	Attack018_Rush_Loop1	Attack018_Rush_End1	3498							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167770	324469	1	0		500		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack019_Rush_Start	Attack019_Rush_Loop1	Attack019_Rush_End2	3498							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167771	324470	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack020_HandStamp_wave										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167772	324471	1	0		500		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack021_BigJump_Start	Attack021_BigJump_Loop1	Attack021_BigJump_End1	4500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167773	324472	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack022_HandStamp_Triple										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167774	324473	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack023_Nanta_Start	Attack023_Nanta_Loop1	Attack023_Nanta_End	6000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167775	324474	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack024_Roar_Start	Attack024_Roar_Loop1	Attack024_Roar_End	6000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167776	324475	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack025_PowerPunch_Start	Attack025_PowerPunch_Loop1	Attack025_PowerPunch_End	6000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168536	324476	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack026_RollingRush_2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168537	324477	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack027_Getup										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168899	324478	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack028_Rage_Start	Attack028_Rage_Loop1	Attack028_Rage_End1	3500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168900	324479	1	0	0;0;0;21411	7000		0		0		0		0	0	0	0	0	0	0	0	0	1000111750		0	0											Attack029_Berserke_Start	Attack029_Berserke_Loop1	Attack029_Berserke_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168945	324480	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack030_HandStamp_2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168946	324481	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack031_JumpRush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169136	324482	1	0	23536	20000	1;0.6;0;400;0;1;1	20000		0		0		0	0	0	0	0	0	0	0	0	1000177661		0	0											Attack032_Cold										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169139	324483	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack033_HandStamp_short										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169140	324484	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack034_HandStamp_long										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169588	324485	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack035_BigJump_Start	Attack035_BigJump_Loop1	Attack035_BigJump_End2	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169589	324486	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack036_Turn										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169597	324487	1	0	1;1	10000	0.75	3000	-0.05;1	0		0		0	0	0	0	0	0	0	0	0	1000111740		3	0											Attack037_Breath_LV3_Start	Attack037_Breath_LV3_Loop1	Attack037_Breath_LV3_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169614	324488	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack038_Chase_Start	Attack038_Chase_Loop1	Attack038_Chase_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169618	324489	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack039_Punch_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169619	324490	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack040_DanDan_Start	Attack040_DanDan_Loop1	Attack040_DanDan_End	6000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169620	324491	1	0	0;0;0;21411	7000		0		0		0		0	0	0	0	0	0	0	0	0	1000111750		0	0											Attack041_Berserke2_Start	Attack041_Berserke2_Loop1	Attack041_Berserke2_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169621	324492	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack042_BerserkeMini_Start	Attack042_BerserkeMini_Loop1	Attack042_BerserkeMini_End	20000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169622	324493	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack043_BurrowMini_Start	Attack043_BurrowMini_Loop1	Attack043_BurrowMini_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170070	324494	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack044_Stun_Start	Attack044_Stun_Loop1	Attack044_Stun_End	6000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167777	324521	1	0	324531;324532;324533;324534;324535	10000		900		0		0		0	0	0	0	0	0	0	0	0	1000178200		0	0											Attack001_FallStone										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167784	324522	1	0	324531;324532;324533;324534;324535	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000178200		0	0											Attack002_FallStone2_Start	Attack002_FallStone2_Loop1	Attack002_FallStone2_End	100000 							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167814	324523	1	0	324531;324532;324533;324534;324535	10000		900		0		0		0	0	0	0	0	0	0	0	0	1000178200		0	0											Attack003_FallStone3_LineP_Start	Attack003_FallStone3_LineP_Loop1	Attack003_FallStone3_LineP_End	26000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167815	324524	1	0	324531;324532;324533;324534;324535	10000		900		0		0		0	0	0	0	0	0	0	0	0	1000178200		0	0											Attack004_FallStone4										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167816	324525	1	0		1200000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167817	324526	1	0	324474	1500		0		0		0		0	0	0	0	0	0	0	0	0	1000111745		0	0											Attack_Protect_Start	Attack_Protect_Loop	Attack_Protect_End	12000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167822	324527	1	0	324531;324532;324533;324534;324535	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000178200		0	0											Attack005_FallStone_B										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167823	324528	1	0	324531;324532;324533;324534;324535	10000		900		0		0		0	0	0	0	0	0	0	0	0	1000178200		0	0											Attack006_FallStone_C										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167824	324529	1	0	324531;324532;324533;324534;324535	10000		900		0		0		0	0	0	0	0	0	0	0	0	1000178200		0	0											Attack007_FallStone_D										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167825	324530	1	0	324531;324532;324533;324534;324535	10000		900		0		0		0	0	0	0	0	0	0	0	0	1000178200		0	0											Attack008_DropRock1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167847	324531	1	0	-0.9	2000	-0.9	2000	0.8	2000		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167848	324532	1	0	-0.7	2000	-0.7	2000	0.7	2000		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167849	324533	1	0	-0.5	2000	-0.5	2000	0.6	2000		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167850	324534	1	0	-0.3	2000	-0.3	2000	0.5	2000		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167851	324535	1	0	-0.1	2000	-0.1	2000	0.4	2000		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167852	324536	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack009_Shockwave										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167853	324537	1	0		0		6500		0		0		0	0	0	0	0	0	0	0	0	1000178293		0	0											Attack010_LineP_P										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168941	324538	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack011_RageStone_Start	Attack011_RageStone_Loop1	Attack011_RageStone_End	12000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169041	324539	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack012_Gravity_LineP										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169590	324540	1	0	324459;324474;324487	1300	324459;324474;324487	1300		800		800	23568	1300	0	0	0	0	0	0	0	0	1000178417		0	0											Attack_SummonProtect_Start	Attack_SummonProtect_Loop	Attack_SummonProtect_End	50000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170061	324541	1	0	324459;324474;324487	1300	324459;324474;324487	1300		800		800	23567	1300	0	0	0	0	0	0	0	0	1000178417		0	0											Attack_SummonProtect2_Start	Attack_SummonProtect2_Loop	Attack_SummonProtect2_End	50000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170097	324542	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack013_RockReady_Start	Attack013_RockReady_Loop1	Attack013_RockReady_End	50000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170105	324543	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack014_FirstSummonRock										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170106	324544	1	0	324459;324474;324487	1300	324459;324474;324487	1300		800		800	23568	1300	0	0	0	0	0	0	0	0	1000178417		0	0											Attack_SZBreak_Start	Attack_SZBreak_Loop1	Attack_SZBreak_End	600000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170107	324545	1	0	324459;324474;324487	1300	324459;324474;324487	1300		800		800	23567	1300	0	0	0	0	0	0	0	0	1000178417		0	0											Attack_SZBreak2_Start	Attack_SZBreak2_Loop1	Attack_SZBreak2_End	600000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256549	324546	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack015_mission_Start	Attack015_mission_Loop1	Attack015_mission_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260190	324547	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack016_RockSummonLineP_Start	Attack016_RockSummonLineP_Loop1	Attack016_RockSummonLineP_End	600000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260191	324548	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack017_RockSummonReal										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167309	324551	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_ThunderSmash										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167601	324552	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_LightningAround										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167602	324553	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_ThunderDash_Start	Attack03_ThunderDash_End									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167695	324554	1	0	1;-0.5	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		0	0											Attack04_HolyBolt_Start	Attack04_HolyBolt_Loop	Attack04_HolyBolt_End	6000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167696	324555	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	1000112965		0	0											Attack05_Detonation_Start	Attack05_Detonation_Loop	Attack05_Detonation_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167703	324556	1	0	23538	45000	20;0	0	Jump;Normal_Jump;	45000	-0.5	45000	-0.5	45000	0	0	0	0	0	0	0	0	1000176927		0	0											Attack06_SmashOff_Start	Attack06_SmashOff_Loop	Attack06_SmashOff_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167704	324557	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_CallingThunder										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167705	324558	1	0		2000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack08_ShieldBackstep_Start	Attack08_ShieldBackstep_Loop	Attack08_ShieldBackstep_End	2500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167706	324559	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_SummonChainRelic										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167717	324560	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack10_JudgementThunder_Start	Attack10_JudgementThunder_Loop	Attack10_JudgementThunder_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167718	324561	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Action00_WaitingBattle_Start	Action00_WaitingBattle_Loop	Action00_WaitingBattle_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167721	324562	1	0		3000		0		0		0		0	0	0	0	0	0	0	0	0	1000179013		0	0											Attack11_Flash_Start	Attack11_Flash_Loop	Attack11_Flash_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167722	324563	1	0	1;-0.5	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		0	0											Attack12_ElecStump_Start	Attack12_ElecStump_Loop	Attack12_ElecStump_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167743	324564	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack13_ShieldCrushCombo_Start	Attack13_ShieldCrushCombo_Loop	Attack13_ShieldCrushCombo_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167744	324565	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack14_JudgementThunder_Fail	Attack14_JudgementThunder_Fail_Loop	Attack14_JudgementThunder_Fail_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167745	324566	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack15_SmallDeto_Start	Attack15_SmallDeto_Loop	Attack15_SmallDeto_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167746	324567	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack16_JudgementThunder_Success										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167747	324568	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack17_FrostCheck										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167778	324569	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack18_ShieldPush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167779	324570	1	0	23536	30000	1;0.9;0;400;0;1;1	30000		0		0		0	0	0	0	0	0	0	0	0	1000178774		0	0											Attack19_SmallStump										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167818	324571	1	0	23536	30000	1;0.6;0;400;0;1;1	30000		0		0		0	0	0	0	0	0	0	0	0	1000178774		0	0											Attack20_SmallStump_Circle										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168489	324572	1	0	0;0;0;21411	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000111750		0	0											Attack21_Assult_Start	Attack21_Assult_Loop	Attack21_Assult_End	2667							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169019	324573	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_ThunderSmashEX										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169020	324574	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_ThunderSmashEX_Start	Attack01_ThunderSmashEX_Loop	Attack01_ThunderSmashEX_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169187	324575	1	0	1;1	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_LightningAroundEX										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169577	324576	1	0	1;-0.5	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		0	0											Attack02_LightningAroundEX2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169578	324577	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack22_Warp										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169591	324578	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack23_ShieldPush										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169617	324579	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack24_Doom										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169616	324636	1	0	23536	20000	1;0.6;0;400;0;1;1	20000		0		0		0	0	0	0	0	0	0	0	0	1000177661		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169615	324637	1	0		1000		0		0		0		0	0	0	0	0	0	0	0	0	0		23536	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169606	324638	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Cure_effect										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169179	324639	1	0	3;1;1	3000	324644;324645	3000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_CureS										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169180	324640	1	0	324639	999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167812	324641	1	0	3;1;1	3000	324644;324645	3000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Cure										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167780	324642	1	0	324641	999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167781	324643	1	0	0	2000	-1E-05	5000		6000		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Stigma										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167725	324644	1	0	-0.5;-0.5;0;1	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000177371		0	0											Attack00_3R_IceZoneIdle_Start	Attack00_3R_IceZoneIdle_Loop	Attack00_3R_IceZoneIdle_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167597	324645	1	0	0	600000		30000	23537	600000		600000		600000	0	0	0	0	0	0	0	0	1000178368		3	0											Attack00_3R_HideMb_IceZone_Start	Attack00_3R_HideMb_IceZone_Loop	Attack00_3R_HideMb_IceZone_End	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167655	324646	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Summon_On										0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+167656	324647	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Stand										0	0	0.0	0.0	0	0	0.0	true	0		0		0	0.0	0.0
+167711	324648	1	0	1;-0.5	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		0	0											Attack01_Chain_Start	Attack01_Chain_Loop	Attack01_Chain_End	15000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167712	324649	1	0		0	1;500000000;324641;1;0;80	10000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Explode_Start	Attack01_Explode_Loop	Attack01_Explode_End	10000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167716	324650	1	0	324650	50000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167826	324651	1	0	0;0;1;23551	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_FistCenter01										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167827	324652	1	0	0;0;1;23551	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_FistCenter02										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167828	324653	1	0	0;0;1;23551	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_FistCenter03										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167829	324654	1	0	0;0;1;23552	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_CenterPuchCombo01										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167830	324655	1	0	0;0;1;23553	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_CenterPuchCombo02										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167831	324656	1	0	0;0;1;23554	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_CenterPuchCombo03										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167832	324657	1	0		30000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_Mirror_Start	Attack07_Mirror_End									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167833	324658	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack08_Bress										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167834	324659	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_Scream_Start	Attack09_Scream_Loop	Attack09_Scream_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167835	324660	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack10_ShockWave										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167836	324661	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack11_LeftStomp_Start	Attack11_LeftStomp_Loop	Attack11_LeftStomp_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167837	324662	1	0	0;0;1;23551	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack12_PalmCenter01										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167838	324663	1	0	0;0;1;23551	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack13_PalmCenter02										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167839	324664	1	0	0;0;1;23551	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack14_PalmCenter03										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167840	324665	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack15_LeftStomp_Start	Attack15_LeftStomp_Loop	Attack15_LeftStomp_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167841	324666	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack16_Left_Center01										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167842	324667	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack17_Left_Center02										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167843	324668	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack18_EnergyBomb_Start	Attack18_EnergyBomb_Loop	Attack18_EnergyBomb_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169623	324670	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Fist_Center										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169624	324671	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Fist_Left										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169625	324672	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Fist_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169626	324673	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Palm_Center										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169627	324674	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Palm_Left										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169628	324675	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Palm_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169629	324676	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Palm_CLR										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169630	324677	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Palm_CRL										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169631	324678	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Palm_LCR										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169632	324679	1	0		1500		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_Mirror_Start	Attack04_Mirror_Loop	Attack04_Mirror_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169633	324680	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Bress										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169634	324681	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_LeftStomp_Start	Attack06_LeftStomp_Loop	Attack06_LeftStomp_End	2500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169635	324682	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_LeftSwing_CS										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+169636	324683	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_LeftSwing_SC										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170072	324684	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack08_LeftSwing_CS_P2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170073	324685	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack08_LeftSwing_SC_P2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170104	324686	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack09_Bress_Start	Attack09_Bress_Loop	Attack09_Bress_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256540	324687	1	0	-0.02	6000	1;66103;000;204;255;1000	12000		0		0		0	0	0	0	0	0	0	0	0	1000178654		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256541	324688	1	0	-0.04	6000	1;66103;000;102;255;1000	12000		0		0		0	0	0	0	0	0	0	0	0	1000178655		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256542	324689	1	0	-0.06	6000	1;66103;000;51;204;1000	12000		0		0		0	0	0	0	0	0	0	0	0	1000178656		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256543	324690	1	0	-0.08	6000	1;66103;000;051;102;1000	12000		0		0		0	0	0	0	0	0	0	0	0	1000178657		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256544	324691	1	0	-0.1	600000	1;66103;051;000;153;1000	100000		0		0		0	0	0	0	0	0	0	0	0	1000178658		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256545	324692	1	0	324687;324688;324689;324690;324691;324692;324693;	90000	324692	90000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Mirror_Curse										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256546	324693	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260184	324694	1	0	23536	30000	1;0.9;0;400;0;1;1	30000		0		0		0	0	0	0	0	0	0	0	0	1000178774		0	0											Attack01_Mirror_IceRain										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260173	324706	1	0	23569	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260174	324707	1	0	23570	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260175	324708	1	0	23571	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256536	324709	1	0	0;0;0;21411	5000		0		0		0		0	0	0	0	0	0	0	0	0	1000111750		0	0											Attack04_CopyBress										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+248288	324710	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_HommingShoot_Long										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170098	324711	1	0	23551	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170099	324712	1	0	23557	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170100	324713	1	0	23558	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170101	324714	1	0	23552	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170102	324715	1	0	23553	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170103	324716	1	0	23554	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170083	324717	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											BossAttack01_Center										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170084	324718	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											BossAttack02_Left										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170085	324719	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											BossAttack03_Right										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170086	324720	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											BossAttack04_LCR										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170087	324721	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											BossAttack05_CLR										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170088	324722	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											BossAttack06_CRL										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170089	324723	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											MirrorAttack07_HalfL										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170090	324724	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											MirrorAttack08_HalfR										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170091	324725	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											MirrorAttack09_HalfF										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170092	324726	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											MirrorAttack10_HalfB										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170093	324727	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											MirrorAttack11_Q1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170094	324728	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											MirrorAttack12_Q2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170095	324729	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											MirrorAttack13_Q3										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170096	324730	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											MirrorAttack14_Q4										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170074	324731	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Half_L										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170075	324732	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Half_R										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170076	324733	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_Half_B										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170077	324734	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_Half_F										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170078	324735	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack05_Quarter1										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170079	324736	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack06_Quarter2										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170080	324737	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack07_Quarter3										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170081	324738	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack08_Quarter4										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170082	324739	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack03_HommingShoot										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170062	324740	1	0	23559	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170063	324741	1	0	23560	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170064	324742	1	0	23561	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170065	324743	1	0	23562	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170066	324744	1	0	23563	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170067	324745	1	0	23564	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170068	324746	1	0	23565	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+170069	324747	1	0	23566	3000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168944	324748	1	0		29000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168942	324749	1	0	-0.5;-0.5;0;1	5000	-0.03;1;1000	3000		0		0		0	0	0	0	0	0	0	0	0	1000176191		0	0											Attack01_CopyCold_Start	Attack01_CopyCold_Loop	Attack01_CopyCold_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+168780	324750	1	0	-0.5;-0.5;0;1	5000	-0.03;1;1000	3000		0		0		0	0	0	0	0	0	0	0	0	1000176191		0	0											Attack00_4R_IceZoneIdle_Start	Attack00_4R_IceZoneIdle_Loop	Attack00_4R_IceZoneIdle_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256531	324828	1	0	324833	20000	23359	20000		0		0		0	0	0	0	0	0	0	0	0	1000178672		0	0											Attack01_MirroGood										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256532	324829	1	0	324828	999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256533	324833	1	0	0	2000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_MirrorBad										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256535	324834	1	0	324833	999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+256534	324835	1	0		15000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167803	324821	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack04_SummonNeo_Blitz										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167804	324822	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack004_StretchOut_Blitz										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167805	324823	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack14_Stomp_Named_Start_Blitz										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167806	324824	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack3_Spell2_Thunder_Blitz										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167807	324825	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack3_LineDrive_Remake_Blitz										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167810	324826	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack7_EarthQuake_DesertDragon_Start_Blitz	Attack7_EarthQuake_DesertDragon_Loop_Blitz	Attack7_EarthQuake_DesertDragon_End_Blitz	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+167811	324827	1	0	0;55454;50;130;20;150	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+252916	324840	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack_Fog										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+252918	324841	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack_Finish_Round										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+252919	324842	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack_Entrance_Fog										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+252920	424843	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack_Entrance_Fog_Finish										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+252921	424844	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack_Landing_Impact										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260168	324845	1	0	1;-0.5	15000		0		0		0		0	0	0	0	0	0	0	0	0	1000111737		402	0											Attack1_Lich_Soul										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260169	324846	1	0	-0.3	4000	-0.3	4000	0.5	4000		0		0	0	0	0	0	0	0	0	0	1000175549		0	0											Attack02_Boomerang										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260170	324847	1	0	1;0.5;0;1	10000		0		0		0		0	0	0	0	0	0	0	0	0	1000126624		0	0											Attack03_MeteorStrike_Burn										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260187	324849	1	0	23651	2000	100	3000		0		0		0	0	0	0	0	0	0	0	0	0		23651	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260240	324850	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack_Abyss_Warp										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260255	324851	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack_FloodBossSummon										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260257	324852	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack_JumpWarp										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260353	324853	1	0	0	5000		0		0		0		0	0	0	0	0	0	0	0	0	1012470		106	0											Attack03_BeastHowl_Start	Attack03_BeastHowl_Loop	Attack03_BeastHowl_End	1000	0	0	0	0	0	0	0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260354	324854	1	0	0.2	20000	0.2	20000		0		0		0	0	0	0	0	0	0	0	0	1000143376		12	0											Attack6_Berserk										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260355	324855	1	0	0.2	20000	0.2	20000		0		0		0	0	0	0	0	0	0	0	0	1000143376		11104	0											Attack15_Berserke_Start_Nightmare	Attack15_Berserke_Loop_Nightmare	Attack15_Berserke_End_Nightmare	900							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260368	324856	1	0	10488;3208;564	999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0

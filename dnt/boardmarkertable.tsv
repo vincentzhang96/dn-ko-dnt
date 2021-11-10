@@ -1,0 +1,11 @@
+ROWID	_Type|INTEGER	_MobName|INTEGER	_Grade|INTEGER	_HP|INTEGER	_AttackValue|INTEGER	_Image|TEXT	_GradeIcon|TEXT
+1	1	6331	0	1000	30	0	0
+2	0	1013925	1	550	23	M_GoblinSon04.dds	UIT_Event_BoardCondition.dds
+3	0	1013923	1	550	23	M_OrcOneeye.dds	UIT_Event_BoardCondition.dds
+4	0	1013930	1	550	23	M_GhoulBlue.dds	UIT_Event_BoardCondition.dds
+5	0	1013922	1	550	23	M_DarkelfRed.dds	UIT_Event_BoardCondition.dds
+6	0	1013931	2	850	35	M_MinotaurosRed.dds	UIT_Event_BoardCondition_A.dds
+7	0	1013932	2	850	35	M_Cyclops_White.dds	UIT_Event_BoardCondition_A.dds
+8	0	1013924	2	850	35	M_OrcRed.dds	UIT_Event_BoardCondition_A.dds
+9	0	1013928	2	850	35	M_OgreIgnacio.dds	UIT_Event_BoardCondition_A.dds
+10	0	1013935	3	1200	50	M_AssassinIllusion.dds	UIT_Event_BoardCondition_B.dds

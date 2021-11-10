@@ -1,0 +1,2 @@
+ROWID	_WeekLimit|INTEGER	_DayLimit|INTEGER	_ReplaceCharmItemTableID|INTEGER	_ReplaceProb|INTEGER	_ReplaceCharmNum|INTEGER
+1	14	2	100000303	100	153345

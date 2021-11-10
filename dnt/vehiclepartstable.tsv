@@ -1,0 +1,521 @@
+ROWID	_VehicleClassID|TEXT	_VehiclePartsType|INTEGER	_SkinName|TEXT	_AniName|TEXT	_ActName|TEXT	_SkinColor|INTEGER	_SelectMesh|INTEGER	_SetItemID|INTEGER	_Grade_SetItem|BOOLEAN	_SetItemTextID|INTEGER
+1126432784	101	0	Pet_Hound01_Nursehelmet.skn			0	0	0	false	0
+1126432800	101	1	Pet_Hound01_RibbonBack.skn			0	0	0	false	0
+1126432816	101	1	Pet_Item_Bottle.skn			0	0	872415279	true	1000038579
+1126432832	101	0	Pet_Item_Cat.skn			0	0	872415279	true	1000038579
+1126432848	101	1	Pet_Item_Fish.skn			0	0	872415279	true	1000038579
+1126432864	101	0	Pet_Item_Frog.skn			0	0	872415279	true	1000038579
+1126432880	101	0	Pet_Item_Hat.skn			0	0	872415279	true	1000038579
+1126432896	101	1	Pet_Item_meat.skn			0	0	872415279	true	1000038579
+1073741985	101	0	Pet_Hound01_HolloweennnHelmet_B.skn			0	0	0	false	0
+1073742460	101	1	Pet_Item_Bottle.skn			0	0	872415279	true	1000038579
+1073742461	101	0	Pet_Item_Cat.skn			0	0	872415279	true	1000038579
+1073742462	101	1	Pet_Item_Fish.skn			0	0	872415279	true	1000038579
+1073742463	101	0	Pet_Item_Frog.skn			0	0	872415279	true	1000038579
+1073742465	101	0	Pet_Item_Hat.skn			0	0	872415279	true	1000038579
+1073742466	101	1	Pet_Item_meat.skn			0	0	872415279	true	1000038579
+1073742814	102	0	Pet_Item_Viking_Helmet_1.skn			0	1	872415279	true	1000038579
+1073742815	102	0	Pet_Item_Frog_Helmet_1.skn			0	1	872415279	true	1000038579
+1073742816	102	0	Pet_Item_Red_Helmet_1.skn			0	1	872415279	true	1000038579
+1073742817	102	1	Pet_Item_Sword_Body.skn			0	0	872415279	true	1000038579
+1073742818	102	1	Pet_Item_Viking_Shield_Body.skn			0	0	872415279	true	1000038579
+1073742819	102	0	Pet_Item_Viking_Helmet_1.skn			0	1	872415279	true	1000038579
+1073742820	102	0	Pet_Item_Frog_Helmet_1.skn			0	1	872415279	true	1000038579
+1073742821	102	0	Pet_Item_Red_Helmet_1.skn			0	1	872415279	true	1000038579
+1073742822	102	1	Pet_Item_Sword_Body.skn			0	0	872415279	true	1000038579
+1073742823	102	1	Pet_Item_Viking_Shield_Body.skn			0	0	872415279	true	1000038579
+1073750395	102	0	Pet_Item_Viking01_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750396	102	0	Pet_Item_Red01_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750397	102	1	Pet_Item_Sword01_Body.skn			0	0	872415279	true	1000038579
+1073750398	102	1	Pet_Item_Viking_Shield01_Body.skn			0	0	872415279	true	1000038579
+1073750399	102	0	Pet_Item_Viking02_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750401	102	0	Pet_Item_Red02_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750402	102	1	Pet_Item_Sword02_Body.skn			0	0	872415279	true	1000038579
+1073750403	102	1	Pet_Item_Viking_Shield02_Body.skn			0	0	872415279	true	1000038579
+1073750404	102	0	Pet_Item_Viking03_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750405	102	0	Pet_Item_Red03_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750406	102	1	Pet_Item_Sword03_Body.skn			0	0	872415279	true	1000038579
+1073750407	102	1	Pet_Item_Viking_Shield03_Body.skn			0	0	872415279	true	1000038579
+1073750408	102	0	Pet_Item_Viking01_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750409	102	0	Pet_Item_Red01_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750410	102	1	Pet_Item_Sword01_Body.skn			0	0	872415279	true	1000038579
+1073750411	102	1	Pet_Item_Viking_Shield01_Body.skn			0	0	872415279	true	1000038579
+1073750412	102	0	Pet_Item_Viking02_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750413	102	0	Pet_Item_Red02_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750414	102	1	Pet_Item_Sword02_Body.skn			0	0	872415279	true	1000038579
+1073750415	102	1	Pet_Item_Viking_Shield02_Body.skn			0	0	872415279	true	1000038579
+1073750416	102	0	Pet_Item_Viking03_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750417	102	0	Pet_Item_Red03_Helmet_1.skn			0	1	872415279	true	1000038579
+1073750418	102	1	Pet_Item_Sword03_Body.skn			0	0	872415279	true	1000038579
+1073750419	102	1	Pet_Item_Viking_Shield03_Body.skn			0	0	872415279	true	1000038579
+1073755631	110	0	Pet_Manti_Hat_Gentle.skn			0	0	872415279	true	1000038579
+1073755632	110	1	Pet_Manti_Mouth_Pipe.skn			0	0	872415279	true	1000038579
+1073755633	110	0	Pet_Manti_Hat_Headphone.skn			0	0	872415279	true	1000038579
+1073755634	110	1	Pet_Manti_Mouth_Megaphone.skn			0	0	872415279	true	1000038579
+1073762462	110	0	Pet_Manti_Hat_Gentle.skn			0	0	872415420	true	1000049194
+1073762463	110	0	Pet_Manti_Hat_Gentle.skn			0	0	872415420	true	1000049194
+1073762464	110	1	Pet_Manti_Mouth_Pipe.skn			0	0	872415420	true	1000049194
+1073762465	110	1	Pet_Manti_Mouth_Pipe.skn			0	0	872415420	true	1000049194
+1073762466	110	0	Pet_Manti_Hat_Headphone.skn			0	0	872415420	true	1000049194
+1073762467	110	0	Pet_Manti_Hat_Headphone.skn			0	0	872415420	true	1000049194
+1073762468	110	1	Pet_Manti_Mouth_Megaphone.skn			0	0	872415420	true	1000049194
+1073762469	110	1	Pet_Manti_Mouth_Megaphone.skn			0	0	872415420	true	1000049194
+1073742807	101	0	Pet_Item_Santahat.skn			0	0	0	false	0
+1073742824	102	0	Pet_Item_Xmas_Helmet_1.skn			0	1	0	false	0
+1073768767	101	0	Pet_Item_Santahat.skn			0	0	0	false	0
+1073768768	102	0	Pet_Item_Xmas_Helmet_1.skn			0	1	0	false	0
+1073768766	110	0	Pet_Manti_Hat_Santa_0.skn			0	0	0	false	0
+1073768769	110	0	Pet_Manti_Hat_Xmas_1.skn			0	1	0	false	0
+1073812170	102	0	Pet_Item_Cat01_1stHelmet_1.skn			0	1	872415279	true	1000038579
+1073812171	101	0	Pet_Item_hound_1stHelmet.skn			0	0	872415279	true	1000038579
+1073749291	102	0	Pet_Item_Mechaduck_Helmet_1.skn			0	1	872415279	true	1000038579
+1073749292	101	0	Pet_hound01_2ndHelmet.skn			0	0	872415279	true	1000038579
+1073758163	101	0	Pet_hound_item_StrawHelmet.skn			0	0	0	false	0
+1073758164	102	0	Pet_Cat_Item_Straw_Helmet_1.skn			0	1	0	false	0
+1073758165	110	0	Pet_Manti_Item_Straw_Helmet.skn			0	0	0	false	0
+1073758166	101	0	Pet_hound_item_WatermelonHelmet.skn			0	0	0	false	0
+1073758167	102	0	Pet_Cat_Item_Watermelon_Helmet_1.skn			0	1	0	false	0
+1073758168	110	0	Pet_Manti_Item_Watermelon_Helmet.skn			0	0	0	false	0
+1073812143	110	0	Pet_Manti_Hat_DNSEA_0.skn			0	0	872415420	true	1000038579
+1073812144	112	0	Pet_Item_CrazyDug_2ndHelmet.skn			0	0	872415420	true	1000038579
+1073769410	101	0	Pet_Item_Santahat.skn			0	0	0	false	0
+1073769411	102	0	Pet_Item_Xmas_Helmet_1.skn			0	1	0	false	0
+1073769412	110	0	Pet_Manti_Hat_Santa_0.skn			0	0	0	false	0
+1073769413	110	0	Pet_Manti_Hat_Xmas_1.skn			0	1	0	false	0
+1073782256	112	0	Pet_Item_CrazyDug_Basket.skn			0	0	872415420	true	1000049194
+1073782257	112	0	Pet_Item_CrazyDug_Basket.skn			0	0	872415420	true	1000049194
+1073782258	112	1	Pet_Item_CrazyDug_Basket_Body.skn			0	0	872415420	true	1000049194
+1073782259	112	1	Pet_Item_CrazyDug_Basket_Body.skn			0	0	872415420	true	1000049194
+1073782260	112	0	Pet_Item_CrazyDug_King.skn			0	0	872415420	true	1000049194
+1073782261	112	0	Pet_Item_CrazyDug_King.skn			0	0	872415420	true	1000049194
+1073782262	112	1	Pet_Item_CrazyDug_King_Body.skn			0	0	872415420	true	1000049194
+1073782263	112	1	Pet_Item_CrazyDug_King_Body.skn			0	0	872415420	true	1000049194
+1073782264	112	0	Pet_Item_CrazyDug_Marin.skn			0	0	872415420	true	1000049194
+1073782265	112	0	Pet_Item_CrazyDug_Marin.skn			0	0	872415420	true	1000049194
+1073782266	112	1	Pet_Item_CrazyDug_Marin_Body.skn			0	0	872415420	true	1000049194
+1073782267	112	1	Pet_Item_CrazyDug_Marin_Body.skn			0	0	872415420	true	1000049194
+1073784348	101	0	Pet_Item_hound01_Cake.skn		Pet_Item_hound01_Cake.act	0	0	0	false	0
+1073784349	102	0	Pet_Cat_Item_Cake_Helmet_1.skn		Pet_Cat_Item_Cake_Helmet_1.act	0	1	0	false	0
+1073784350	110	0	Pet_Manti_Item_Cake.skn		Pet_Manti_Item_Cake.act	0	0	0	false	0
+1073784351	112	0	Pet_Item_CrazyDug_Cake.skn		Pet_Item_CrazyDug_Cake.act	0	0	0	false	0
+1073795838	113	0	Pet_Item_lesserpandar_Hat01.skn			0	0	872415420	true	1000049194
+1073795839	113	0	Pet_Item_lesserpandar_Hat01.skn			0	0	872415420	true	1000049194
+1073795840	113	1	Pet_Item_lesserpandar_Horn.skn			0	0	872415420	true	1000049194
+1073795841	113	1	Pet_Item_lesserpandar_Horn.skn			0	0	872415420	true	1000049194
+1073795842	113	0	Pet_Item_lesserpandar_Hat02.skn			0	0	872415420	true	1000049194
+1073795843	113	0	Pet_Item_lesserpandar_Hat02.skn			0	0	872415420	true	1000049194
+1073795844	113	1	Pet_Item_lesserpandar_Leap.skn			0	0	872415420	true	1000049194
+1073795845	113	1	Pet_Item_lesserpandar_Leap.skn			0	0	872415420	true	1000049194
+1073802246	114	1	Pet_BabyGirl_Irene_Helmet.skn			0	1	872415671	true	1000068145
+1073795878	114	0	Pet_BabyGirl_Irene_Body.skn			0	0	872415671	true	1000068145
+1073802247	114	1	Pet_BabyGirl_Irene_Helmet.skn			0	1	872415671	true	1000068145
+1073802248	114	0	Pet_BabyGirl_Irene_Body.skn			0	0	872415671	true	1000068145
+1073797212	114	1	Pet_BabyGirl_St_Helmet.skn			0	1	872415671	true	1000068145
+1073797213	114	0	Pet_BabyGirl_St_Body.skn			0	0	872415671	true	1000068145
+1073802249	114	1	Pet_BabyGirl_St_Helmet.skn			0	1	872415671	true	1000068145
+1073802250	114	0	Pet_BabyGirl_St_Body.skn			0	0	872415671	true	1000068145
+1073797214	114	1	Pet_BabyGirl_Blossom_Helmet.skn			0	1	872415671	true	1000068145
+1073797215	114	0	Pet_BabyGirl_Blossom_Body.skn			0	0	872415671	true	1000068145
+1073802251	114	1	Pet_BabyGirl_Blossom_Helmet.skn			0	1	872415671	true	1000068145
+1073802252	114	0	Pet_BabyGirl_Blossom_Body.skn			0	0	872415671	true	1000068145
+1073797244	114	1	Pet_BabyGirl_Chick_Helmet.skn			0	1	872415671	true	1000068145
+1073797245	114	0	Pet_BabyGirl_Chick_Body.skn			0	0	872415671	true	1000068145
+1073802253	114	1	Pet_BabyGirl_Chick_Helmet.skn			0	1	872415671	true	1000068145
+1073802254	114	0	Pet_BabyGirl_Chick_Body.skn			0	0	872415671	true	1000068145
+1073810526	114	1	Pet_BabyGirl_Strawberry_Helmet.skn			0	1	872415671	true	1000068145
+1073810527	114	0	Pet_BabyGirl_Strawberry_Body.skn			0	0	872415671	true	1000068145
+1073810528	114	1	Pet_BabyGirl_Strawberry_Helmet.skn			0	1	872415671	true	1000068145
+1073810529	114	0	Pet_BabyGirl_Strawberry_Body.skn			0	0	872415671	true	1000068145
+1073817701	114	1	Pet_BabyGirl_Haloli_Helmet.skn			0	1	872415671	true	1000068145
+1073817702	114	0	Pet_BabyGirl_Haloli_Body.skn			0	0	872415671	true	1000068145
+1073817703	114	1	Pet_BabyGirl_Haloli_Helmet.skn			0	1	872415671	true	1000068145
+1073817704	114	0	Pet_BabyGirl_Haloli_Body.skn			0	0	872415671	true	1000068145
+1073849580	114	1	Pet_BabyGirl_Xmas_Helmet.skn			0	1	872415671	true	1000068145
+1073849581	114	0	Pet_BabyGirl_Xmas_Body.skn			0	0	872415671	true	1000068145
+1073849582	114	1	Pet_BabyGirl_Xmas_Helmet.skn			0	1	872415671	true	1000068145
+1073849583	114	0	Pet_BabyGirl_Xmas_Body.skn			0	0	872415671	true	1000068145
+1073849897	118	1	Pet_BabyBoy_Xmas_Helmet.skn			0	1	872415671	true	1000068145
+1073849898	118	0	Pet_BabyBoy_Xmas_Body.skn			0	0	872415671	true	1000068145
+1073849899	118	1	Pet_BabyBoy_Xmas_Helmet.skn			0	1	872415671	true	1000068145
+1073849900	118	0	Pet_BabyBoy_Xmas_Body.skn			0	0	872415671	true	1000068145
+1073825894	114	1	Pet_BabyGirl_Ar_Helmet.skn			0	1	872415671	true	1000068145
+1073825895	114	0	Pet_BabyGirl_Ar_Body.skn			0	0	872415671	true	1000068145
+1073825896	114	1	Pet_BabyGirl_Ar_Helmet.skn			0	1	872415671	true	1000068145
+1073825897	114	0	Pet_BabyGirl_Ar_Body.skn			0	0	872415671	true	1000068145
+1073825898	114	1	Pet_BabyGirl_So_Helmet.skn			0	1	872415671	true	1000068145
+1073825899	114	0	Pet_BabyGirl_So_Body.skn			0	0	872415671	true	1000068145
+1073825900	114	1	Pet_BabyGirl_So_Helmet.skn			0	1	872415671	true	1000068145
+1073825901	114	0	Pet_BabyGirl_So_Body.skn			0	0	872415671	true	1000068145
+1073825902	114	1	Pet_BabyGirl_ArGold_Helmet.skn			0	1	872415671	true	1000068145
+1073825903	114	0	Pet_BabyGirl_ArGold_Body.skn			0	0	872415671	true	1000068145
+1073825904	114	1	Pet_BabyGirl_ArGold_Helmet.skn			0	1	872415671	true	1000068145
+1073825905	114	0	Pet_BabyGirl_ArGold_Body.skn			0	0	872415671	true	1000068145
+1073825906	114	1	Pet_BabyGirl_SoGold_Helmet.skn			0	1	872415671	true	1000068145
+1073825907	114	0	Pet_BabyGirl_SoGold_Body.skn			0	0	872415671	true	1000068145
+1073825908	114	1	Pet_BabyGirl_SoGold_Helmet.skn			0	1	872415671	true	1000068145
+1073825909	114	0	Pet_BabyGirl_SoGold_Body.skn			0	0	872415671	true	1000068145
+1073828875	118	1	Pet_BabyBoy_Bear_Helmet.skn			0	1	872415671	true	1000068145
+1073828876	118	0	Pet_BabyBoy_Bear_Body.skn			0	0	872415671	true	1000068145
+1073828877	118	1	Pet_BabyBoy_Bear_Helmet.skn			0	1	872415671	true	1000068145
+1073828878	118	0	Pet_BabyBoy_Bear_Body.skn			0	0	872415671	true	1000068145
+1073828879	118	1	Pet_BabyBoy_Imp_Helmet.skn			0	1	872415671	true	1000068145
+1073828880	118	0	Pet_BabyBoy_Imp_Body.skn			0	0	872415671	true	1000068145
+1073828881	118	1	Pet_BabyBoy_Imp_Helmet.skn			0	1	872415671	true	1000068145
+1073828882	118	0	Pet_BabyBoy_Imp_Body.skn			0	0	872415671	true	1000068145
+1073828883	118	1	Pet_BabyBoy_Vacance_Helmet.skn			0	1	872415671	true	1000068145
+1073828884	118	0	Pet_BabyBoy_Vacance_Body.skn			0	0	872415671	true	1000068145
+1073828885	118	1	Pet_BabyBoy_Vacance_Helmet.skn			0	1	872415671	true	1000068145
+1073828886	118	0	Pet_BabyBoy_Vacance_Body.skn			0	0	872415671	true	1000068145
+1073860890	118	1	Pet_BabyBoy_Vacance_Helmet.skn			0	1	872415671	true	1000068145
+1073860891	118	0	Pet_BabyBoy_Vacance_Body.skn			0	0	872415671	true	1000068145
+1073866865	118	1	Pet_BabyBoy_TrumpSoldier_Helmet.skn			0	1	872415671	true	1000068145
+1073866866	118	0	Pet_BabyBoy_TrumpSoldier_Body.skn			0	0	872415671	true	1000068145
+1073866867	118	1	Pet_BabyBoy_TrumpSoldier_Helmet.skn			0	1	872415671	true	1000068145
+1073866868	118	0	Pet_BabyBoy_TrumpSoldier_Body.skn			0	0	872415671	true	1000068145
+1073867683	118	1	Pet_BabyBoy_Grt_Helmat.skn			0	1	872415671	true	1000068145
+1073867684	118	0	Pet_BabyBoy_Grt_Body.skn			0	0	872415671	true	1000068145
+1073867685	118	1	Pet_BabyBoy_Grt_Helmat.skn			0	1	872415671	true	1000068145
+1073867686	118	0	Pet_BabyBoy_Grt_Body.skn			0	0	872415671	true	1000068145
+1073884328	118	1	Pet_BabyBoy_Vk_Helmet.skn			0	1	872415671	true	1000068145
+1073884329	118	0	Pet_BabyBoy_Vk_Body.skn			0	0	872415671	true	1000068145
+1073862319	122	1	Pet_Hindoong_B_Party_0.skn			0	0	0	false	0
+1073862320	122	1	Pet_Hindoong_B_Nurse_0.skn			0	0	0	false	0
+1073872176	114	1	Pet_BabyGirl_2015_Xmas_Helmet.skn			0	1	872415671	true	1000068145
+1073872177	114	0	Pet_BabyGirl_2015_Xmas_Body.skn			0	0	872415671	true	1000068145
+1073872178	114	1	Pet_BabyGirl_2015_Xmas_Helmet.skn			0	1	872415671	true	1000068145
+1073872179	114	0	Pet_BabyGirl_2015_Xmas_Body.skn			0	0	872415671	true	1000068145
+1073875330	128	1	Pet_Unicorn_C.skn			0	1	0	false	0
+1073875331	128	1	Pet_Unicorn_D.skn			0	1	0	false	0
+1073879656	124	1	Pet_WhiteDuck_Costume02.skn			0	1	0	false	0
+1073879657	124	1	Pet_WhiteDuck_Costume03.skn			0	1	0	false	0
+1073879616	130	1	Pet_Fox_B_King.skn			0	0	0	false	0
+1073879617	130	1	Pet_Fox_B_Pilot.skn			0	0	0	false	0
+1073887367	114	1	Pet_BabyGirl_Pink_Helmet.skn			0	1	872415671	true	1000068145
+1073887368	114	0	Pet_BabyGirl_Pink_Body.skn			0	0	872415671	true	1000068145
+1073887369	114	1	Pet_BabyGirl_Pink_Helmet.skn			0	1	872415671	true	1000068145
+1073887370	114	0	Pet_BabyGirl_Pink_Body.skn			0	0	872415671	true	1000068145
+1073887371	118	1	Pet_BabyBoy_Butler_Helmet.skn			0	1	872415671	true	1000068145
+1073887372	118	0	Pet_BabyBoy_Butler_Body.skn			0	0	872415671	true	1000068145
+1073887373	118	1	Pet_BabyBoy_Butler_Helmet.skn			0	1	872415671	true	1000068145
+1073887374	118	0	Pet_BabyBoy_Butler_Body.skn			0	0	872415671	true	1000068145
+1073888368	114	1	Pet_BabyGirl_2016_Xmas_Helmet.skn			0	1	872415671	true	1000068145
+1073888369	114	0	Pet_BabyGirl_2016_Xmas_Body.skn			0	0	872415671	true	1000068145
+1073888370	114	1	Pet_BabyGirl_2016_Xmas_Helmet.skn			0	1	872415671	true	1000068145
+1073888371	114	0	Pet_BabyGirl_2016_Xmas_Body.skn			0	0	872415671	true	1000068145
+1073888372	118	1	Pet_BabyBoy_2016_Xmas_Helmet.skn			0	1	872415671	true	1000068145
+1073888373	118	0	Pet_BabyBoy_2016_Xmas_Body.skn			0	0	872415671	true	1000068145
+1073888374	118	1	Pet_BabyBoy_2016_Xmas_Helmet.skn			0	1	872415671	true	1000068145
+1073888375	118	0	Pet_BabyBoy_2016_Xmas_Body.skn			0	0	872415671	true	1000068145
+1073888451	114	1	Pet_BabyGirl_KaMagic_Helmet.skn			0	1	872415671	true	1000068145
+1073888452	114	0	Pet_BabyGirl_KaMagic_Body.skn			0	0	872415671	true	1000068145
+1073888453	114	1	Pet_BabyGirl_KaMagic_Helmet.skn			0	1	872415671	true	1000068145
+1073888454	114	0	Pet_BabyGirl_KaMagic_Body.skn			0	0	872415671	true	1000068145
+1073891218	134	1	Pet_Rabbit_Item_Flower_Helmet.skn			0	1	0	false	0
+1073891219	134	1	Pet_Rabbit_Item_RedScooter_Helmet.skn			0	1	0	false	0
+1073893037	114	1	Pet_Anuarendel_Wini_Helmet.skn			0	1	872415671	true	1000068145
+1073893038	114	0	Pet_Anuarendel_Wini_body.skn			0	0	872415671	true	1000068145
+1073893039	118	1	Pet_Anuarendel_Tini_Helmet.skn			0	1	872415671	true	1000068145
+1073893040	118	0	Pet_Anuarendel_Tini_body.skn			0	0	872415671	true	1000068145
+1073893045	114	1	Pet_Anuarendel_Wini_Helmet.skn			0	1	872415671	true	1000068145
+1073893046	114	0	Pet_Anuarendel_Wini_body.skn			0	0	872415671	true	1000068145
+1073893047	118	1	Pet_Anuarendel_Tini_Helmet.skn			0	1	872415671	true	1000068145
+1073893048	118	0	Pet_Anuarendel_Tini_body.skn			0	0	872415671	true	1000068145
+1073893041	118	1	Pet_BabyBoy_AsMagic_Helmet.skn			0	1	872415671	true	1000068145
+1073893042	118	0	Pet_BabyBoy_AsMagic_Body.skn			0	0	872415671	true	1000068145
+1073893043	118	1	Pet_BabyBoy_AsMagic_Helmet.skn			0	1	872415671	true	1000068145
+1073893044	118	0	Pet_BabyBoy_AsMagic_Body.skn			0	0	872415671	true	1000068145
+1073893849	137	1	Pet_Deer_C.skn			0	1	0	false	0
+1073893850	137	1	Pet_Deer_D.skn			0	1	0	false	0
+1073898907	140	1	Pet_Bear_B_Doll.skn			0	1	0	false	0
+1073898908	140	1	Pet_Bear_B_Marine.skn			0	1	0	false	0
+1073904620	147	0	Pet_Penguin_B_King.skn			0	1	0	false	0
+1073904621	147	0	Pet_Penguin_B_Marine.skn			0	0	0	false	0
+1073907772	150	0	Pet_Elephant_B_Item3.skn			0	1	0	false	0
+1073907773	150	0	Pet_Elephant_B_Item2.skn			0	1	0	false	0
+1073911329	152	1	Pet_Bear_Panda_B_Blue.skn			0	0	0	false	0
+1073911330	152	1	Pet_Bear_Panda_B_Legend.skn			0	0	0	false	0
+1073911331	152	1	Pet_Bear_Panda_B_White.skn			0	0	0	false	0
+1073845865	102	0	Pet_Item_ghoul_Helmet_1.skn			0	1	872415279	true	1000038579
+1073900685	143	1	Pet_BabyGirl_2017_Xmas_Legend_Helmet.skn			0	1	0	false	0
+1073900686	143	0	Pet_BabyGirl_2017_Xmas_Legend_Body.skn			0	0	0	false	0
+1073900687	145	1	Pet_BabyBoy_2017_Xmas_Legend_Helmet.skn			0	1	0	false	0
+1073900688	145	0	Pet_BabyBoy_2017_Xmas_Legend_Body.skn			0	0	0	false	0
+1073900867	122	1	Pet_Hindoong_B_Nurse_Legend_0.skn			0	0	0	false	0
+1073900868	128	1	Pet_Unicorn_D_Legend.skn			0	1	0	false	0
+1073900869	124	1	Pet_WhiteDuck_Costume03_legend.skn			0	1	0	false	0
+1073900870	130	1	Pet_Fox_B_King_Legend.skn			0	0	0	false	0
+1073900871	134	1	Pet_Rabbit_Item_Flower_Legend_Helmet.skn			0	1	0	false	0
+1073900872	137	1	Pet_Deer_C_Legend.skn			0	1	0	false	0
+1073900873	140	1	Pet_Bear_B_Doll_Legend.skn			0	1	0	false	0
+1073903885	147	0	Pet_Penguin_Item_King_legend.skn			0	1	0	false	0
+1073907774	150	0	Pet_Elephant_B_Item1.skn			0	1	0	false	0
+1073909553	152	1	Pet_Bear_Panda_B_Legend.skn			0	0	0	false	0
+1073911718	154	0	Pet_Retro_Robo_Legend.skn			0	1	0	false	0
+1073913347	156	0	Pet_Snowleopard_B_Legend.skn			0	0	0	false	0
+1073911273		0				0	0	0	false	0
+1073911274		0				0	0	0	false	0
+1073912186	154	0	Pet_Retro_Robo_Gold.skn			0	1	0	false	0
+1073912602	154	0	Pet_Retro_Robo_Green.skn			0	1	0	false	0
+1073913348	156	0	Pet_Snowleopard_B_Yellow.skn			0	1	0	false	0
+1073913349	156	0	Pet_Snowleopard_B_Blue.skn			0	0	0	false	0
+1073914386	157	0	Blackcat_Item_Pendant.skn	Pet_Blackcat_Item_Pendant.ani	Pet_Blackcat_Item_Pendant.act	0	1	0	false	0
+1073914387	157	0	Pet_Blackcat_Item_Ribbon.skn	Pet_Blackcat_Item_Ribbon.ani	Pet_Blackcat_Item_Ribbon.act	0	0	0	false	0
+1073915608	158	0	Pet_Hedgehog_Glass.skn			0	1	0	false	0
+1073915609	158	0	Pet_Hedgehog_Cactus.skn			0	0	0	false	0
+1073918264	159	0	Pet_Baphomet_Firefighter.skn			0	1	0	false	0
+1073918265	159	0	Pet_Baphomet_Prince.skn			0	0	0	false	0
+1073919866	160	0	Pet_Unazukin_A_Flower.skn			0	1	0	false	0
+1073919867	160	0	Pet_Unazukin_A_Ribbon.skn			0	0	0	false	0
+1073921009	161	0	Pet_Mandragora_Item_A.skn			0	1	0	false	0
+1073921010	161	0	Pet_Mandragora_Item_B.skn			0	0	0	false	0
+1073922184	162	0	Pet_Necromancer_Item_A.skn			0	1	0	false	0
+1073922185	162	0	Pet_Necromancer_Item_B.skn			0	0	0	false	0
+1073925153	163	0	Pet_Probymonk_Item_A.skn			0	1	0	false	0
+1073925154	163	0	Pet_Probymonk_Item_B.skn			0	0	0	false	0
+1073917038	143	1	Pet_BabyGirl_10thAnniversary_Helmet.skn			0	1	0	false	0
+1073917039	143	0	Pet_BabyGirl_10thAnniversary_Body.skn			0	0	0	false	0
+1073917040	145	1	Pet_BabyBoy_10thAnniversary_Helmet.skn			0	1	0	false	0
+1073917041	145	0	Pet_BabyBoy_10thAnniversary_Body.skn			0	0	0	false	0
+1073918251	143	0	Pet_BabyGirl_10thAnniversary_Winter.skn			0	0	0	false	0
+1073918252	145	0	Pet_BabyBoy_10thAnniversary_winter.skn			0	0	0	false	0
+1125124608	1	0	Vehicle_Horse1_saddle01.skn			0	0	0	false	0
+1125124624	1	0	Vehicle_Horse1_saddle02.skn			0	0	0	false	0
+1125124640	1	0	Vehicle_Horse1_saddle03.skn			0	0	0	false	0
+1125124656	2	0	vehicle_Unicorn01_Saddle01.skn			0	0	0	false	0
+1125124672	3	0	Vehicle_RedHare_Saddle01.skn			0	0	0	false	0
+1125124688	4	0	Vehicle_RedHare_Saddle03.skn			0	0	0	false	0
+1125124704	5	0	Vehicle_RedHare_Saddle04.skn			0	0	0	false	0
+1125124720	6	0	Vehicle_RedHare_Saddle02.skn			0	0	0	false	0
+1073742661	7	0	Vehicle_Wolf_saddle01.skn			0	0	0	false	0
+1073742809	8	0	Vehicle_Wolf_saddle02.skn			0	0	0	false	0
+1073749633	9	0	Vehicle_Sheep_Angel.skn			0	0	0	false	0
+1073750081	10	0	Vehicle_Sheep_Gentle.skn			0	0	0	false	0
+1073751479	11	0	Vehicle_Wolf_saddle03.skn			0	0	0	false	0
+1073759007	4	0	Vehicle_RedHare_Saddle03.skn			0	0	0	false	0
+1073760799	12	0	Vehicle_Hellhorse_Saddle.skn			0	0	0	false	0
+1073767166	13	0	Vehicle_Pig_King.skn			0	0	0	false	0
+1073767167	18	0	Vehicle_Pig_Mat.skn			0	0	0	false	0
+1073768508	19	0	Vehicle_Wolf_saddle_ice.skn			0	0	0	false	0
+1073771599	14	0	Vehicle_Dragon_saddle01.skn			0	0	0	false	0
+1073777070	17	0	Vehicle_Sheep_Cake.skn			0	0	0	false	0
+1073779546	4	0	Vehicle_RedHare_Saddle03.skn			0	0	0	false	0
+1073785989	20	0	Vehicle_Cluld_Puppet.skn			0	0	0	false	0
+1073806556	12	0	Vehicle_Goldhorse_Saddle.skn			0	0	0	false	0
+1073807497	86	0	Vehicle_Cluld_Goldbox.skn			0	0	0	false	0
+1073817709	32	0	Vehicle_Cluld_Puppet_Rabbit.skn			0	0	0	false	0
+1073835594	35	0	Vehicle_Cloud_Puppet_Cat.skn			0	0	0	false	0
+1073852499	43	0	Vehicle_Wolf_SaddleDA.skn			0	0	0	false	0
+1073881433	35	0	Vehicle_Cloud_Puppet_Cat.skn	Cash_Spirit_ShootingStar.ani	Cash_Spirit_ShootingStar.act	0	0	0	false	0
+1125125120	1	1	Vehicle_Horse1_Hair01.skn			0	0	0	false	0
+1125125136	1	1	Vehicle_Horse1_Hair02.skn			0	0	0	false	0
+1125125152	1	1	Vehicle_Horse1_Hair03.skn			0	0	0	false	0
+1125125168	1	1	Vehicle_Horse1_Hair03.skn			0	0	0	false	0
+1125125184	1	1	Vehicle_Horse1_Hair04.skn			0	0	0	false	0
+1125125200	2	1	Vehicle_Unicorn01_Hair01.skn			0	0	0	false	0
+1125125216	1	1	vehicle_RedHare_hair01.skn			0	0	0	false	0
+1073742662	7	1	Vehicle_Wolf_hair01.skn			0	0	0	false	0
+1073750033	12	1	Vehicle_Hellhorse_Hair.skn			0	0	0	false	0
+1073768509	7	1	Vehicle_Wolf__ice_hair.skn			0	0	0	false	0
+1073806557	12	1	Vehicle_Goldhorse_Hair.skn			0	0	0	false	0
+1073852309	43	1	Vehicle_Wolf_DA_hair.skn			0	0	0	false	0
+1125125648		0				0	0	0	false	0
+1125125664		0				0	0	0	false	0
+1125125680		0				0	0	0	false	0
+1125125696		0				0	0	0	false	0
+1125125712		0				0	0	0	false	0
+1125125728		0				0	0	0	false	0
+1125125744		0				0	0	0	false	0
+1125125760		0				0	0	0	false	0
+1125125776		0				0	0	0	false	0
+1073917971	46	0	Vehicle_Cloud_Puppet_Cat.skn			0	0	0	false	0
+1073921259	35	0	Vehicle_Cloud_Puppet_Cat.skn	Cash_Spirit_ShootingStar.ani	Cash_Spirit_ShootingStar.act	0	0	0	false	0
+1073921260	85;35;15	0	Vehicle_Cloud_Puppet_Cat.skn	Cash_Spirit_ShootingStar.ani	Cash_Spirit_ShootingStar.act	0	0	0	false	0
+1073921370	15	0	Vehicle_Cloud_Puppet_Cat.skn	Cash_Spirit_ShootingStar.ani	Cash_Spirit_ShootingStar.act	0	0	872416800	true	1000174137
+1073921371	15	0	Vehicle_Cloud_Puppet_Cat.skn	Cash_Spirit_ShootingStar.ani	Cash_Spirit_ShootingStar.act	0	0	0	false	0
+1073921372	1000	0	Vehicle_Cloud_Puppet_Cat.skn	Cash_Spirit_ShootingStar.ani	Cash_Spirit_ShootingStar.act	0	0	872416801	true	1000174136
+1073921545	17	0	Vehicle_Sheep_Cake.skn			0	0	0	false	0
+1073921546	14	0	Vehicle_Dragon_saddle01.skn			0	0	0	false	0
+1073921547	18	0	Vehicle_Pig_Mat.skn			0	0	872416806	true	1000174138
+1073921549	1001	0	Vehicle_RedHare_Saddle03.skn			0	0	0	false	0
+1073921550	1002	0	Vehicle_Wolf_saddle02.skn			0	0	0	false	0
+1073921551	1003;1004;1005	0	Vehicle_Cluld_Puppet.skn			0	0	0	false	0
+1126565440		0				0	0	0	false	0
+1126565456		0				0	0	0	false	0
+1126565472		0				0	0	0	false	0
+1126565488		0				0	0	0	false	0
+1126565504		0				0	0	0	false	0
+1126565520		0				0	0	0	false	0
+1126565536		0				0	0	0	false	0
+1126565552		0				0	0	0	false	0
+1126565568		0				0	0	0	false	0
+1126565584		0				0	0	0	false	0
+1126565600		0				0	0	0	false	0
+1126565616		0				0	0	0	false	0
+1126565632		0				0	0	0	false	0
+1126565648		0				0	0	0	false	0
+1126565664		0				0	0	0	false	0
+1126565680		0				0	0	0	false	0
+1126565696		0				0	0	0	false	0
+1126565712		0				0	0	0	false	0
+1126567040		0				0	0	0	false	0
+1126567056		0				0	0	0	false	0
+1126567072		0				0	0	0	false	0
+1126567088		0				0	0	0	false	0
+1126567104		0				0	0	0	false	0
+1126567120		0				0	0	0	false	0
+1126567136		0				0	0	0	false	0
+1126567152		0				0	0	0	false	0
+1126567168		0				0	0	0	false	0
+1126567184		0				0	0	0	false	0
+1126567200		0				0	0	0	false	0
+1126567216		0				0	0	0	false	0
+1126567232		0				0	0	0	false	0
+1126567248		0				0	0	0	false	0
+1126567264		0				0	0	0	false	0
+1126567280		0				0	0	0	false	0
+1126567296		0				0	0	0	false	0
+1126567312		0				0	0	0	false	0
+1073742271		0				0	0	0	false	0
+1073742272		0				0	0	0	false	0
+1073742273		0				0	0	0	false	0
+1073742274		0				0	0	0	false	0
+1073742275		0				0	0	0	false	0
+1073742276		0				0	0	0	false	0
+1073742277		0				0	0	0	false	0
+1073742278		0				0	0	0	false	0
+1073742279		0				0	0	0	false	0
+1073742280		0				0	0	0	false	0
+1073742281		0				0	0	0	false	0
+1073742282		0				0	0	0	false	0
+1073742283		0				0	0	0	false	0
+1073742284		0				0	0	0	false	0
+1073742285		0				0	0	0	false	0
+1073742286		0				0	0	0	false	0
+1073742287		0				0	0	0	false	0
+1073742288		0				0	0	0	false	0
+1073742289		0				0	0	0	false	0
+1073742290		0				0	0	0	false	0
+1073742291		0				0	0	0	false	0
+1073742292		0				0	0	0	false	0
+1073742293		0				0	0	0	false	0
+1073742294		0				0	0	0	false	0
+1073742295		0				0	0	0	false	0
+1073742296		0				0	0	0	false	0
+1073742297		0				0	0	0	false	0
+1073742298		0				0	0	0	false	0
+1073742299		0				0	0	0	false	0
+1073742300		0				0	0	0	false	0
+1073742301		0				0	0	0	false	0
+1073742302		0				0	0	0	false	0
+1073742303		0				0	0	0	false	0
+1073742304		0				0	0	0	false	0
+1073742305		0				0	0	0	false	0
+1073742306		0				0	0	0	false	0
+1073771611		0				0	0	0	false	0
+1073771612		0				0	0	0	false	0
+1073771613		0				0	0	0	false	0
+1073771614		0				0	0	0	false	0
+1073771615		0				0	0	0	false	0
+1073771616		0				0	0	0	false	0
+1073771617		0				0	0	0	false	0
+1073771618		0				0	0	0	false	0
+1073771619		0				0	0	0	false	0
+1073771620		0				0	0	0	false	0
+1073771621		0				0	0	0	false	0
+1073771622		0				0	0	0	false	0
+1073771623		0				0	0	0	false	0
+1073771624		0				0	0	0	false	0
+1073771625		0				0	0	0	false	0
+1073771626		0				0	0	0	false	0
+1073771627		0				0	0	0	false	0
+1073771628		0				0	0	0	false	0
+1073771629		0				0	0	0	false	0
+1073771630		0				0	0	0	false	0
+1073771631		0				0	0	0	false	0
+1073771632		0				0	0	0	false	0
+1073771633		0				0	0	0	false	0
+1073771634		0				0	0	0	false	0
+1073771635		0				0	0	0	false	0
+1073771636		0				0	0	0	false	0
+1073771637		0				0	0	0	false	0
+1073771638		0				0	0	0	false	0
+1073771639		0				0	0	0	false	0
+1073771640		0				0	0	0	false	0
+1073771641		0				0	0	0	false	0
+1073771642		0				0	0	0	false	0
+1073771643		0				0	0	0	false	0
+1073771644		0				0	0	0	false	0
+1073771645		0				0	0	0	false	0
+1073771646		0				0	0	0	false	0
+1073774554		0				0	0	0	false	0
+1073774555		0				0	0	0	false	0
+1073774556		0				0	0	0	false	0
+1073802699		0				0	0	0	false	0
+1073802700		0				0	0	0	false	0
+1073802701		0				0	0	0	false	0
+1073802702		0				0	0	0	false	0
+1073802703		0				0	0	0	false	0
+1073802704		0				0	0	0	false	0
+1073802705		0				0	0	0	false	0
+1073802706		0				0	0	0	false	0
+1073802707		0				0	0	0	false	0
+1073802708		0				0	0	0	false	0
+1073802709		0				0	0	0	false	0
+1073802710		0				0	0	0	false	0
+1073802711		0				0	0	0	false	0
+1073802712		0				0	0	0	false	0
+1073802713		0				0	0	0	false	0
+1073802714		0				0	0	0	false	0
+1073802715		0				0	0	0	false	0
+1073802716		0				0	0	0	false	0
+1073818139		0				0	0	0	false	0
+1073818140		0				0	0	0	false	0
+1073818141		0				0	0	0	false	0
+1073818142		0				0	0	0	false	0
+1073818143		0				0	0	0	false	0
+1073818144		0				0	0	0	false	0
+1073818145		0				0	0	0	false	0
+1073818146		0				0	0	0	false	0
+1073818147		0				0	0	0	false	0
+1073818148		0				0	0	0	false	0
+1073818149		0				0	0	0	false	0
+1073818150		0				0	0	0	false	0
+1073818151		0				0	0	0	false	0
+1073818152		0				0	0	0	false	0
+1073818153		0				0	0	0	false	0
+1073818154		0				0	0	0	false	0
+1073818155		0				0	0	0	false	0
+1073818156		0				0	0	0	false	0
+1073818157		0				0	0	0	false	0
+1073818158		0				0	0	0	false	0
+1073818159		0				0	0	0	false	0
+1073920331		0				0	0	0	false	0
+1073920332		0				0	0	0	false	0
+1073920333		0				0	0	0	false	0
+1073920334		0				0	0	0	false	0
+1073920335		0				0	0	0	false	0
+1073920336		0				0	0	0	false	0
+1073920337		0				0	0	0	false	0
+1073920338		0				0	0	0	false	0
+1073920339		0				0	0	0	false	0
+1073920340		0				0	0	0	false	0
+1073920341		0				0	0	0	false	0
+1073920342		0				0	0	0	false	0
+1073920343		0				0	0	0	false	0
+1073920344		0				0	0	0	false	0
+1073920345		0				0	0	0	false	0
+1073920346		0				0	0	0	false	0
+1073920347		0				0	0	0	false	0
+1073920348		0				0	0	0	false	0
+1073920349		0				0	0	0	false	0
+1073920350		0				0	0	0	false	0
+1073920351		0				0	0	0	false	0
+1073920352		0				0	0	0	false	0
+1073920353		0				0	0	0	false	0
+1073920354		0				0	0	0	false	0
+1073920355		0				0	0	0	false	0
+1073920356		0				0	0	0	false	0
+1073920357		0				0	0	0	false	0
+1073920358		0				0	0	0	false	0
+1073920359		0				0	0	0	false	0
+1073920360		0				0	0	0	false	0

@@ -1,0 +1,5 @@
+ROWID	_PvPGamemodeId|INTEGER	_SkinFileName|TEXT	_GuildWarIcon|TEXT
+1	60	GW_A_StrongHoldA.skn	GuildCrossHair.dds
+2	80	Pvp_conquest_prop.skn	GuildCrossHair.dds
+3	81	Pvp_conquest_prop.skn	GuildCrossHair.dds
+4	61	GW_A_StrongHoldA.skn	GuildCrossHair.dds

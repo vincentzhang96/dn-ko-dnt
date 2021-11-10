@@ -1,0 +1,8 @@
+ROWID	_HideParts01|INTEGER	_HideParts02|INTEGER	_HideParts03|INTEGER	_HideParts04|INTEGER	_HideParts05|INTEGER	_IsWeaponHide|BOOLEAN	_IsCharacterHide|BOOLEAN
+1	9	10	-1	-1	-1	true	false
+2	-1	-1	-1	-1	-1	false	true
+3	10	-1	-1	-1	-1	true	false
+4	12	-1	-1	-1	-1	false	false
+5	12	-1	-1	-1	-1	false	true
+6	9	10	12	-1	-1	true	false
+7	-1	-1	-1	-1	-1	true	false

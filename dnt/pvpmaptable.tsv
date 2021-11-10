@@ -1,0 +1,85 @@
+ROWID	_LadderType|INTEGER	MapTableID|INTEGER	MapNameUIstring|INTEGER	GameModeType|INTEGER	GameModeTpye_UIStingPvP|INTEGER	GameModeTpye_UIStingCOOP|INTEGER	GameModeTableID_1|INTEGER	GameModeTableID_2|INTEGER	GameModeTableID_3|INTEGER	GameModeTableID_4|INTEGER	GameModeTableID_5|INTEGER	GameModeTableID_6|INTEGER	GameModeTableID_7|INTEGER	GameModeTableID_8|INTEGER	GameModeTableID_9|INTEGER	GameModeTableID_10|INTEGER	NumOfPlayersOption1|INTEGER	NumOfPlayersOption2|INTEGER	NumOfPlayersOption3|INTEGER	NumOfPlayersOption4|INTEGER	NumOfPlayersOption5|INTEGER	DefaultNumOfPlayers|INTEGER	Allow_Breakin_PlayingGame|BOOLEAN	ItemUsageType|INTEGER	AllowItemDrop|BOOLEAN	IsGuildBattleGround|BOOLEAN	ReleaseShow|BOOLEAN	MapImage|TEXT
+10001	0	10001	880001	0	120022	120023	2	11	21	41	81	202	211	221	241	0	2	4	8	12	16	8	true	0	true	false	true	Temple.dds
+10003	0	10003	880003	0	120022	120023	2	11	21	41	81	0	0	0	0	0	2	4	6	8	0	4	true	0	true	false	true	1VS1.dds
+10004	0	0	0	0	0	0	0	0	0	0	81	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10012	0	10012	1000032040	0	120022	120023	2	11	21	41	81	0	0	0	0	0	2	4	6	8	10	8	true	0	true	false	true	4vs4Gournd.dds
+10014	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10015	1	10015	1000021680	0	120022	120023	71	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	false	0	false	false	true	Ladder_1on1_Moon.dds
+10016	2	10016	1000021680	0	120022	120023	72	0	0	0	0	0	0	0	0	0	2	0	0	0	0	2	false	0	false	false	true	Ladder_1on1_Moon.dds
+10017	3	10017	1000021680	0	120022	120023	73	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	false	0	false	false	true	Ladder_1on1_Moon.dds
+10018	4	10018	1000021680	0	120022	120023	74	0	0	0	0	0	0	0	0	0	4	0	0	0	0	4	false	0	false	false	true	Ladder_1on1_Moon.dds
+10019	6	10015	1000021680	0	120022	120023	76	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	false	0	false	false	true	Ladder_1on1_Moon.dds
+10020	0	10020	121088	0	120022	120023	51	0	0	0	0	0	0	0	0	0	4	8	12	16	0	16	true	0	true	false	true	MonsterMode.dds
+10021	0	10021	121097	0	120022	120023	52	0	0	0	0	0	0	0	0	0	4	8	12	16	0	16	true	0	true	false	true	MonsterMode3.dds
+10022	0	10022	1000065708	0	120022	120023	5	14	0	0	0	0	0	0	0	0	4	8	10	12	16	8	true	0	false	false	true	Temple_AI.dds
+10023	0	10023	1000065709	0	120022	120023	5	14	0	0	0	0	0	0	0	0	4	8	10	12	16	8	true	0	false	false	true	Round&Round_AI.dds
+10024	0	10024	1016866	0	1016866	1016866	120	0	0	0	0	0	0	0	0	0	12	0	0	0	0	12	true	0	true	false	true	PvP_Hunting_Lobby.dds
+10025	5	10015	1000021680	0	120022	120023	75	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	false	0	false	false	true	Ladder_1on1_Moon.dds
+10026	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	8	16	0	0	0	8	true	0	false	false	false	Temple.dds
+10027	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	true	0	true	false	false	GuildWar_Field_01_Lobby.dds
+10028	0	10028	120316	0	120022	120023	121	0	0	0	0	0	0	0	0	0	8	16	0	0	0	16	false	0	false	false	true	MonsterMode4.dds
+10029	0	10029	1000101881	0	120022	120023	2	0	0	0	0	0	0	0	0	0	8	16	2	0	0	16	false	0	false	false	false	MonsterMode4.dds
+10030	0	10030	1016866	0	1016866	1016866	125	0	0	0	0	0	0	0	0	0	12	0	0	0	0	12	true	0	true	false	true	PvP_Hunting_Lobby.dds
+10031	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10032	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10033	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10034	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10035	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10036	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10037	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10038	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10039	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10040	0	10040	1000039804	0	121123	121123	32	36	0	0	0	0	0	0	0	0	2	4	8	12	16	8	false	0	false	false	true	AllKillMode.dds
+10041	0	10041	1000068991	0	120022	120023	11	0	0	0	0	0	0	0	0	0	2	4	6	0	0	4	true	0	false	false	true	DWC_Arena.dds
+10042	0	10042	1000068992	0	120022	120023	11	0	0	0	0	0	0	0	0	0	2	4	6	0	0	4	true	0	false	false	true	Temple_AI.dds
+10044	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10045	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10046	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10047	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10048	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10049	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10050	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10051	0	10051	1000023353	0	120022	120023	91	0	0	0	0	0	0	0	0	0	8	0	0	0	0	8	false	0	false	false	true	Racemode.dds
+10052	0	10052	1000049971	0	1000049971	1000049971	94	95	96	0	0	0	0	0	0	0	4	8	16	32	0	16	true	0	true	false	true	AllKillMode.dds
+10053	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10054	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10055	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10056	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10057	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10058	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10059	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10060	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10061	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10062	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10063	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10064	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10065	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10066	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10067	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10068	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10069	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10070	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10071	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10072	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10073	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10074	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10075	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10076	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10077	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10078	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0	0	16	false	0	false	false	false	
+10100	0	10100	1000051007	0	0	0	100	0	0	0	0	0	0	0	0	0	1	2	4	8	16	4	true	0	true	false	true	AllKillMode.dds
+11002	0	11002	1000021681	0	120022	120023	61	124	0	0	0	0	0	0	0	0	32	0	0	0	0	32	true	0	true	true	true	GuildWar_Field_01_Lobby.dds
+11100	0	11100	1000021681	0	120022	120023	50	0	0	0	0	0	0	0	0	0	4	6	8	10	0	10	true	0	true	true	false	GuildWar_Field_01_Lobby.dds
+16001	0	16001	120148	0	120106	0	81	0	0	0	0	0	0	0	0	0	2	4	6	8	10	10	true	0	true	false	true	PvP_Conquest_Lobby.dds
+20001	100	10040	1000039804	0	121123	121123	108	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	false	0	false	false	false	AllKillMode.dds
+20002	101	10040	1000039804	0	121123	121123	109	0	0	0	0	0	0	0	0	0	3	0	0	0	0	3	false	0	false	false	false	AllKillMode.dds
+10150	0	10150	1000055537	0	1000055537	1000055537	110	111	112	0	0	0	0	0	0	0	4	8	16	0	0	16	false	0	true	false	false	AllKillMode.dds
+17001	0	10031	120331	0	120331	120331	123	0	0	0	0	0	0	0	0	0	6	0	0	0	0	6	true	0	true	false	false	AllKillMode.dds
+17002	0	10032	120331	0	120331	120331	123	0	0	0	0	0	0	0	0	0	6	0	0	0	0	6	true	0	true	false	false	AllKillMode.dds
+10006	0	10006	880006	0	120022	120023	2	11	21	41	81	202	211	221	241	0	4	8	10	12	16	8	true	0	true	false	true	Round&Round.dds
+10007	0	10007	880007	0	120022	120023	2	11	21	41	81	202	211	221	241	0	4	8	10	12	16	8	true	0	true	false	true	FogValley.dds
+10008	0	10008	880008	0	120022	120023	2	11	21	41	81	202	211	221	241	0	4	8	10	12	16	8	true	0	true	false	true	CircleFight.dds
+10009	0	10009	880009	0	120022	120023	2	11	21	41	81	202	211	221	241	0	4	8	10	12	16	8	true	0	true	false	true	GrayRuinPvP.dds
+10010	0	10010	1000006270	0	120022	120023	2	11	21	41	81	202	211	221	241	0	4	8	10	12	16	8	true	0	true	false	true	RuinLowerPvP.dds
+10011	0	10011	1000017702	0	120022	120023	2	11	21	41	81	202	211	221	241	0	4	8	10	12	16	8	true	0	true	false	true	BlackMonarchPvP.dds
+10013	0	10013	1000062491	0	120022	120023	2	11	21	41	81	202	211	221	241	0	4	8	10	12	16	8	true	0	true	false	true	PvP_BurningCataract.dds

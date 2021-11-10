@@ -1,0 +1,6 @@
+ROWID	_TitleID|INTEGER	_Priority|INTEGER	_Status|INTEGER	_Link|TEXT	_ThumbnailUrl|TEXT	_ThumbnailName|TEXT
+1	1000074417	5	1	http://dn.pupugame.com/news/cartoon.html?mode=read&no=155&category=1	http://ufile.pupugame.com/file/dn/cartoon/201507/	1436873168878981_73168.jpg
+2	1000074597	4	1	http://dn.pupugame.com/news/cartoon.html?mode=read&no=153&category=1	http://ufile.pupugame.com/file/dn/cartoon/201507/	1436873028500111_73028.jpg
+3	1000074790	3	1	http://dn.pupugame.com/news/cartoon.html?mode=read&no=132&category=1	http://ufile.pupugame.com/file/dn/cartoon/201507/	1436854405667111_54405.jpg
+4	1000074598	2	1	http://dn.pupugame.com/news/cartoon.html?mode=read&no=64&category=1	http://ufile.pupugame.com/file/dn/cartoon/201507/	1436785614309057_85614.jpg
+5	1000074599	1	1	http://dn.pupugame.com/news/cartoon.html?mode=read&no=59&category=1	http://ufile.pupugame.com/file/dn/cartoon/201507/	1436785103143666_85103.jpg

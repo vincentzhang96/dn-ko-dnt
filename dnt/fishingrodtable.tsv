@@ -1,0 +1,9 @@
+ROWID	_ItemID|INTEGER	_SecondarySkillClass|INTEGER	_SecondarySkillLevel|INTEGER	_fishingrodfilename|TEXT
+348259329	0	1	1	Fishing Rod
+348260353	0	1	1	Fishing Rod01
+348260354	0	1	8	
+348261377	0	1	4	
+348261378	0	1	8	
+348262401	0	1	12	
+268477849	0	1	1	FishingRod_SeaDragon
+268477853	0	1	1	FishingRod_SeaDragon

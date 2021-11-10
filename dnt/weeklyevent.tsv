@@ -1,0 +1,2 @@
+ROWID	_DayOfWeek|INTEGER	_StartTime|INTEGER	_EndTime|INTEGER	_RaceType|INTEGER	_ClassType|INTEGER	_EventType|INTEGER	_Value|INTEGER
+1	1	13	14	2	0	1	-10

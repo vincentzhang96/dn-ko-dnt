@@ -1,0 +1,9 @@
+ROWID	_VehicleClassID|TEXT	_VehicleActorID|INTEGER	_DefaultBodyParts|INTEGER	_DefaultPartsA|INTEGER	_DefaultPartsB|INTEGER	_VehicleSummonTime|INTEGER	_VehicleDefaultSpeed|INTEGER	_PetLevelTypeID|INTEGER	_PetSKILLID1|INTEGER	_PetSKILLID2|INTEGER	_Range|INTEGER	_Petacteffect|TEXT	_RiderString|TEXT	_FoodID|INTEGER	_PetChatID|INTEGER	_PetDyeType|INTEGER	_RideNum|INTEGER	_HidePartsID|INTEGER	_StealthMode|BOOLEAN	_MoveSlope|BOOLEAN	_CameraOffset|INTEGER	_CameraX|DOUBLE	_CameraY|DOUBLE	_CameraZ|DOUBLE	_CameraZoom|INTEGER	_TargetLength|INTEGER	_CharBoneFollowFairy|BOOLEAN	_DarkRideTrans|TEXT	_HeadNameHeight|DOUBLE	_FellowString|TEXT	_SetItemID|INTEGER	_Grade_SetItem|BOOLEAN	_SetItemTextID|INTEGER
+1124804608	1	80000	0	0	1125125120	1000	540	0	0	0	0			0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0
+1124806656	1	80001	0	0	1125125120	1000	540	0	0	0	0			0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0
+1124808704	1	80002	0	0	1125125136	1000	576	0	0	0	0			0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0
+1124810752	1	80003	0	0	1125125136	1000	576	0	0	0	0			0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0
+1073763368	12	80019	0	1073760799	1073750033	1000	612	0	0	0	0			0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0
+1073770222	8	80021	0	1073742809	1073742662	1000	612	0	0	0	0			0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0
+1073777060	9	80017	0	1073749633	0	1000	612	0	0	0	0			0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0
+1073791414	11	80018	0	1073751479	1073742662	1000	612	0	0	0	0			0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0

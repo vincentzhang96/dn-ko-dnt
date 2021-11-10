@@ -1,0 +1,2 @@
+ROWID	_ItemID|INTEGER	_Count|INTEGER	_Prob|INTEGER	_Period|INTEGER	_ChaoscubeNum|INTEGER	_Msg|BOOLEAN	_Gold|INTEGER	_Chaosmatchingnum|INTEGER	_Resultgrade|INTEGER
+10001	1073905759	30	1	0	253885	false	0	0	0

@@ -1,0 +1,339 @@
+ROWID	_Name|TEXT	_Type|INTEGER
+10000	DefaultLayerTexture.dds	2
+1	Foor_Green01.dds	4
+2	Foor_Green02.dds	4
+3	Foor_Snow01.dds	4
+4	Foor_Stone01.dds	4
+5	Foor_Stone02.dds	4
+6	Foor_Stone03.dds	4
+7	Foor_Stone04.dds	4
+8	Foor_Stone05.dds	4
+9	Foor_Stone06.dds	4
+10	Foor_Stone07.dds	4
+11	Foor_Stone08.dds	4
+12	Foor_Stone09.dds	4
+13	Foor_Stone10.dds	4
+14	Foor_Stone12.dds	9
+15	Foor_Stone13.dds	4
+16	Foor_Stone11.dds	4
+17	Foor_Stone14.dds	4
+18	Foor_Stone15.dds	4
+19	Foor_Stone16.dds	4
+20		0
+21		0
+22		0
+23		0
+24		0
+25	Green_Dry01.dds	2
+26	Green_Dry02.dds	2
+27	Green_Dry03.dds	2
+28	Green_Dry04.dds	1
+51	Green_Dry05.dds	2
+52	Green_Wet01.dds	2
+53	Green_Wet02.dds	2
+54	Green_Wet03.dds	2
+55	Green_Wet04.dds	2
+56	Green_Wet05.dds	2
+57	Green_Wet06.dds	2
+58	Green_Wet07.dds	2
+59	Green_Wet08.dds	2
+60	Green_Wet09.dds	2
+61	Green_Wet10.dds	2
+62	Green_Wet11.dds	2
+63	Green_Wet12.dds	2
+64	Green_Wet13.dds	2
+65	Green_Wet14.dds	2
+66	Green_Wet15.dds	2
+67	Green_Wet16.dds	2
+68	Green_Wet17.dds	2
+69	Green_Wet18.dds	2
+70	Green_Wet19.dds	2
+71	Green_Wet20.dds	2
+72	Green_Dry06.dds	2
+73	Green_Dry07.dds	11
+74	Green_Dry08.dds	11
+75	Green_Dry09.dds	2
+76	Green_Dry10.dds	2
+77	Green_Wet21.dds	2
+78	Green_Wet22.dds	2
+79	Green_Wet23.dds	2
+80		0
+101	Ground_Dry10.dds	1
+102	Ground_Dry01.dds	1
+103	Ground_Dry02.dds	1
+104	Ground_Dry03.dds	1
+105	Ground_Dry04.dds	1
+106	Ground_Dry05.dds	1
+107	Ground_Dry06.dds	1
+108	Ground_Dry07.dds	1
+109	Ground_Dry08.dds	1
+110	Ground_Dry09.dds	1
+111	Ground_Wet01.dds	5
+112	Ground_Wet02.dds	5
+113	Ground_Dry11.dds	1
+114	Ground_Dry12.dds	1
+115	Ground_Wet03.dds	5
+116	Ground_Dry13.dds	1
+117	Ground_Wet04.dds	5
+118	Ground_Dry14.dds	1
+119	Ground_Dry15.dds	1
+120	Ground_Wet05.dds	5
+121	Ground_Wet06.dds	5
+122	Ground_Dry16.dds	6
+123	Ground_Dry17.dds	4
+124	Ground_Dry00.dds	4
+125	Ground_Wet07.dds	1
+126	Ground_Wet08.dds	1
+127	Sand_Ground01.dds	6
+128	Sand_Ground02.dds	6
+129	Sand_Ground03.dds	6
+130	Sand_Stone01.dds	6
+151	Sand_Ground04.dds	6
+152	Sand_Ground05.dds	6
+153	Sand_Ground06.dds	6
+154	Sand_Ground07.dds	6
+155	Sand_Ground08.dds	6
+156	Sand_Ground09.dds	6
+157	Sand_Ground10.dds	6
+158	Sand_Ground14.dds	6
+159	Sand_Stone02.dds	6
+160	Sand_Stone04.dds	1
+161	Sand_Stone05.dds	4
+162	Sand_Ground08_Spec.dds	6
+163	Sand_Ground06_Spec.dds	6
+164	Sand_Ground01_Spec.dds	6
+165	GM_Map01.dds	13
+166	Snow_Ground01.dds	7
+167	Snow_Ground02.dds	7
+168	Snow_Stone01.dds	4
+169	Snow_Stone02.dds	4
+170	Snow_Stone03.dds	4
+171	Sand_Ground11.dds	6
+172	Sand_Ground12.dds	6
+173	Sand_Stone03.dds	4
+174	Sand_Stone04.dds	6
+175	Sand_Stone05.dds	6
+176	Sand_Ground15.dds	1
+177	Ground_Dry18.dds	1
+178	Ground_Dry19.dds	1
+179	Sand_Ground06_01.dds	6
+180	Sand_Ground09_01.dds	6
+201		0
+202		0
+203		0
+204		0
+205		0
+206		0
+207		0
+208	Stone_Dry14.dds	4
+209	Stone_Dry01.dds	4
+210	Stone_Dry02.dds	4
+211	Stone_Dry03.dds	4
+212	Stone_Dry04.dds	4
+213	Stone_Dry05.dds	4
+214	Stone_Dry06.dds	4
+215	Stone_Dry07.dds	4
+216	Stone_Dry08.dds	4
+217	Stone_Dry09.dds	4
+218	Stone_Dry10.dds	4
+219	Stone_Dry11.dds	4
+220	Stone_Dry12.dds	4
+221	Stone_Green01.dds	4
+222	Stone_Green02.dds	4
+223	Stone_Green03.dds	4
+224	Stone_Green04.dds	4
+225	Stone_Green05.dds	4
+226	Stone_Green06.dds	4
+227	Stone_Dry15.dds	4
+228	Stone_Green07.dds	4
+229	Stone_Green09.dds	4
+230	Stone_Green08.dds	4
+251	Stone_Green10.dds	4
+252	Stone_Green11.dds	4
+253	Stone_Dry14.dds	4
+254	Stone_Dry16.dds	4
+255	Stone_Dry17.dds	4
+256	Stone_Dry18.dds	4
+257	Stone_Dry19.dds	4
+258		0
+259		0
+260		0
+261		0
+262	Scum.dds	0
+263	water-Scum01.dds	0
+264	water-Scum02.dds	0
+265	water-wave01.dds	0
+266	water-wave02.dds	5
+267	water-wave03.dds	0
+268	water-sand03.dds	6
+269	water-scum03.dds	0
+270		0
+271	Foor_Stone17.dds	4
+272	Foor_Stone18.dds	4
+273	Foor_Stone19.dds	4
+274	Foor_Stone20.dds	4
+275	Foor_Stone21.dds	4
+276	Foor_Stone22.dds	4
+277	Ground_Wet09.dds	1
+278	Ground_Wet10.dds	1
+279		0
+280		0
+281	Ground_wet12.dds	12
+282	Foor_Stone23.dds	4
+283	Ground_Dry20.dds	4
+284	Ground_Dry21.dds	1
+285	Ground_Dry22.dds	1
+286	Ground_Dry23.dds	1
+287	Ground_Dry24.dds	1
+288	Ground_Dry25.dds	1
+289	Stone_Dry20.dds	4
+290	Stone_Dry21.dds	4
+291	Stone_Dry22.dds	4
+292	Stone_Dry23.dds	4
+293		0
+294	Ground_Dry26.dds	1
+295	Ground_Dry27.dds	1
+296	Ground_Dry28.dds	1
+297	Ground_Dry20_01.dds	1
+298	Ground_Dry23_01.dds	1
+299	Ground_Dry00_01.dds	13
+300	Ground_Dry29.dds	4
+301	Grass_Dry39.dds	2
+302	Stone_Dry08_01.dds	4
+303		0
+304	Foor_Stone24.dds	4
+305	Foor_Stone25.dds	4
+306	Grass_Dry36.dds	0
+307	Grass_Dry38.dds	0
+308		0
+309	Foor_Stone26.dds	4
+310	Foor_Stone26_01.dds	4
+311	Foor_Stone26_02.dds	4
+312	Ground_Wet11.dds	5
+313	Stone_Dry08_02.dds	4
+314	water-magma02.dds	0
+315		0
+316	Foor_Stone27.dds	4
+317	Foor_Stone27_01.dds	4
+318		0
+319	Ground_Dry26_01.dds	1
+320		0
+321	Sand_Ground16_Spec.dds	14
+322	Sand_Ground17_Spec.dds	14
+323	Sand_Ground18_Spec.dds	1
+324	Sand_Ground19_Spec.dds	14
+325	Sand_Ground20_Spec.dds	14
+326	Sand_Stone06_Spec.dds	14
+327		0
+328	Foor_Stone28.dds	4
+329		0
+330	Foor_Stone11_02.dds	4
+331	Foor_Stone11_03.dds	4
+332		0
+333	Foor_Stone29.dds	4
+334	Foor_Stone30.dds	4
+335	Grass_Dry46.dds	2
+336	Snow_Ground03.dds	7
+337		0
+338	Foor_Stone31.dds	4
+339	Sand_Ground07_01.dds	2
+340	Sand_Ground21.dds	1
+341	Sand_Ground21_01.dds	1
+342	Sand_Ground22.dds	5
+343	Sand_Ground23.dds	1
+344	Sand_Stone07.dds	4
+345		0
+346	Foor_Stone33.dds	4
+347	Ground_Dry30.dds	9
+348	Sand_Ground24.dds	1
+349	Sand_Ground25.dds	2
+350	Foor_Stone28_01.dds	4
+351	Green_Wet24.dds	2
+352	Foor_Stone32.dds	4
+353	Foor_Stone34.dds	4
+354		0
+355	Foor_Stone35.dds	4
+356	Green_Dry12.dds	2
+357	Green_Wet25.dds	2
+358	Green_Wet26.dds	2
+359	Sand_Ground26_Spec.dds	6
+360	Sand_Ground27.dds	1
+361	Sand_Ground28_Spec.dds	5
+362	Sand_Ground29.dds	1
+363	Stone_Dry24_Spec.dds	4
+364	Stone_Dry25_01.dds	4
+365	Stone_Dry25_Spec.dds	4
+366	Stone_Dry26.dds	4
+367	Stone_Dry27.dds	4
+368	Stone_Dry28.dds	4
+369	Foor_T_HanselGretel01.dds	4
+370	Foor_T_HanselGretel02.dds	4
+371	Foor_T_HanselGretel03.dds	7
+372	Foor_T_HanselGretel04.dds	4
+373	Foor_Stone38_Spec.dds	4
+374	Foor_T_Goldcoin01_ Spec.dds	4
+375	Sand_Ground14_Spec.dds	6
+376	Foor_T_HanselGretel05.dds	4
+377	Sand_Ground18.dds	6
+378	Green_Wet27.dds	2
+379	Green_Wet28.dds	2
+380	Green_Wet29.dds	2
+381	Stone_Dry29.dds	4
+382	Ground_Dry31.dds	1
+383	Sand_Ground30.dds	6
+384	Stone_Dry30.dds	4
+385	Ground_Dry32.dds	1
+386	Ground_Dry33.dds	1
+387	Grass_Green49.dds	2
+388	Foor_Stone39.dds	4
+389	Foor_Stone40.dds	4
+390	Foor_Stone41.dds	4
+391	Foor_Stone42.dds	4
+392	Stone_Dry32.dds	4
+393	Green_Dry13.dds	2
+394	Grass_Green+Dry07.dds	2
+395	Foor_Stone43.dds	4
+396	Ground_Dry35.dds	1
+397	Stone_Dry31.dds	4
+398	Green_Wet30.dds	2
+399	Ground_Dry36.dds	1
+400	Ground_Dry37.dds	1
+401	Ground_Dry38.dds	1
+402	Stone_Dry33.dds	4
+403	Stone_Dry34.dds	4
+404	Sand_Ground33.dds	1
+405	Foor_Stone44.dds	4
+406	Sand_Ground32.dds	6
+407	Stone_Dry35.dds	4
+408	Ground_Wet13.dds	5
+409	Sand_Ground31.dds	1
+410	green_dry11.dds	2
+411	RN01_Foor_Green02a.dds	4
+412	RN01_Foor_Green03.dds	4
+413	RN01_Foor_Green04.dds	4
+414	RN01_Green_Wet03a.dds	2
+415	RN01_Green_Wet08_Vary.dds	2
+416	RN01_Green_Wet26_Vary.dds	2
+417	RN01_Green_Wet31.dds	2
+418	RN01_Ground_Wet13a.dds	2
+419	RN01_Stone_Green04a.dds	2
+420	Green_Dry16.dds	2
+421	foor_stone47.dds	4
+422	foor_stone48.dds	4
+423	green_dry15.dds	2
+424	ground_dry39.dds	1
+425	Green_Wet31.dds	2
+426	Ground_Wet14.dds	5
+427	Ground_Wet15.dds	5
+428	Stone_Dry36.dds	4
+429	Grass_Dry58.dds	11
+430	Stone_Dry37.dds	4
+431	Stone_Dry38.dds	4
+432	Ground_Dry40.dds	1
+433	Ground_Dry41.dds	1
+434	Grass_Snow08.dds	7
+435	Foor_Snow02.dds	4
+436	Foor_Stone49.dds	4
+437	Ground_Dry42.dds	1
+438	Ground_Dry43.dds	1
+439	Stone_Dry39.dds	4

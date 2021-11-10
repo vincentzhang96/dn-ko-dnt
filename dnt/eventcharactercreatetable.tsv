@@ -1,0 +1,3 @@
+ROWID	_ListSort|INTEGER	_JobID|INTEGER	_ClassID|INTEGER	_JobName|INTEGER	_Type|INTEGER	_BurtonImg|TEXT	_CharacterImg|TEXT
+1	1	75	1	312	1	Side_Avenger.dds	DwcAvenger.dds
+2	2	80	2	315	2	Side_SliverHunter.dds	DwcSliverHunter.dds

@@ -1,0 +1,9 @@
+ROWID	_SkinFileName|TEXT	_HarvestIcon|TEXT	_1StepHead|DOUBLE	_2StepHead|DOUBLE
+1	FarmPlants_Basic.skn		0.0	0.0
+2	FarmPlants01.skn	LifeCrossHair03.dds	50.0	65.0
+3	FarmPlants02.skn	LifeCrossHair06.dds	50.0	110.0
+4	FarmPlants03.skn	LifeCrossHair07.dds	30.0	40.0
+5	FarmPlants04.skn	LifeCrossHair04.dds	70.0	70.0
+6	FarmPlants05.skn	LifeCrossHair05.dds	40.0	40.0
+7	FarmPlants_PointTree_01.skn	LifeCrossHair11.dds	50.0	65.0
+8	FarmPlants_PointTree_02.skn	LifeCrossHair12.dds	50.0	65.0

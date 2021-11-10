@@ -1,0 +1,6 @@
+ROWID	_UrlID|INTEGER	_UrlInfo|TEXT	_UrlGuideInfo|TEXT	_UrlPassReset|TEXT
+1	0	http://ufile.pupugame.com/file/dn/ingame_eventbnr/eventbnr_01.png	http://ufile.pupugame.com/file/dn/ingame_guide/main.html	http://dn.pupugame.com/2nd_pw/pw_gate.html
+2	1	http://ufile.pupugame.com/file/dn/ingame_eventbnr/eventbnr_02.png		
+3	2	http://ufile.pupugame.com/file/dn/ingame_eventbnr/eventbnr_03.png		
+4	3	http://ufile.pupugame.com/file/dn/ingame_eventbnr/eventbnr_04.png		
+5	4	http://ufile.pupugame.com/file/dn/ingame_eventbnr/eventbnr_05.png		

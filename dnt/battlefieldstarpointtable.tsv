@@ -1,0 +1,7 @@
+ROWID	_Point|INTEGER	_StarIcon|TEXT
+1	1	BattleField_1star.dds
+2	2000	BattleField_2star.dds
+3	4000	BattleField_3star.dds
+4	6000	BattleField_4star.dds
+5	8000	BattleField_5star.dds
+6	30000	BattleField_5star.dds

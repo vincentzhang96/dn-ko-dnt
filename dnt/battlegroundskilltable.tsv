@@ -1,0 +1,16 @@
+ROWID	_NameID|INTEGER	_StaticName|TEXT	_IconImageIndex|INTEGER	_BuffIconImageIndex|INTEGER	_NeedJob|INTEGER	_NeedWeaponType1|INTEGER	_NeedWeaponType2|INTEGER	_MaxLevel|INTEGER	_SkillType|INTEGER	_DurationType|INTEGER	_TargetType|INTEGER	_Dissolvable|INTEGER	_Element|INTEGER	_EffectClass1|INTEGER	_EffectClass1ApplyType|INTEGER	_EffectClass2|INTEGER	_EffectClass2ApplyType|INTEGER	_EffectClass3|INTEGER	_EffectClass3ApplyType|INTEGER	_EffectClass4|INTEGER	_EffectClass4ApplyType|INTEGER	_EffectClass5|INTEGER	_EffectClass5ApplyType|INTEGER	_EffectAmassCount|INTEGER	_SkillDuplicate|INTEGER	_EffectDuplicate|INTEGER	_UsableChecker1|INTEGER	_UsableChecker2|INTEGER	_UsableChecker3|INTEGER	_UsableChecker4|INTEGER	_UsableChecker5|INTEGER	_Processor1|INTEGER	_Processor2|INTEGER	_Processor3|INTEGER	_Processor4|INTEGER	_Processor5|INTEGER	_Lock|BOOLEAN	_UnlockSkillBookItemID|INTEGER	_UnlockPrice|INTEGER	_DuplicatedSkillType|INTEGER	_BaseSkillID|INTEGER	_SkillTip|BOOLEAN	_EffectClass6|INTEGER	_EffectClass6ApplyType|INTEGER	_EffectClass7|INTEGER	_EffectClass7ApplyType|INTEGER	_SPMaxLevel|INTEGER
+250001	1000003334	TimeRestriction	463	92	0	-1	-1	1	0	1	5	0	-1	96	5	0	1	0	1	0	1	0	1	1	99	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250002	1000002534	IronSkin	18	93	0	-1	-1	1	0	1	5	0	-1	61	5	134	5	135	5	0	1	0	1	1	99	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250003	1000003295	Spiritboost	248	94	0	-1	-1	1	0	1	5	0	-1	25	5	76	5	0	1	0	1	0	1	1	99	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250004	1000017336	HighLander	73	95	0	-1	-1	1	0	1	5	0	-1	143	5	0	1	0	1	0	1	0	1	1	99	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250005	1000004128	ProtectionShell	660	96	0	-1	-1	1	0	1	5	0	-1	134	5	135	5	0	1	0	1	0	1	1	99	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250006	1000002645	Striking	662	97	0	-1	-1	1	0	1	5	0	-1	2	5	29	5	0	1	0	1	0	1	1	99	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250007	1000003375	BlessOfLight	664	98	0	-1	-1	1	0	1	5	0	-1	34	5	38	5	0	1	0	1	0	1	1	99	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250008	1000030441	DemiGod	1219	99	0	-1	-1	1	0	1	5	0	-1	96	5	61	5	134	5	135	5	25	5	1	99	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	76	5	0	1	0
+250009	1000031481	OperatePortal	1217	0	0	-1	-1	1	0	0	5	0	-1	0	1	0	1	0	1	0	1	0	1	1	0	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250010	1000031482	DefenseUp	1218	0	0	-1	-1	1	0	0	5	0	-1	0	1	0	1	0	1	0	1	0	1	1	0	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250011	1000030442	SummonTrebuchet_Fire	1221	0	0	-1	-1	1	0	0	5	0	-1	0	1	0	1	0	1	0	1	0	1	1	0	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250012	1000030446	SummonBallista_Fire	1220	0	0	-1	-1	1	0	0	5	0	-1	0	1	0	1	0	1	0	1	0	1	1	0	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250013	1000030442	SummonTrebuchet_Fire	1221	0	0	-1	-1	1	0	0	5	0	-1	0	1	0	1	0	1	0	1	0	1	1	0	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250014	1000030446	SummonBallista_Fire	1220	0	0	-1	-1	1	0	0	5	0	-1	0	1	0	1	0	1	0	1	0	1	1	0	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0
+250015	1000031483	GuildRadar	1222	0	0	-1	-1	1	0	1	5	0	-1	210	5	0	1	0	1	0	1	0	1	1	0	0	10	0	0	0	0	1	0	0	0	0	false	0	0	0	0	true	0	1	0	1	0

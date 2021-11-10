@@ -1,0 +1,41 @@
+ROWID	_Named_Max_count|INTEGER	_NamedItem_ID|INTEGER	_Item_ID|INTEGER	_Loop_Effect|TEXT	_Skill_Effect|TEXT	_Target_Effect|TEXT	_LookValue|INTEGER	_UistringIndex|INTEGER
+1	3	536871449	268476725	Loop_Blessstone	Blessstone_Skill	Blessstone_Target	10	0
+7	10	536872619	268476725	Loop_Blessstone	Blessstone_Skill	Blessstone_Target	10	0
+8	10	536872620	268476725	Loop_Blessstone	Blessstone_Skill	Blessstone_Target	10	0
+10	10	536873795	268476725	Loop_Blessstone	Blessstone_Skill	Blessstone_Target	10	0
+26	10	536876143	268476725	Loop_Blessstone	Blessstone_Skill	Blessstone_Target	10	0
+2	0	1073779476	346031104	VVIP_Loop	VVIP_Skill	VVIP_Target	11	0
+6	0	1073779812	346031104	VVIP_Loop	VVIP_Skill	VVIP_Target	11	0
+29	0	536878040	346031104	VVIP_Loop	VVIP_Skill	VVIP_Target	11	0
+100	0	536878978	346031104	Loop_Blessstone_Pink	Blessstone_Skill_Pink	Blessstone_Target_Pink	1	0
+101	0	536878979	346031104	Loop_Blessstone_Pink	Blessstone_Skill_Pink	Blessstone_Target_Pink	1	0
+102	0	536878980	346031104	Loop_Blessstone_Hero	Blessstone_Skill_Hero	Blessstone_Target_Hero	1	0
+103	0	536879658	346031104	Sakura	Sakura	Sakura	1	0
+5	5	536872201	346031104	Loop_Blessstone_Lady	Blessstone_Skill	Blessstone_Target	12	0
+17	10	536875429	346031104	Loop_Blessstone_Red	Blessstone_Skill_Red	Blessstone_Target_Red	9	0
+18	10000	536875608	346031104	Loop_Blessstone_Black	Blessstone_Skill_Black	Blessstone_Target_Black	8	0
+27	10000	536876163	346031104	Loop_Blessstone_Black	Blessstone_Skill_Black	Blessstone_Target_Black	8	0
+20	5	268457336	268452927				1	0
+21	5	268457337	268452927				1	0
+22	5	268457338	268452927				1	0
+23	5	268457339	268452927				1	0
+31	0	268483790	346031104		Dragon_Buff_Promise	Dragon_Buff_Promise	10	1000155831
+32	0	536880370	346031104	Love_Covenant	Love_Covenant	Love_Covenant	12	0
+33	0	268484194	346031104		Dragon_Buff_Promise	Dragon_Buff_Promise	11	1000149720
+35	0	536881066	346031104		Blessstone_Skill	Blessstone_Target	9	0
+3	0	268443229	346031104		Dragon_Buff_World	Dragon_Buff_World	9	1000155832
+4	0	268443246	346031104		Drinking_Angel	Drinking_Angel	8	1000155833
+9	0	268449204	346031104		Dragon_Buff_World	Dragon_Buff_World	9	1000155834
+19	0	268457378	346031104		Dragon_Buff_World	Dragon_Buff_World	9	9825
+25	0	268466389	346031104		Dragon_Buff_World	Dragon_Buff_World	9	1000155835
+28	0	268474995	346031104		Dragon_Buff_World	Dragon_Buff_World	9	1000155836
+30	0	268477560	346031104		Dragon_Buff_World	Dragon_Buff_World	9	1000155837
+34	0	268484866	346031104		Dragon_Buff_World	Dragon_Buff_World	9	1000155840
+11	1	268449962	346031104		Blessstone_Skill	Blessstone_Target	1	8860
+12	1	268449963	346031104		Blessstone_Skill	Blessstone_Target	1	8860
+13	1	268449964	346031104		Blessstone_Skill	Blessstone_Target	1	8860
+14	1	268449965	346031104		Blessstone_Skill	Blessstone_Target	1	8860
+15	1	268449966	346031104		Blessstone_Skill	Blessstone_Target	1	8860
+16	1	268449967	346031104		Blessstone_Skill	Blessstone_Target	1	8860
+24	3	536875917	346031104				8	9875
+36	46	536882269	346031104	Sunset_Loop	Sunset_Loop	Sunset_Loop	14	0

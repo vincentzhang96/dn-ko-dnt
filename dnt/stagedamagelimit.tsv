@@ -1,0 +1,2 @@
+ROWID	MapID|INTEGER	AttackPowerLimit|INTEGER	DamageLimit|INTEGER	HealingLimit_1|DOUBLE	HealingLimit_2|DOUBLE
+1	0	0	0	0.0	0.0

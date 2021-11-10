@@ -1,0 +1,15 @@
+ROWID	_MissionID|INTEGER	_FileType|BOOLEAN	_Title|TEXT	_EndLevel|INTEGER	_Order|INTEGER	_Exp|INTEGER
+1	4753	false	Guide_Cataract.dds	15	1	46170
+2	4754	true	Guidemission_Job1.avi	20	2	94200
+3	4755	false	Guide_Nest0001.dds	30	3	381472
+4	4756	false	Guide_SaintHaven.dds	35	4	496557
+5	4757	false	Guide_Themepark.dds	38	5	511487
+6	4758	true	glyph.avi	40	6	542613
+7	4759	false	Guide_LotusMarsh.dds	45	7	682737
+8	4760	true	Guidemission_Job2.avi	55	8	951625
+9	4761	true	DragonJewel.avi	60	9	1174346
+10	4762	false	Guide_Like.dds	65	10	1407306
+11	4763	true	Talisman.avi	70	11	1583805
+12	4764	false	Guide_Sparta.dds	75	12	1997637
+13	4765	false	Guide_Merca.dds	90	13	3787898
+14	4766	false	Guide_Rhadames.dds	93	14	19650638

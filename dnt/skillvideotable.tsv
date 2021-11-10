@@ -1,0 +1,1480 @@
+ROWID	_SkillID|INTEGER	_SkillVideoFile|TEXT	_SkillDescription|INTEGER	_ContentsID|TEXT
+1	2	Warior_ImpactPunch.avi	0	0
+2	5	Warior_RisingSlash.avi	0	0
+3	6	Warior_ImpactWave.avi	0	0
+4	7	Warior_CircleBreak.avi	0	0
+5	8	Warior_SideKick.avi	0	0
+6	9	Warior_SoccerKick.avi	0	0
+7	10	Warior_ElbowDrop.avi	0	0
+8	11	Warior_Tumble.avi	0	0
+9	12	Warior_WakeupAttack.avi	0	0
+10	15	Warior_DropKick.avi	0	0
+11	17	Warior_Relieve.avi	0	0
+12	18	Warior_Dash.avi	0	0
+13	20	Warior_DashKick.avi	0	0
+14	24	Warior_AerialEvasion.avi	0	0
+15	28	Warior_HeavySlash.avi	0	0
+16	29	Warior_SweepingKick.avi	0	0
+17	30	Warior_PhysicalMastery.avi	0	0
+18	31	Warior_MentalMastery.avi	0	0
+19	32	Warior_MentalTraining.avi	0	0
+20	33	Destroyer_BreakingPoint.avi	0	0
+21	201	Swordmaster_DashSlash.avi	0	0
+22	202	Swordmaster_Parrying.avi	0	0
+23	203	Swordmaster_CycloneSlash.avi	1000061725	0
+24	204	Swordmaster_DeepStraight.avi	0	0
+25	205	Swordmaster_LineDrive.avi	1000061726	0
+26	206	Swordmaster_TripleSlash.avi	0	0
+27	207	Swordmaster_HackingStance.avi	1000061727	0
+28	208	Swordmaster_MoonLightSplitter.avi	0	0
+29	209	Swordmaster_CrecentCleave.avi	0	0
+30	210	Swordmaster_Eclipse.avi	0	0
+31	211	Swordmaster_HalfMoonSlash.avi	1000061728	0
+32	212	Swordmaster_Hemorrahage.avi	0	0
+33	213	Swordmaster_InfinityEdge.avi	0	0
+34	214	Swordmaster_GreatWave.avi	0	0
+35	215	Swordmaster_DashCombo.avi	0	0
+36	216	Swordmaster_CounterSlash.avi	0	0
+37	217	Swordmaster_CounterWave.avi	0	0
+38	218	Swordmaster_CounterExile.avi	0	0
+39	219	Swordmaster_ParryingStance.avi	0	0
+40	220	Swordmaster_AerialCombo.avi	0	0
+41	401	Mercenary_WhirlWind.avi	1000061729	0
+42	402	Mercenary_BattleHowl.avi	0	0
+43	403	Mercenary_CrisisHowl.avi	0	0
+44	404	Mercenary_IronSkin.avi	0	0
+45	405	Mercenary_FlyingSwing.avi	0	0
+46	406	Mercenary_PunishingSwing.avi	0	0
+47	407	Mercenary_CircleSwing.avi	1000062352	0
+48	408	Mercenary_Stomp.avi	0	0
+49	409	Mercenary_DemolitionFist.avi	0	0
+50	410	Mercenary_Circlebomber.avi	1000062353	0
+51	411	Mercenary_RollingAttack.avi	1000061730	0
+52	412	Mercenary_TauntingHowl.avi	0	0
+53	413	Mercenary_DisenchantingHowl.avi	0	0
+54	414	Warior_HighLander.avi	0	0
+55	415	Mercenary_WhirlTyphoon.avi	0	0
+56	416	Mercenary_GiganticBomber.avi	0	0
+57	417	Mercenary_DeverstatingHowl.avi	0	0
+58	418	Mercenary_DashUpper.avi	0	0
+59	419	Mercenary_SoccerKickCombo.avi	0	0
+60	420	Mercenary_Toughness.avi	0	0
+61	1001	Archer_TwinShot.avi	0	0
+62	1003	Archer_MultiShot.avi	0	0
+63	1008	Archer_WillowSpinKick.avi	0	0
+64	1009	Archer_Owl'sInsight.avi	0	0
+65	1013	Archer_Tumble.avi	0	0
+66	1016	Archer_MoonSaultKick.avi	0	0
+67	1017	Archer_SpinKick.avi	0	0
+68	1018	Archer_SomersaultKick.avi	0	0
+69	1019	Archer_LowSpinKick.avi	0	0
+70	1021	Archer_PinWheel.avi	0	0
+71	1023	Archer_UrgencyTrick.avi	0	0
+72	1024	Archer_AerialEvasion.avi	0	0
+73	1026	Archer_PiercingShot.avi	0	0
+74	1027	Archer_MagicArrow.avi	0	0
+75	1028	Archer_HighSpinKick.avi	0	0
+76	1029	Archer_PhysicalMastery.avi	0	0
+77	1030	Archer_MentalMastery.avi	0	0
+78	1031	Archer_MentalTraining.avi	0	0
+79	1032	Archer_Owl'sRage.avi	0	0
+80	1201	Bowmaster_ChargeShot.avi	0	0
+81	1202	Bowmaster_AerialChainShot.avi	1000061733	0
+82	1203	Bowmaster_GuidedShot.avi	1000061734	0
+83	1204	Bowmaster_PinpointShot.avi	0	0
+84	1205	Bowmaster_FakeShot.avi	0	0
+85	1206	Bowmaster_StunningShot.avi	0	0
+86	1207	Bowmaster_ArrowShower.avi	1000061735	0
+87	1208	Bowmaster_ExtensionArrow.avi	0	0
+88	1209	Bowmaster_AerialStunt.avi	0	보마리메후
+89	1210	Bowmaster_RapidShot.avi	1000061736	0
+90	1211	Bowmaster_RevolutionaryBallista.avi	0	0
+91	1212	Bowmaster_SpiritExcellation.avi	0	0
+92	1213	Bowmaster_Sylph`sAid.avi	0	0
+93	1215	Bowmaster_Bullseye.avi	0	0
+94	1217	Bowmaster_TriangleShot.avi	0	0
+95	1218	Bowmaster_LongBowMastery.avi	0	0
+96	1219	Bowmaster_CrossBowMastery.avi	0	0
+97	1220	Bowmaster_SiegeStance.avi	0	0
+98	1221	Bowmaster_AnkleShot.avi	0	0
+99	1401	Acrobat_CircleShot.avi	0	0
+100	1402	Acrobat_BindingShot.avi	0	0
+101	1403	Acrobat_BloomingKick.avi	1000061737	0
+102	1404	Acrobat_SpiralKick.avi	0	0
+103	1405	Acrobat_Kick&Shot.avi	0	0
+104	1406	Acrobat_SpiralVortex.avi	1000061738	0
+105	1407	Acrobat_CycloneKick.avi	1000061739	0
+106	1408	Acrobat_AirWalk.avi	0	0
+107	1409	Acrobat_Eagle`sDescent.avi	0	0
+108	1410	Acrobat_TopSpinning.avi	0	0
+109	1411	Acrobat_DoubleSomerSaultKick.avi	1000061740	0
+110	1412	Acrobat_Spiritboost.avi	0	0
+111	1413	Acrobat_AstralIllusion.avi	0	0
+112	1414	Acrobat_SpiralEdge.avi	0	0
+113	1415	Acrobat_CancelCircleShot.avi	0	0
+114	1416	Acrobat_SpiritFiring.avi	0	0
+115	1417	Acrobat_ChainTumble.avi	0	0
+116	1418	Acrobat_SpiritExcellation.avi	0	0
+117	1419	Acrobat_ShotBowMastery.avi	0	0
+118	2002	Sorceress_FlameWorm.avi	0	0
+119	2012	Sorceress_Blink.avi	0	0
+120	2013	Sorceress_SlapAttack.avi	0	0
+121	2014	Sorceress_PoorKick.avi	0	0
+122	2015	Sorceress_HeelAttack.avi	0	0
+123	2016	Sorceress_HammerAttack.avi	0	0
+124	2022	Sorceress_CounterSpell.avi	0	0
+125	2023	Sorceress_Escape.avi	0	0
+126	2024	Sorceress_AerialEvasion.avi	0	0
+127	2026	Sorceress_PoisonMissile.avi	0	0
+128	2029	Sorceress_ChargeMissile.avi	0	0
+129	2031	Sorceress_WhirlingStaff.avi	0	0
+130	2033	Sorceress_ShockWave.avi	0	0
+131	2034	Sorceress_GlacialSpike.avi	0	0
+132	2035	Sorceress_ForceExplosion.avi	0	0
+133	2036	Sorceress_PhysicalMastery.avi	0	0
+134	2037	Sorceress_MentalMastery.avi	0	0
+135	2038	Sorceress_MentalTraining.avi	0	0
+136	2039	Sorceress_MysticMeditation.avi	0	0
+137	2202	Elementallord_FireWall.avi	1000061741	0
+138	2203	Elementallord_FreezingField.avi	0	0
+139	2204	Elementallord_FreezingSword.avi	0	0
+140	2205	Elementallord_FlameLoad.avi	1000061742	0
+141	2206	Elementallord_Inferno.avi	0	0
+142	2207	Elementallord_FireBird.avi	0	0
+143	2208	Elementallord_Ignition.avi	0	0
+144	2209	Elementallord_GlacialWave.avi	0	0
+145	2210	Elementallord_ChillingMist.avi	1000061743	0
+146	2211	Elementallord_FreezingSpike.avi	1000061744	0
+147	2212	Elementallord_IcyFraction.avi	0	0
+148	2213	Elementallord_FireShield.avi	0	0
+149	2214	Elementallord_FreezingShield.avi	0	0
+150	2215	Elementallord_FrameVortex.avi	0	0
+151	2216	Elementallord_BlizzardStorm.avi	0	0
+152	2217	Elementallord_FlameSpark.avi	0	0
+153	2218	Elementallord_FrostWind.avi	0	0
+154	2219	Elementallord_ElementalShield.avi	0	0
+155	2220	Elementallord_Fireball.avi	0	0
+156	2401	Forceuser_RaiseGravity.avi	1000061745	0
+157	2402	Forceuser_MeteorSwarm.avi	0	0
+158	2403	Forceuser_GravityBall.avi	0	0
+159	2404	Forceuser_MicroHole.avi	0	0
+160	2405	Forceuser_SummonBlackHole.avi	1000061746	0
+161	2406	Forceuser_LinearRay.avi	0	0
+162	2407	Forceuser_SpectrumShower.avi	1000061747	0
+163	2408	Forceuser_SummonComet.avi	0	0
+164	2409	Forceuser_Teleport.avi	0	0
+165	2410	Forceuser_ForceMirror.avi	0	0
+166	2411	Forceuser_SlowArea.avi	0	0
+167	2412	Forceuser_TimeRestriction.avi	0	0
+168	2413	Forceuser_ForceShield.avi	0	0
+169	2414	Forceuser_Eraser.avi	0	0
+170	2415	Forceuser_TimeAcceleration.avi	0	0
+171	2416	Forceuser_GravitySphere.avi	0	0
+172	2417	Forceuser_ForceWave.avi	0	0
+173	2418	Forceuser_TimeInterruption.avi	0	0
+174	2419	Forceuser_PaybackMana.avi	0	0
+175	2420	Forceuser_NineTailLaser.avi	1000061748	0
+176	3002	Cleric_LightningUpper.avi	0	0
+177	3003	Cleric_Heal.avi	0	0
+178	3015	Cleric_HalfTurnKick.avi	0	0
+179	3016	Cleric_AxeKick.avi	0	0
+180	3017	Cleric_StompingKick.avi	0	0
+181	3018	Cleric_DiveKick.avi	0	0
+182	3019	Cleric_ChargeVolt.avi	0	0
+183	3020	Cleric_SlidingStep.avi	0	0
+184	3021	Cleric_Block.avi	0	0
+185	3022	Cleric_CounterBlow.avi	0	0
+186	3023	Cleric_SlidingKneeKick.avi	0	0
+187	3024	Cleric_AerialEvasion.avi	0	0
+188	3028	Cleric_ShieldBlow.avi	0	0
+189	3029	Cleric_HolyBolt.avi	0	0
+190	3030	Cleric_DivineCombo.avi	0	0
+191	3031	Cleric_DirectKick.avi	0	0
+192	3032	Cleric_Toughness.avi	0	0
+193	3033	Cleric_PhysicalMastery.avi	0	0
+194	3034	Cleric_MentalMastery.avi	0	0
+195	3035	Cleric_MentalTraining.avi	0	0
+196	3036	Cleric_PrayOfHealing.avi	0	0
+197	3201	Paladin_ShieldCharge.avi	1000061749	0
+198	3202	Paladin_LightningCharger.avi	0	0
+199	3203	Paladin_Smite.avi	1000061750	0
+200	3205	Paladin_DivinePunishment.avi	1000061751	0
+201	3207	Paladin_ArmorBreak.avi	0	0
+202	3208	Paladin_Provoke.avi	0	0
+203	3209	Paladin_Thor`sHammer.avi	0	0
+204	3210	Paladin_DivineAvatar.avi	0	0
+205	3211	Paladin_ElementalAura.avi	0	0
+206	3213	Paladin_ConvictionAura.avi	1000061752	0
+207	3214	Paladin_WillOfIron.avi	0	0
+208	3217	Paladin_AutoBlock.avi	0	0
+209	3218	Paladin_DivineAscension.avi	0	0
+210	3219	Paladin_DivineVengeance.avi	0	0
+211	3220	Paladin_AerialBlock.avi	0	0
+212	3221	Paladin_StanceOfFaith.avi	0	0
+213	3222	Paladin_HolyCross.avi	0	0
+214	3223	Paladin_SinBreaker.avi	0	0
+215	3224	Paladin_SacredHammering.avi	0	0
+216	3401	Priest_GrandCross.avi	0	0
+217	3402	Priest_LightningVolt.avi	0	0
+218	3403	Priest_RelicOfHeal.avi	1000061753	0
+219	3406	Priest_HolyBurst.avi	1000061754	0
+220	3407	Priest_ChainLightning.avi	0	0
+221	3408	Priest_ElectricDetonation.avi	1000061755	0
+222	3409	Priest_RelicOfLightning.avi	0	0
+223	3411	Priest_Heaven`sJudgement.avi	0	0
+224	3412	Priest_RelicOfMiracle.avi	0	0
+225	3414	Priest_ProtectionShell.avi	0	0
+226	3416	Priest_Striking.avi	1000061756	0
+227	3418	Priest_BlessOfLight.avi	0	0
+228	3420	Priest_ FirstAid.avi	0	0
+229	3421	Priest_HolyWave.avi	0	0
+230	3422	Priest_RelicOfCure.avi	0	0
+231	3423	Priest_RelicOfHold.avi	0	0
+232	3425	Priest_MindBreaker.avi	0	0
+233	3426	Priest_WandMastery.avi	0	0
+234	301	Gladiator_EvasionSlash.avi	0	0
+235	302	Gladiator_TripleSlash_EX.avi	0	0
+236	303	Gladiator_FinishAttack.avi	0	0
+237	351	Moonload_MoonBladeDance.avi	0	0
+238	352	Moonload_MoonLightSplitter_EX.avi	0	0
+239	353	Moonload_FlashStance.avi	0	0
+240	501	Babarian_AppendHit.avi	0	0
+241	502	Babarian_Stomp_EX.avi	0	0
+242	503	Babarian_BoneCrash.avi	0	0
+243	551	Mercenary_PanicHowl.avi	0	0
+244	552	Destroyer_FlyingSwing_EX.avi	0	0
+245	553	Destroyer_MaelstromHawl.avi	0	0
+246	1302	Sniper_ChargeShot_EX.avi	0	0
+247	1303	Sniper_CheatingPoint.avi	0	0
+248	1351	Artillery_MagicalBreeze.avi	0	
+249	1352	Artillery_ExtentionArrow_EX.avi	0	0
+250	1353	Artillery_DetonatingArrow.avi	0	0
+251	1501	Tempest_Evade.avi	0	0
+252	1502	Tempest_KickAndShot_EX.avi	0	0
+253	1503	Tempest_HurricaneDance.avi	0	0
+254	1551	Windwalker_ShowTime.avi	0	0
+255	1552	Windwalker_SpiralKick_EX.avi	0	0
+256	1553	Windwalker_Rising Storm.avi	0	0
+257	2302	Saleana_FireBall_EX.avi	0	0
+258	2303	Saleana_RollingLava.avi	0	0
+259	2351	Elestra_IceBarrier.avi	0	0
+260	2352	Elestra_FreezingSword_EX.avi	0	0
+261	2353	Elestra_IceSphere.avi	0	0
+262	2501	Smasher_Arcanefocus.avi	0	0
+263	2502	Smasher_LinearRay_EX.avi	0	0
+264	2503	Smasher_LaserCutter.avi	0	0
+265	2551	Majesy_StealMagic.avi	0	0
+266	2552	Majesy_GravityBall_EX.avi	0	0
+267	2553	Majesy_SwitchGravity.avi	0	0
+268	3302	Guardian_GuardianForce.avi	0	0
+269	3303	Guardian_JusticeCrash.avi	0	0
+270	3351	Crusades_Judge'sPower.avi	0	0
+271	3352	Crusades_HolyCross_EX.avi	0	0
+272	3353	Crusades_JudgmentHammer.avi	0	0
+273	3501	Saint_GreatHeal.avi	0	0
+274	3502	Saint_RelicOfLightning_EX.avi	0	0
+275	3503	Saint_ShockOfRelic.avi	0	0
+276	3552	Inquisitor_LightningVolt_EX.avi	0	0
+277	3553	Inquisitor_LightningStorm.avi	0	0
+278	4001	Academic_Quick Shoot.avi	0	0
+279	4002	Academic_Air Shoot.avi	0	0
+280	4003	Academic_Dodge.avi	0	0
+281	4004	Academic_Spanner Smashing.avi	0	0
+282	4005	Academic_Wax.avi	0	0
+283	4006	Academic_Magnifier Attack.avi	0	0
+284	4007	Academic_Circle Bomb.avi	0	0
+285	4008	Academic_Bubble Bubble.avi	0	0
+286	4009	Academic_Air Bomb.avi	0	0
+287	4010	Academic_Mega Hammer.avi	0	0
+288	4011	Academic_Force Out.avi	0	0
+289	4012		0	0
+290	4013		0	0
+291	4014	Academic_Stun Grenade.avi	0	0
+292	4015	Academic_Summon Alfredo.avi	0	0
+293	4016	Academic_Aerial Evasion.avi	0	0
+294	4017	Academic_Mental Mastery.avi	0	0
+295	4018	Academic_Physical Mastery.avi	0	0
+296	4019	Academic_Mental Training.avi	0	0
+297	4020	Academic_Automat.avi	0	0
+298	4222	Academic_Napalm.avi	0	0
+299	4223	Academic_ReCall Alfredo.avi	0	0
+300	4201	Engineer_PingPong Bomb.avi	1000061757	0
+301	4202	Engineer_Mine Thrower.avi	0	0
+302	4203	Engineer_Gravity Grenade.avi	1000061758	0
+303	4204	Engineer_Chemical Missile.avi	1000102617	0
+304	4205	Engineer_Buster_Call.avi	0	0
+305	4206	Engineer_Rocket Jump.avi	0	0
+306	4207	Engineer_Gatling Tower.avi	0	0
+307	4208	Engineer_Ice Pump Tower.avi	0	0
+308	4209	Engineer_Cannon Tower.avi	1000061760	0
+309	4210		0	0
+310	4211	Engineer_Fake Bomb.avi	0	0
+311	4212	Engineer_Alfredo Stomp.avi	0	0
+312	4213	Engineer_Alfredo Berserker.avi	0	0
+313	4214	Engineer_Alfredo WhirlWind.avi	0	0
+314	4215	Engineer_Alfredo Beam.avi	0	0
+315	4216	Engineer_MechaDug.avi	0	0
+316	4217	Engineer_Mecha Shock.avi	0	0
+317	4218	Engineer_Mecha Bomber.avi	0	0
+318	4219	Engineer_Mecha Siren.avi	0	0
+320	4221	Engineer_Flash Grenade.avi	0	0
+321	4301	ShootingStar_Splash.avi	0	0
+322	4302	ShootingStar_PingPong BombEX.avi	0	0
+323	4303	ShootingStar_Damage Transitions.avi	0	0
+324	4351	GearMaster_ChainSawTower.avi	0	0
+325	4352	GearMaster_Skill_MechaDuckEX.avi	0	0
+326	4353	GearMaster_BigMechaBomber.avi	0	0
+327	250001	BattleGround_TimeRestriction.avi	0	0
+328	250002	BattleGround_IronSkin.avi	0	0
+329	250003	BattleGround_Spiritboost.avi	0	0
+330	250004	BattleGround_HighLander.avi	0	0
+331	250005	BattleGround_ProtectionShell.avi	0	0
+332	250006	BattleGround_Striking.avi	0	0
+333	250007	BattleGround_BlessOfLight.avi	0	0
+334	250008	BattleGround_DemiGod.avi	0	0
+335	250009	BattleGround_OperatePortal.avi	0	0
+336	250010	BattleGround_DefenseUp.avi	0	0
+337	250011	BattleGround_SummonTrebuchet_Fire.avi	0	0
+338	250012	BattleGround_SummonBallista_Fire.avi	0	0
+339	250013	BattleGround_SummonTrebuchet_Fire.avi	0	0
+340	250014	BattleGround_SummonBallista_Fire.avi	0	0
+341	250015	BattleGround_GuildRadar.avi	0	0
+342	4401	Alchemist_Cocktail.avi	0	0
+343	4402	Alchemist_Slip.avi	0	0
+344	4403		0	0
+345	4404	Alchemist_Sacrifice.avi	0	0
+346	4405	Alchemist_SummonSlime.avi	0	0
+347	4406	Alchemist_IcingMass.avi	0	0
+348	4407	Alchemist_IcePunch.avi	0	0
+349	4408	Alchemist_IcePalm.avi	1000061761	0
+350	4409	Alchemist_MagmaPunch.avi	0	0
+351	4410	Alchemist_MagmaWall.avi	0	0
+352	4411	Alchemist_MagmaWave.avi	1000061762	0
+353	4412		0	0
+354	4413	Alchemist_IceExpression.avi	0	0
+355	4414	Alchemist_PoisonCharging.avi	0	0
+356	4415	Alchemist_Injector.avi	0	0
+357	4416	Alchemist_PoisonBreak.avi	1000061763	0
+358	4417	Alchemist_Disease.avi	0	0
+359	4418	Alchemist_MixedInfection.avi	1000061764	0
+360	4419		0	0
+361	4420	Alchemist_PoisonPool.avi	0	0
+362	4501	Adept_C2H5OH.avi	0	0
+363	4502	Adept_MagmaPunch_EX.avi	0	0
+364	4503	Adept_IceBeam.avi	0	0
+365	4551	Physician_LoveVirus.avi	0	0
+366	4552	Physician_Injector_Ex.avi	0	0
+367	4553	Physician_HealShower.avi	0	0
+368	5000	Kali_Soul Wind.avi	0	0
+369	5001	Kali_Sting Breeze.avi	0	0
+370	5002	Kali_Fancy Turn.avi	0	0
+371	5003	Kali_Despair Needle.avi	0	0
+372	5004	Kali_Negative Ghost.avi	0	0
+373	5005	Kali_Spirit Blow.avi	0	0
+374	5006	Kali_Phantom Guard.avi	0	0
+375	5007	Kali_Spirit Of Genie.avi	0	0
+376	5008	Kali_Slight Turn.avi	0	0
+377	5009	Kali_Soul Kiss.avi	0	0
+378	5010	Kali_Turning Step.avi	0	0
+379	5011	Kali_Return Spin.avi	0	0
+380	5012	Kali_Ghost Kick.avi	0	0
+381	5013	Kali_Slave Hand.avi	0	0
+382	5014	Kali_Dummy Ghost.avi	0	0
+383	5015	Kali_AerialEvasion.avi	0	0
+384	5016		0	0
+385	5017		0	0
+386	5018		0	0
+387	5201	Screamer_Phantom Claw.avi	0	0
+388	5202	Screamer_Spirit Twig.avi	0	0
+389	5203	Screamer_Rampage Claw.avi	1000061765	0
+390	5204	Screamer_Phantom's Rage.avi	0	0
+391	5205	Screamer_Chain Claw.avi	0	0
+392	5206	Screamer_Blitz Claw.avi	0	0
+393	5207	Screamer_Resent Area.avi	0	0
+394	5208	Screamer_Revenge Hand.avi	1000061766	0
+395	5209	Screamer_Increase Soul.avi	0	0
+396	5210	Screamer_Phantom's Avenger.avi	0	0
+397	5211	Screamer_Stigma of cuse.avi	0	0
+398	5212	Screamer_Ghost Scream.avi	0	0
+399	5213	Screamer_Summon Puppet.avi	0	0
+400	5214	Screamer_Spirit Paper.avi	0	0
+401	5215	Screamer_Cling Snake.avi	0	0
+402	5216	Screamer_Soul Gate.avi	1000061767	0
+403	5217	Screamer_Beast Spirit.avi	1000061768	0
+404	5218	Screamer_Grudge Formation.avi	0	0
+405	5219		0	0
+406	5220	Screamer_Dragon's Soul.avi	0	0
+407	5301	DarkSummoner_Sadism Pleasure.avi	0	0
+408	5302	DarkSummoner_Phantom Claw EX.avi	0	0
+409	5303	DarkSummoner_Chaos Formation.avi	0	0
+410	5401	SoulEater_Specter Of Pain.avi	0	0
+411	5402	SoulEater_Spirit Paper EX.avi	0	0
+412	5403	SoulEater_Soul Scream.avi	0	0
+413	304	Gladiator_DeepStraight_EX.avi	0	0
+414	354	Moonload_CycloneSlash_EX.avi	0	0
+415	504	Babarian_DemolitionFist_EX.avi	0	0
+416	554	Destroyer_PunishingSwing_EX.avi	0	0
+417	1304	Sniper_AerialChainShot_EX.avi	0	0
+418	1354	Artillery_RapidShot_EX.avi	0	0
+419	1504	Tempest_BindingShot_EX.avi	0	0
+420	1554	Windwalker_Eagle`sDescent_EX.avi	0	0
+421	2304	Saleana_Inferno_EX.avi	0	0
+422	2354	Elestra_FreezingField_EX.avi	0	0
+423	2504	Smasher_NineTailLaser_EX.avi	0	0
+424	2554	Majesy_MicroHole_EX.avi	0	0
+425	3304	Guardian_StanceOfFaith_EX.avi	0	0
+426	3354	Crusades_SacredHammering_EX.avi	0	0
+427	3504	Saint_RelicOfHeal_EX.avi	0	0
+428	3554	Inquisitor_MindBreaker_EX.avi	0	0
+429	4304	ShootingStar_APLauncher_EX.avi	0	0
+430	4354	GearMaster_MechaShock_EX.avi	0	0
+431	4504	Adept_IcePunch_EX.avi	0	0
+432	4554	Physician_Disease_EX.avi	0	0
+433	5304	DarkSummoner_ChainClaw_EX.avi	0	0
+434	5404	SoulEater_ClingSnake_EX.avi	0	0
+435	221	Swordmaster_Brave.avi	0	0
+436	305	Gladiator_HackingStance_EX.avi	0	0
+437	355	Moonload_CrecentCleave_EX.avi	0	0
+438	505	Babarian_CircleSwing_EX.avi	0	0
+439	555	Destroyer_Circlebomber_EX.avi	0	0
+440	1305	Sniper_SiegeStance_EX.avi	0	0
+441	1355	Artillery_SwiftStormEX.avi	0	보마리메후
+442	1505	Tempest_DoubleSomerSaultKick_EX.avi	0	0
+443	1555	Windwalker_BloomingKick_EX.avi	0	0
+444	2305	Saleana_FireWall_EX.avi	0	0
+445	2355	Elestra_FreezingSpike_EX.avi	0	0
+446	2505	Smasher_ForceMirror_EX.avi	0	0
+447	2555	Majesy_SummonBlackHole_EX.avi	0	0
+448	3305	Guardian_DivineAscension_EX.avi	0	0
+449	3355	Crusades_LightningCharger_EX.avi	0	0
+450	3505	Saint_RelicOfCure_EX.avi	0	0
+451	3555	Inquisitor_ChainLightning_EX.avi	0	0
+452	4305	ShootingStar_Mine Thrower_EX.avi	0	0
+453	4355	GearMaster_Mecha Siren_EX.avi	0	0
+454	4505	Adept_MagmaWall_EX.avi	0	0
+455	4555	Physician_PoisonCharging_EX.avi	0	0
+456	5305	DarkSummoner_Revenge Hand_EX.avi	0	0
+457	5405	SoulEater_Soul Gate_EX.avi	0	0
+458	5101	Dancer_BreezecallDance.avi	0	0
+459	5102	Dancer_Breezecall.avi	0	0
+460	5103	Dancer_GrazeDance.avi	0	0
+461	5104	Dancer_SweetCircle.avi	0	0
+462	5105	Dancer_TwinkleSpin.avi	1000061769	0
+463	5106	Dancer_RefreshingScrew.avi	0	0
+464	5107	Dancer_EleganceStorm.avi	1000061770	0
+465	5108	Dancer_InnerFire .avi	0	0
+466	5109	Dancer_IllusionDance.avi	0	0
+467	5110	Dancer_IllusionGaze.avi	0	0
+468	5111	Dancer_Stalker.avi	0	0
+469	5112	Dancer_DuskHunter.avi	0	0
+470	5113	Dancer_Abolisher .avi	1000062354	0
+471	5114	Dancer_SufiDancer.avi	0	0
+472	5115	Dancer_GeneralDawnBlade.avi	1000061772	0
+473	5116	Dancer_StormofEwinia.avi	0	0
+474	5117	Dancer_EcstaticDance.avi	0	0
+475	5118	Dancer_EcstaticDanceP2.avi	0	0
+476	5119	Dancer_EcstaticDanceP3.avi	0	0
+477	5120	Dancer_EcstaticDanceP4.avi	0	0
+478	5121	Dancer_SiniaTurn.avi	0	0
+479	5122	Dancer_MistStep.avi	0	0
+480	5501	BladeDancer_SquallFlaker.avi	0	0
+481	5502	BladeDancer_GrazeDanceEX.avi	0	0
+482	5503	BladeDancer_SweetCircleEX.avi	0	0
+483	5504	BladeDancer_TwinkleSpinEX.avi	0	0
+484	5505	BladeDancer_GustDemensia.avi	0	0
+485	5601	SpiritDancer_WideStinger.avi	0	0
+486	5602	SpiritDancer_StalkerEX.avi	0	0
+487	5603	SpiritDancer_DuskHunterEX.avi	0	0
+488	5604	SpiritDancer_AbolisherEX.avi	0	0
+489	5605	SpiritDancer_Praetor.avi	0	0
+490	1301	Sniper_CriticalBreak.avi	0	0
+491	306	Gladiator_LineDrive_EX.avi	0	0
+492	356	Moonload_HalfMoonSlash_EX.avi	0	0
+493	506	Babarian_WhirlWind_EX.avi	0	0
+494	556	Destroyer_RollingAttack_EX.avi	0	0
+495	1306	Sniper_ArrowShower_EX.avi	0	0
+496	1356	Artillery_GuidedShot_EX.avi	0	0
+497	1506	Tempest_SpiralVortex_EX.avi	0	0
+498	1556	Windwalker_CycloneKick_EX.avi	0	0
+499	2306	Saleana_FlameLoad_EX.avi	0	0
+500	2356	Elestra_ChillingMist_EX.avi	0	0
+501	2506	Smasher_SpectrumShower_EX.avi	0	0
+502	2556	Majesy_RaiseGravity_EX.avi	0	0
+503	3306	Guardian_DivinePunishment_EX.avi	0	0
+504	3356	Crusades_Smite_EX.avi	0	0
+505	3506	Saint_RelicOfHold_EX.avi	0	0
+506	3556	Inquisitor_ElectricDetonation_EX.avi	0	0
+507	4306	ShootingStar_Chemical Missile_EX.avi	0	0
+508	4356	GearMaster_Mecha Bomber_EX.avi	0	0
+509	4506	Adept_MagmaWave_EX.avi	0	0
+510	4556	Physician_PoisonBreak_EX.avi	0	0
+511	5306	DarkSummoner_Rampage Claw_EX.avi	0	0
+512	5406	SoulEater_Beast Spirit_EX.avi	0	0
+513	5506	BladeDancer_EleganceStorm_EX.avi	0	0
+514	5606	SpiritDancer_General DawnBlade_EX.avi	0	0
+515	6001	Assassin_SpeedyCut.avi	0	0
+516	6002	Assassin_DurtyTrick.avi	0	0
+517	6003	Assassin_PiercingStar.avi	0	0
+518	6004	Assassin_FenOfEdge.avi	0	0
+519	6005	Assassin_ShadowHand.avi	0	0
+520	6006	Assassin_TripleEdge.avi	0	0
+521	6007	Assassin_Sprint.avi	0	0
+522	6008	Assassin_Feint.avi	0	0
+523	6009	Assassin_Raid.avi	0	0
+524	6010	Assassin_GoreKick.avi	0	0
+525	6011	Assassin_Swipe.avi	0	0
+526	6012	Assassin_Tumbling.avi	0	0
+527	6013	Assassin_CircleGore.avi	0	0
+528	6014	Assassin_Leap.avi	0	0
+529	6015	Assassin_Smoke.avi	0	0
+530	6016	Assassin_FakeClog.avi	0	0
+531	6017	Assassin_AerialEvasion.avi	0	0
+532	6018		0	0
+533	6019		0	0
+534	6020		0	0
+535	6201	Chaser_OpenEdge.avi	0	0
+536	6202	Chaser_Applause.avi	0	0
+537	6203	Chaser_Rake.avi	0	0
+538	6204	Chaser_Raindrop.avi	1000061836	0
+539	6205	Chaser_Punishment.avi	1000061837	0
+540	6206	Chaser_TheEnd.avi	0	0
+541	6207	Chaser_ShiftBlow.avi	0	0
+542	6209	Chaser_Camouflage.avi	0	0
+543	6210	Chaser_BladeRunner.avi	0	0
+544	6208	Chaser_MotalBlow.avi	1000061838	0
+545	6211	Chaser_IzunaDrop.avi	1000061839	0
+546	6212	Chaser_CripplePunisher.avi	0	0
+547	6213	Chaser_ReciveEdge.avi	0	0
+548	6214	Chaser_Fade.avi	0	0
+549	6215	Chaser_IllusionStep.avi	0	0
+550	6216	Chaser_AccessChain.avi	0	0
+551	6217	Chaser_BunningCall.avi	0	0
+552	6218	Chaser_DedicateShadow.avi	0	0
+553	6219	Chaser_DedicateCrow.avi	0	0
+554	6401	Raven_Umbra.avi	0	0
+555	6402	Raven_CrookingDeadfall.avi	0	0
+556	6403	Raven_OpenEdgeEX.avi	0	0
+557	6404	Raven_ApplauseEX.avi	0	0
+558	6405	Raven_RakeEX.avi	0	0
+559	6407	Raven_PunishmentEX.avi	0	0
+560	6551		0	0
+561	6501	Ripper_Arsonist.avi	0	0
+562	6502	Ripper_ArtfulChaser.avi	0	0
+563	6503	Ripper_ShiftBlowEX.avi	0	0
+564	6505	Ripper_CamouflageEX.avi	0	0
+565	6506	Ripper_BladeRunnerEX.avi	0	0
+566	6507	Ripper_IzunaDropEX.avi	0	0
+567	6550	Ripper_WereWolfAbility.avi	0	0
+568	6301	Bringer_Outbreak.avi	0	0
+569	6302	Bringer_HealingWave.avi	1000067350	0
+570	6303	Bringer_ChakraOfEnergy.avi	1000067351	0
+571	6304	Bringer_ChakraBoost.avi	0	0
+572	6305	Bringer_RingStrike.avi	0	0
+573	6306	Bringer_RingOfEnergy.avi	0	0
+574	6307	Bringer_NightStoker.avi	0	0
+575	6308	Bringer_IllusionStrike.avi	0	0
+576	6309	Bringer_PlasmaBurst.avi	1000067352	0
+577	6310	Bringer_ShadowFocus.avi	0	0
+578	6311	Bringer_LineOfDarkness.avi	1000067353	0
+579	6312	Bringer_DarkConviction.avi	0	0
+580	6313	Bringer_SpectralGize.avi	0	0
+581	6314	Bringer_ChakraCure.avi	0	0
+582	6315	Bringer_HealingOfAjna.avi	0	0
+583	6316	Bringer_BlessOfAjna.avi	0	0
+584	6317	Bringer_IllusionOfChakra.avi	0	0
+585	6318	Bringer_PactOfAjna.avi	0	0
+586	6319	Bringer_SummonShadow.avi	0	0
+587	6601	LightFury_CharkraOfMiracle.avi	0	0
+588	6603	LightFury_SunshineSpark.avi	0	0
+589	6604	LightFury_Outbreak_EX.avi	0	0
+590	6605	LightFury_HealingWave_EX.avi	0	0
+591	6606	LightFury_FullBright_EX.avi	0	0
+592	6607	LightFury_RingStrike_EX.avi	0	0
+593	6701	AbyssWalker_NightFall.avi	0	0
+594	6703	AbyssWalker_IncarnationOfDark.avi	0	0
+595	6704	AbyssWalker_NightStoker_EX.avi	0	0
+596	6705	AbyssWalker_IllusionStrike_EX.avi	0	0
+597	6706	AbyssWalker_PlasmaBurst_EX.avi	0	0
+598	6707	AbyssWalker_LineOfDarkness_EX.avi	0	0
+599	6320	Bringer_ChakraPunch.avi	0	0
+701	7301	Engineer_ReloadCannon.avi	1000076100	0
+702	7302	Engineer_ChemicalGrenade.avi	0	0
+703	7303	Engineer_CannonBlaster.avi	0	0
+705	4559	ShootingStar_ReloadCannon_EX.avi	0	0
+706	308	Gladiator_FinishAttack_EX.avi	0	0
+707	358	Moonload_MoonBladeDance_EX.avi	0	0
+708	511	Babarian_BoneCrash_EX.avi	0	0
+709	558	Destroyer_MaelstromHawl_EX.avi	0	0
+710	1308	Sniper_CheatingPoint_EX.avi	0	0
+711	1358	Artillery_DetonatingArrow_EX.avi	0	0
+712	1508	Tempest_HurricaneDance_EX.avi	0	0
+713	1558	Windwalker_RisingStorm_EX.avi	0	0
+714	2308	Saleana_RollingLava_EX.avi	0	0
+715	2358	Elestra_IceBarrier_EX.avi	0	0
+716	2508	Smasher_LaserCutter_EX.avi	0	0
+717	2558	Majesy_SwitchGravity_EX.avi	0	0
+718	3308	Guardian_JusticeCrash_EX.avi	0	0
+719	3358	Crusades_JudgmentHammer_EX.avi	0	0
+720	3508	Saint_ShockOfRelic_EX.avi	0	0
+721	3558	Inquisitor_LightningStorm_EX.avi	0	0
+722	4308	ShootingStar_Splash_EX.avi	0	0
+723	4358	GearMaster_BigMechaBomber_Ex.avi	0	0
+724	4508	Adept_IceBeam_EX.avi	0	0
+725	4558	Physician_HealShower_EX.avi	0	0
+726	5308	DarkSummoner_ChaosFormation_EX.avi	0	0
+727	5408	SoulEater_SpecterOfPain_EX.avi	0	0
+728	5508	BladeDancer_GustDemensia_EX.avi	0	0
+729	5608	SpiritDancer_Praetor_EX.avi	0	0
+730	6553	Raven_Umbra_EX.avi	0	0
+731	6554	Ripper_ArtfulChaser_EX.avi	0	0
+732	6608	LightFury_SunshinSpark_EX.avi	0	0
+733	6708	AbyssWalker_NightFall_Ex.avi	0	0
+734	7001	Lencea_HalfCutting.avi	0	0
+735	7002	Lencea_FlashLift.avi	0	0
+736	7003	Lencea_Probe.avi	0	0
+737	7004	Lencea_PushKick.avi	0	0
+738	7005	Lencea_DeepPierce.avi	0	0
+739	7006	Lencea_Tumble.avi	0	0
+740	7007	Lencea_Butt.avi	0	0
+741	7008	Lencea_CrossCutter.avi	0	0
+742	7009	Lencea_CounterSpin.avi	0	0
+743	7010	Lencea_PutKick.avi	0	0
+744	7011	Lencea_WheelBlade.avi	0	0
+745	7012	Lencea_Flee.avi	0	0
+746	7013	Lencea_Swoop.avi	0	0
+747	7014	Lencea_HornetsTouch.avi	0	0
+748	7015	Lencea_AerialEvasion.avi	0	0
+749	7016	Lencea_PhysicalMastery.avi	0	0
+750	7017	Lencea_MentalMastery.avi	0	0
+751	7018	Lencea_MentalTraining.avi	0	0
+752	7019	Lencea_Harmonize.avi	0	0
+753	7020	Piercer_ShutterBounce.avi	1000078235	0
+754	7021	Piercer_ErraticPower.avi	0	0
+755	7022	Piercer_HoveringBlade.avi	1000078236	0
+756	7023	Piercer_BuzzOff.avi	0	0
+757	7024	Piercer_StabScrew.avi	0	0
+758	7025	Piercer_slippingHand.avi	0	0
+759	7026	Piercer_RushingBlade.avi	0	0
+760	7027	Piercer_Spinning_CutDown.avi	0	0
+761	7028	Piercer_ScarMaker.avi	0	0
+762	7029	Piercer_PiercingSpike.avi	1000078237	0
+763	7030	Piercer_LollipopChops.avi	1000078238	0
+764	7031	Piercer_WillMaker.avi	0	0
+765	7032	Piercer_FlingFling.avi	0	0
+766	7033	Piercer_SpringHaze.avi	0	0
+767	7034	Piercer_SpinningSwing.avi	0	0
+768	7035	Piercer_Flag.avi	0	0
+769	7036	Piercer_DentingBlows.avi	0	0
+770	7037	Piercer_FlingSky.avi	0	0
+771	7038	Piercer_Champagne.avi	0	0
+772	7101	Flurry_SpinningSkewer.avi	0	0
+773	7102	Flurry_RoughSweep.avi	0	0
+774	7103	Flurry_ShutterBounceEX.avi	0	0
+775	7104	Flurry_StabScrewEX.avi	0	0
+776	7105	Flurry_Spinning_CutDownEX.avi	0	0
+777	7106	Flurry_SpinningSwingEX.avi	0	0
+778	7108	Flurry_RoughSweepEX.avi	0	0
+779	7201	Stingbreezer_ArcaneFocus.avi	0	0
+780	7202	Stingbreezer_PokingBeehive.avi	0	0
+781	7203	Stingbreezer_HoveringBladeEX.avi	0	0
+782	7204	Stingbreezer_slippingHandEX.avi	0	0
+783	7205	Stingbreezer_PiercingSpikeEX.avi	0	0
+784	7206	Stingbreezer_DentingBlowsEX.avi	0	0
+785	7208	Stingbreezer_PokingBeehiveEX.avi	0	0
+786	2363	Elementallord_FrozenBurst.avi	0	0
+787	7501	Avenger_Graves.avi	0	0
+788	7502	Avenger_DarkStinger.avi	0	0
+789	7503	Avenger_PiercingCressent.avi	0	0
+790	7504	Avenger_DarkSuffer.avi	0	0
+791	7505	Avenger_DoomBlade.avi	0	0
+792	7506	Avenger_AvengerForce.avi	0	0
+793	7507	Avenger_StepBlade.avi	0	0
+794	7508	Avenger_DarkRiser.avi	0	0
+795	7509	Avenger_SoulCutter.avi	0	0
+796	7510	Avenger_ShadowCall.avi	0	0
+797	7511	Avenger_VengeanceStorm.avi	0	0
+798	7512	DarkAvenger_TransDarkAvenger.avi	0	0
+799	7513	DarkAvenger_DarkCrash.avi	0	0
+800	40	Avenger_DeathNell.avi	0	0
+801	7516	Avenger_DarkDashCombo.avi	0	0
+802	7519	Avenger_AerialBlade.avi	0	0
+803	7520	Avenger_CounterBlade.avi	0	0
+804	7530	DarkAvenger_MoveDark.avi	0	0
+805	7517	Avenger_Recovery.avi	0	0
+806	7701	Machina_LowRealHook.avi	0	0
+807	7702	Machina_PivotGunShot.avi	0	0
+808	7703	Machina_HitAndHip.avi	0	0
+809	7704	Machina_ElbowAttack.avi	0	0
+810	7705	Machina_BodyCheck.avi	0	0
+811	7706	Machina_Tumble.avi	0	0
+812	7707	Machina_FlyBy.avi	0	0
+813	7708	Machina_RetroChrage.avi	0	0
+814	7709	Machina_RollingAttack.avi	0	0
+815	7710	Machina_Lariat.avi	0	0
+816	7711	Machina_Overlapgraze.avi	0	0
+817	7712	Machina_BoundingReaction.avi	0	0
+818	7713	Machina_ChargingGear.avi	0	0
+819	7714	Machina_OverBlow.avi	0	0
+820	7715	Machina_Overhaul.avi	0	0
+821	7716	Machina_HandStand.avi	0	0
+822	7717	Machina_AerialEvasion.avi	0	0
+823	7721	Machina_SmashingBlow.avi	0	0
+900	1611	Hunter_SpiralVolt.avi	0	실버헌터
+901	1602	Hunter_SummonFalcon.avi	0	실버헌터
+902	1603	Hunter_Flamingo.avi	0	실버헌터
+903	1604	Hunter_AirRaid.avi	0	실버헌터
+904	1605	Hunter_AerialWildShot.avi	0	실버헌터
+905	1606	Hunter_FalconStrike.avi	0	실버헌터
+906	1609	Hunter_LibertyAttack.avi	0	실버헌터
+907	1608	Hunter_ArrowStorm.avi	0	실버헌터
+908	1613	Hunter_HunterEye.avi	0	실버헌터
+909	1607	Hunter_CrossbowLink.avi	0	실버헌터
+910	1601	Hunter_DelugeVolt.avi	0	실버헌터
+911	1612	Hunter_FalconRise.avi	0	실버헌터
+912	1620	Hunter_TrapperMaster.avi	0	실버헌터
+913	1615	Hunter_RagingWind.avi	0	실버헌터
+914	1616	Hunter_MonkeyCatch.avi	0	실버헌터
+915	1619	Hunter_Trapper.avi	0	실버헌터
+916	1618	Hunter_DestructionArea.avi	0	실버헌터
+917	1701	SilverHunter_SilverHunter.avi	0	실버헌터
+918	1702	SilverHunter_MomentEvade.avi	0	실버헌터
+919	1703	SilverHunter_TornadoShot.avi	0	실버헌터
+920	1704	SilverHunter_DodgeEnhancement_A.avi	0	실버헌터
+921	1705	SilverHunter_DodgeEnhancement_B.avi	0	실버헌터
+1001	701	Gladiator_SideDodge.avi	0	실버헌터
+1002	702	Gladiator_HiperDrive.avi	0	0
+1003	721	Moonload_MoonBlader.avi	0	0
+1004	722	Moonload_SmashX.avi	0	0
+1005	741	Babarian_OverTaker.avi	0	0
+1006	742	Babarian_Frenzy.avi	0	0
+1007	761	Destroyer_AssultCrash.avi	0	0
+1008	762	Destroyer_CrashMode.avi	0	0
+1009	801	Swordmaster_Brave.avi	0	0
+1010	805	Gladiator_AwG_DeepStraight.avi	0	0
+1011	803	Gladiator_AwG_Parrying.avi	0	0
+1012	804	Gladiator_AwG_TripleSlash.avi	0	0
+1013	821	Moonload_AwM_Eclipse.avi	0	0
+1014	822	Moonload_AwM_Hemorrahage.avi	0	0
+1015	823	Moonload_AwM_CycloneSlash.avi	0	0
+1016	824	Moonload_AwM_MoonLightSplitter.avi	0	0
+1017	841	Babarian_AwB_Stomp.avi	0	0
+1018	842	Babarian_AwB_DemolitionFist.avi	0	0
+1019	843	Babarian_DeverstatingHowl.avi	0	0
+1020	861	Destroyer_AwD_MaelstromHawl.avi	0	0
+1021	862	Destroyer_AwD_PanicHowl.avi	0	0
+1023	863	Destroyer_AwD_RollingAttack.avi	0	0
+1024	516	Babarian_AwB_WhirlWind.avi	0	0
+1025	703	Swordmaster_Brave.avi	0	0
+1026	704	Gladiator_AwG_DeepStraight.avi	0	0
+1027	705	Gladiator_AwG_Parrying.avi	0	0
+1028	706	Gladiator_AwG_TripleSlash.avi	0	0
+1029	723	Moonload_AwM_Eclipse.avi	0	0
+1030	724	Moonload_AwM_Hemorrahage.avi	0	0
+1031	725	Moonload_AwM_CycloneSlash.avi	0	0
+1032	726	Moonload_AwM_MoonLightSplitter.avi	0	0
+1033	744	Babarian_AwB_Stomp.avi	0	0
+1034	745	Babarian_AwB_DemolitionFist.avi	0	0
+1035	746	Babarian_DeverstatingHowl.avi	0	0
+1036	764	Destroyer_AwD_MaelstromHawl.avi	0	0
+1037	765	Destroyer_AwD_PanicHowl.avi	0	0
+1038	766	Destroyer_AwD_RollingAttack.avi	0	0
+1100	1522	Sniper_Camouflage.avi	0	보마리메후
+1101	1523	Sniper_WindForce.avi	0	보마리메후
+1102	1525	Sniper_AwS_Move_A.avi	0	0
+1103	1520	Sniper_AwS_SiegeStance.avi	0	0
+1104	1527	Artillery_Cannonade.avi	0	0
+1105	1528	Artillery_FocusingCut.avi	0	보마리메후
+1106	1532	Tempest_PunchSmash.avi	0	0
+1107	1533	Tempest_HurricaneUpper.avi	0	0
+1108	1537	Windwalker_SwiftAttack.avi	0	0
+1109	1538	Windwalker_FlashKick.avi	0	0
+1110	2759	Majesy_AwM_GravityBall.avi	0	0
+1111	2760	Majesy_AwM_MicroHole.avi	0	0
+1112	2751	Majesy_GravityRush.avi	0	0
+1113	2752	Majesy_FocusGravity.avi	0	0
+1114	2650	Smasher_LaserRay.avi	0	0
+1115	2651	Smasher_EnergyBlast.avi	0	0
+1116	2602	Saleana_AwS_Ignition.avi	0	0
+1117	2603	Saleana_AwS_FireWall.avi	0	0
+1118	2595	Saleana_MeteoCall.avi	0	0
+1119	2596	Saleana_FlameBurst.avi	0	0
+1120	2805	Elestra_AwE_IcyFraction.avi	0	0
+1121	2800	Elestra_GlaciarField.avi	0	0
+1122	2801	Elestra_IceCyclone.avi	0	0
+1123	2807	Elestra_GlaciarField.avi	0	0
+1130	1035	Archer_Dash.avi	0	0
+1131	2042	Sorceress_Dash.avi	0	0
+1132	3039	Cleric_Dash.avi	0	0
+1133	4023	Academic_Dash.avi	0	0
+1134	5021	Kali_Dash.avi	0	0
+1135	6025	Assassin_Dash.avi	0	0
+1136	7041	Lencea_Dash.avi	0	0
+1137	7745	Machina_Dash.avi	0	0
+1138	1579	Archer_TwinShot.avi	0	0
+1139	1585	Artillery_SwiftShot_EX.avi	0	0
+1140	3601	Guardian_ThrustForce.avi	0	0
+1141	3602	Guardian_OverWhelm.avi	0	0
+1142	3651	Crusades_MightyBlow.avi	0	0
+1143	3652	Crusades_HammerHand.avi	0	0
+1144	3701	Saint_AntiphonaPool.avi	0	0
+1145	3702	Saint_BlessedSign.avi	0	0
+1146	3751	Inquisitor_JudgementSpear.avi	0	0
+1147	3752	Inquisitor_ExceedLightning.avi	0	0
+1148	3607	Paladin_ArmorBreak.avi	0	0
+1149	3608	Paladin_ShieldCharge.avi	0	0
+1150	3609	Paladin_StanceOfFaith.avi	0	0
+1151	3610	Guardian_GuardianForce.avi	0	0
+1152	3657	Cleric_DivineCombo.avi	0	0
+1153	3658	Paladin_HolyCross.avi	0	0
+1154	3659	Paladin_LightningCharger.avi	0	0
+1155	3660	Crusades_Judge'sPower.avi	0	0
+1156	3707	Priest_RelicOfLightning.avi	0	0
+1157	3708	Priest_GrandCross.avi	0	0
+1158	3709	Priest_HolyBurst.avi	0	0
+1159	3710	Saint_GreatHeal.avi	0	0
+1160	3757	Inquisitor_LightningVolt_EX.avi	0	0
+1161	3758	Inquisitor_ElectricDetonation.avi	0	0
+1162	3759	Inquisitor_HolyWace.avi	0	0
+1163	3603	Guardian_ArmorBreak_AP.avi	0	0
+1164	3604	Guardian_ShieldCharge_AP.avi	0	0
+1165	3605	Guardian_StanceOfFaith_AP.avi	0	0
+1166	3606	Guardian_GuardianForce_AP.avi	0	0
+1168	3654	Crusades_HolyCross_AP.avi	0	0
+1169	3655	Crusades_LightningCharger_AP.avi	0	0
+1170	3703	Saint_RelicOfLightning_AP.avi	0	0
+1171	3704	Saint_GrandCross_AP.avi	0	0
+1172	3705	Saint_Holybust_AP.avi	0	0
+1173	3754	Inquisitor_ElectricDetonation.avi	0	0
+1174	3755	Inquisitor_HolyWace.avi	0	0
+1175	3706	Saint_GreatHeal	0	0
+1177	4622	Adept_Elemental_Flare.avi	0	0
+1178	4824	Adept_Magma_Jump.avi	0	0
+1179	4624	Adept_AwA_IcePalm.avi	0	0
+1180	4625	Adept_AwA_IceBeam.avi	0	0
+1181	4626	Adept_AwA_MagmaWave.avi	0	0
+1182	4601	ShootingStar_ShootingTactics.avi	0	0
+1183	4602	ShootingStar_Demolition.avi	0	0
+1184	4603	ShootingStar_AwS_ChemicalGrenade.avi	0	0
+1185	4604	ShootingStar_AwS_CannonBlaster.avi	0	0
+1186	4605		0	0
+1187	4606		0	0
+1188	4611	GearMaster_MecaCanon.avi	0	0
+1189	4612	GearMaster_Tower_Recall.avi	0	0
+1194	4631	Physician_PoisonStrike.avi	0	0
+1195	4632	Physician_SilmePool.avi	0	0
+1196	4633	Physician_AwP_PoisonBreak.avi	0	0
+1197	4634	Physician_AwP_Disease.avi	0	0
+1198	4635	Physician_AwP_Injector.avi	0	0
+1199	4636	Physician_AwP_Sacrifice.avi	0	0
+1200	4703	ShootingStar_AwS_AlfredoBerserker.avi	0	0
+1201	4704	ShootingStar_AwS_AlfredoWhirlWind.avi	0	0
+1202	4705	ShootingStar_AwS_AlfredoBeam.avi	0	0
+1203	4710	ShootingStar_AwS_AlfredoStomp.avi	0	0
+1204	4761	GearMaster_AwG_MechaShock.avi	0	0
+1205	4762	GearMaster_AwG_MechaBomber.avi	0	0
+1206	4763	GearMaster_AwG_MechaSiren.avi	0	0
+1207	4712	GearMaster_Gatling_Tower.avi	0	0
+1208	4713	GearMaster_IcePump_Tower.avi	0	0
+1209	4714	GearMaster_Cannon_Tower.avi	0	0
+1210	4715	GearMaster_AwG_ChainSawTower.avi	0	0
+1215	562	Mercenary_BattleHowl.avi	0	1차 각성
+1216	4801	ShootingStar_AwS_Air Shoot.avi	0	0
+1217	4804	ShootingStar_AwG_Summon_Alfredo.avi	0	0
+1218	4803	ShootingStar_AwS_CannonBlaster.avi	0	0
+1219	4805	ShootingStar_Chemical Missile_EX.avi	0	0
+1220	4802	ShootingStar_AwS_ChemicalGrenade.avi	0	0
+1221	4811	GearMaster_AwG_MechaDug.avi	0	0
+1222	4812	GearMaster_AwG_GravityGrenade.avi	0	0
+1225	4823	Adept_AwA_MagmaWave.avi	0	0
+1226	4752	Adept_AwA_IceBeam.avi	0	0
+1227	4821	Adept_AwA_IcePalm.avi	0	0
+1228	4833	Physician_AwP_Injector.avi	0	0
+1229	4831	Physician_AwP_PoisonBreak.avi	0	0
+1230	4832	Physician_AwP_Disease.avi	0	0
+1231	4834	Physician_AwP_Sacrifice.avi	0	0
+1232	54	Heretic_ExeCute.avi	0	0
+1233	3801	Heretic_EvilHand.avi	0	0
+1234	3802	Heretic_Carnage.avi	0	0
+1235	3803	Heretic_SavageAttack.avi	0	0
+1236	3804	Heretic_Devastation.avi	0	0
+1237	52	Heretic_DeathGate.avi	0	0
+1238	3806	Heretic_SoulSteal.avi	0	0
+1239	3807	Heretic_BrutalSoul.avi	0	0
+1240	3808	Heretic_PainToGain.avi	0	0
+1241	3809	Heretic_EvilStain.avi	0	0
+1242	3810	Heretic_RandCorruption.avi	0	0
+1243	3811	Heretic_ShieldSmash.avi	0	0
+1244	3812	Heretic_CruelRush.avi	0	0
+1245	3813	Heretic_ChaoticShield.avi	0	0
+1246	56	Heretic_GuiltyAttack.avi	0	0
+1247	3815	Heretic_HitingRevenant.avi	0	0
+1248	3816	Heretic_DeadlyBlow.avi	0	0
+1249	50	ArchHeretic_ArchHeretic.avi	0	0
+1250	3851	ArchHeretic_QuickDash.avi	0	0
+1251	3852	ArchHeretic_SawBlade.avi	0	0
+1252	5320	DarkSummoner_DeadlyClaw.avi	0	0
+1253	5321	DarkSummoner_ShartedHand.avi	0	0
+1254	5328	Screamer_AwD_PhantomClaw.avi	0	0
+1255	5329	Screamer_AwD_ResentArea.avi	0	0
+1256	5330	Screamer_AwD_RampageClaw.avi	0	0
+1257	5331	DarkSummoner_AwD_ChaosFormation.avi	0	0
+1258	5420	SoulEater_SummonTotem.avi	0	0
+1259	5421	SoulEater_SoulLiberate.avi	0	0
+1260	5428	Screamer_AwS_ClingSnake.avi	0	0
+1261	5429	SoulEater_AwS_SpecterOfPain.avi	0	0
+1262	5432	SoulEater_AwS_SoulScream.avi	0	0
+1263	5520	BladeDancer_GrazeRush.avi	0	0
+1264	5521	BladeDancer_BladeStep.avi	0	0
+1265	5529	Dancer_AwB_GrazeDance.avi	0	0
+1266	5530	Dancer_AwB_SweetCircle.avi	0	0
+1267	5532	Dancer_AwB_EleganceStorm.avi	0	0
+1268	5620	SpiritDancer_Akanthos.avi	0	0
+1269	5621	SpiritDancer_HammerCrusher.avi	0	0
+1270	5628	Dancer_AwS_DuskHunter.avi	0	0
+1271	5629	Dancer_AwS_IllusionDance.avi	0	0
+1272	5630	SpiritDancer_AwS_WideStinger.avi	0	0
+1273	5631	SpiritDancer_AwS_Preator.avi	0	0
+1274	3100	Mara_Ripping.avi	0	0
+1275	3101	Mara_Cleaving.avi	0	0
+1276	3102	Mara_BlackStrike.avi	0	0
+1277	3103	Mara_VoidCoil.avi	0	0
+1278	3104	Mara_SmokeStorm.avi	0	0
+1279	3105	Mara_DeadlySmoke.avi	0	0
+1280	3106	Mara_WraithForm.avi	0	0
+1281	3107	Mara_Haze.avi	0	0
+1282	3108	Mara_Entomb.avi	0	0
+1283	3109	Mara_ShadowShell.avi	0	0
+1284	3110	Mara_CompleteDarkness.avi	0	0
+1285	3111	Mara_Meaningless.avi	0	0
+1286	3112	Mara_EbonySpark.avi	0	0
+1287	3113	Mara_Insult.avi	0	0
+1288	3114	Mara_Turbulence.avi	0	0
+1289	3116	Mara_AirBlink.avi	0	0
+1290	3117	Mara_BlackMara.avi	0	0
+1291	3119	Mara_Inhale.avi	0	0
+1292	3122	Mara_Haze_A.avi	0	0
+1293	3123	Mara_Haze_B.avi	0	0
+1294	3126	Mara_TurbulenceA.avi	0	0
+1295	6321	Bringer_RubiconPace.avi	0	0
+1296	6322	Bringer_FullBright.avi	0	0
+1297	6420	Raven_CrowStorm.avi	0	0
+1298	6421	Raven_GuillotineCross.avi	0	0
+1299	6422	Raven_AwR_StarCombination.avi	0	0
+1300	6423	Raven_AwR_ChainCombination.avi	0	0
+1301	6424	Chaser_TheEnd.avi	0	0
+1302	6426	Raven_AwR_FanOfEdge.avi	0	0
+1303	6830	Ripper_BeastSwipe.avi	0	0
+1304	6831	Ripper_FlameDragnail.avi	0	0
+1305	6832	Ripper_MotalBlow.avi	0	0
+1306	6833	Ripper_AwR_BurningCall.avi	0	0
+1307	6835	Ripper_AwR_CripplePunisher.avi	0	0
+1308	6836	Ripper_AwR_ShadowHand.avi	0	0
+1309	6837	Ripper_AwR_BurningCall.avi	0	0
+1310	6620	LightFury_CharkraClip.avi	0	0
+1311	6621	LightFury_UnseenArt.avi	0	0
+1312	6622	LightFury_CombatMastery.avi	0	0
+1313	6623	LightFury_SummonAzuna.avi	0	0
+1314	6624	LightFury_AwL_QuantumTrans.avi	0	0
+1315	0		0	0
+1316	6626	LightFury_AwL_PiercingStar.avi	0	0
+1317	6627	LightFury_AwL_ChakraRush.avi	0	0
+1318	6631	LightFury_AwL_ChakraOfMiracle.avi	0	0
+1319	6720	AbyssWalker_AbyssClaw.avi	0	0
+1320	6721	AbyssWalker_KillingWave.avi	0	0
+1321	6722	AbyssWalker_AwA_LineOfDarkness.avi	0	0
+1322	6723	AbyssWalker_AwA_IllusionStrike.avi	0	0
+1323	6724	AbyssWalker_AwA_SummonShadow.avi	0	0
+1324	6725	AbyssWalker_AwA_DarkConviction.avi	0	0
+1325	6726	AbyssWalker_AwA_LineOfDarkness.avi	0	0
+1326	6727	AbyssWalker_AwA_IllusionStrike.avi	0	0
+1327	6728	AbyssWalker_AwA_SummonShadow.avi	0	0
+1328	6729	AbyssWalker_AwA_DarkConviction.avi	0	0
+1347	5700	Oracle_WildSpada.avi	0	0
+1348	5702	Oracle_Twister.avi	0	0
+1349	5704	Oracle_BanishSpada.avi	0	0
+1350	5706	Oracle_RisingGust.avi	0	0
+1351	5708	Oracle_SharpnessOfHurricane.avi	0	0
+1352	5710	Oracle_AncientGrace.avi	0	0
+1353	5711	Oracle_ChainRush.avi	0	0
+1354	5713	Oracle_PositionShift.avi	0	0
+1355	5715	Oracle_Providence.avi	0	0
+1356	5716	Oracle_RayDiffuse.avi	0	0
+1357	5717	Oracle_AgilityAura.avi	0	0
+1358	5718	Oracle_TurningSlide.avi	0	0
+1359	5719	Oracle_AerialRush.avi	0	0
+1360	5720	Oracle_CounterSpada.avi	0	0
+1361	5800	OracleElder_OracleElder.avi	0	0
+1362	5801	OracleElder_FlashTempest.avi	0	0
+1363	7400	Flurry_EvilPunisher.avi	0	0
+1364	7401	Flurry_Bifrost.avi	0	0
+1365	7450	Stingbreezer_FragSign.avi	0	0
+1366	7451	Stingbreezer_AngelicSpear.avi	0	0
+1367	7404	Flurry_AwL_HornetsTouch.avi	0	0
+1368	7405	Flurry_AwL_ScarMaker.avi	0	0
+1369	7406	Flurry_AwL_Spinning_CutDown.avi	0	0
+1370	7407	Flurry_AwL_Butt.avi	0	0
+1371	7454	Stingbreezer_AwL_Champagne.avi	0	8월밸패후
+1372	7455	Stingbreezer_AwL_ScarMaker.avi	0	8월밸패후
+1373	7456	Stingbreezer_AwL_PokingBeehive.avi	0	0
+1374	7457	Stingbreezer_AwL_FlingFling.avi	0	0
+1375	6900	Phantom_PassAway.avi	0	0
+1376	6901	Phantom_Madness.avi	0	0
+1377	6902	Phantom_SolBreaker.avi	0	0
+1378	6903	Phantom_TOPSuffering.avi	0	0
+1379	6904	Phantom_LethalTorture.avi	0	0
+1380	6905	Phantom_PainKiller.avi	0	0
+1381	6906	Phantom_PhantomDrive.avi	0	0
+1382	6907	Phantom_BloodSgin.avi	0	0
+1383	6908	Phantom_PhantomCall.avi	0	0
+1384	6909	Phantom_DeathWep.avi	0	0
+1385	6910	Phantom_DrawBlood.avi	0	0
+1386	6911	Phantom_ShadowStep.avi	0	0
+1387	6912	Phantom_AirReceive.avi	0	0
+1388	6913	Phantom_CombatTransmission.avi	0	0
+1389	6915	Phantom_Vaporize.avi	0	0
+1390	6950	BleedPhantom_BleedPhantom.avi	0	0
+1391	6951	BleedPhantom_ShadowOverDrive.avi	0	0
+1392	4564	Physician_CurePoison.avi	0	0
+1393	3511	Saint_Immotality.avi	0	0
+1394	3225	Paladin_DivineJudgement.avi	0	0
+1395	7408	Flurry_AwL_HornetsTouch.avi	0	렌시아각성
+1396	7409	Flurry_AwL_ScarMaker.avi	0	렌시아각성
+1397	7410	Flurry_AwL_Spinning_CutDown.avi	0	렌시아각성
+1398	7411	Flurry_AwL_Butt.avi	0	렌시아각성
+1399	7458	Stingbreezer_AwL_Champagne.avi	0	렌시아각성
+1400	7459	Stingbreezer_AwL_WillMaker.avi	0	렌시아각성
+1401	7460	Stingbreezer_AwL_PokingBeehive.avi	0	렌시아각성
+1402	7461	Stingbreezer_AwL_FlingFling.avi	0	렌시아각성
+1403	7802	Ruina_AwM_Ducking.avi	0	마키나
+1404	7803	Patrona_OverClocking.avi	0	마키나
+1405	7852	Defensio_AwM_AirShoving.avi	0	마키나
+1406	7853	Defensio_AwM_OverClocking.avi	0	마키나
+1407	3226	Paladin_DivineJudgement.avi	0	
+1408	3227	Paladin_DivineAvatar.avi	0	
+1409	6425	Raven_AwA_Assasinate.avi	0	
+1410	1539	Windwalker_AirwalkAwaken.avi	0	
+1411	564	Destroyer_Provoke.avi	0	
+1412	7797	Defensio_Provoke.avi	0	
+1413	7901	Knightess_GaleStab.avi	0	
+1414	7902	Knightess_Splitter.avi	0	
+1415	7903	Knightess_ExtremeTwister.avi	0	
+1416	7904	Knightess_FrostyCross.avi	0	
+1417	7905	Knightess_MomentaryPhantasm.avi	0	
+1418	7906	Knightess_IcyBlast.avi	0	
+1419	7907	Knightess_IronLance.avi	0	
+1420	7908	Knightess_BangAndZunk.avi	0	
+1421	7909	Knightess_HornRaid.avi	0	
+1422	7910	Knightess_RadicalCharge.avi	0	
+1423	7911	Knightess_RandCrush.avi	0	
+1424	7912	Knightess_BlazeStrike.avi	0	
+1425	7913	Knightess_Thrust.avi	0	
+1426	7914	Knightess_ParryingStep.avi	0	
+1427	7915	Knightess_Brandish.avi	0	
+1428	7916	Knightess_BluntSlash.avi	0	
+1429	7917	Knightess_RisingHorn.avi	0	
+1430	7918	Knightess_MeteorFall.avi	0	
+1431	7919	Knightess_ForceOfKnightess.avi	0	
+1432	7920	Knightess_FightingSpirit.avi	0	
+1433	8001	Avalanche_CrystalShooter.avi	0	
+1434	8002	Avalanche_FatalStinger.avi	0	
+1435	8003	Avalanche_GaleStabEX.avi	0	
+1436	8004	Avalanche_SplitterEX.avi	0	
+1437	8005	Avalanche_ExteremTwisterEX.avi	0	
+1438	8006	Avalanche_MomentaryPhantasmEX.avi	0	
+1439	8007	Avalanche_FatalStingerEX.avi	0	
+1440	8100	Avalanche_CrystalMaker.avi	0	
+1441	8101	Avalanche_BlizzardShooter.avi	0	
+1442	8200	Randgrid_Braveheart.avi	0	
+1443	8201	Randgrid_Counterflare.avi	0	
+1444	8202	Randgrid_IronLanceEX.avi	0	
+1445	8203	Randgrid_BandAndZunkEX.avi	0	
+1446	8204	Randgrid_HornRaidEX.avi	0	
+1447	8205	Randgrid_LandCrushEX.avi	0	
+1448	8206	Randgrid_CounterflareEX.avi	0	
+1449	8300	Randgrid_HeatUp.avi	0	
+1450	8301	Randgrid_HeroicCharge.avi	0	
+1451	8104	Avalanche_Awaken_FrostyCross.avi	0	
+1452	8304	Randgrid_Awaken_RadicalCharge.avi	0	
+1453	8107	Avalanche_Awaken_BluntSlash.avi	0	
+1454	8110	Knightess_ParryingStep.avi	0	
+1455	8111	Knightess_FightingSpirit.avi	0	
+1456	8106	Avalanche_Awaken_Brandish.avi	0	
+1457	8306	Randgrid_Awaken_RisingHorn.avi	0	
+1458	8307	Randgrid_Awaken_MeteorFall.avi	0	
+1460	10101	Launcher_L-Action.avi	0	0
+1461	10251	Launcher_L-Combo.avi	0	0
+1462	10103	Launcher_L-Burster.avi	0	0
+1463	10250	Launcher_StuntRush.avi	0	0
+1464	10104	Launcher_LimitRunner.avi	0	0
+1465	10105	Launcher_RazerPiercer.avi	0	0
+1466	10106	Launcher_LightningRise.avi	0	0
+1467	10107	Launcher_FloodTrick.avi	0	0
+1468	10108	Launcher_CarnivalRush.avi	0	0
+1469	10109	Launcher_HyperGalaxy.avi	0	0
+1470	10110	Launcher_Mirage.avi	0	0
+1471	10111	Launcher_Trigger.avi	0	0
+1472	10115	Launcher_T-Operate.avi	0	0
+1473	10116	Launcher_DriftStep.avi	0	0
+1474	10117	Launcher_ShoulderCrash.avi	0	0
+1475	10118	Launcher_SetPosition.avi	0	0
+1476	10102	Launcher_ElusiveFist.avi	0	0
+1477	10200	Impactor_Skipping.avi	0	0
+1478	10201	Impactor_IntensePulse.avi	0	0
+1479	10202	Impactor_L-ActionEX.avi	0	0
+1480	10203	Impactor_L-ComboEX.avi	0	0
+1481	10204	Impactor_L-BursterEX.avi	0	0
+1482	10205	Impactor_StuntRushEX.avi	0	0
+1483	10206	Impactor_SkippingEX.avi	0	0
+1484	10100	Impactor_ChainCruiser.avi	0	0
+1485	10257	Impactor_Domination.avi	0	0
+1486	10252	Impactor_Awaken_ElusiveFist.avi	0	0
+1487	10253	Impactor_Awaken_Trigger.avi	0	0
+1488	10254	Impactor_Awaken_Wideintension.avi	0	0
+1489	10255	Impactor_Awaken_LimitRunner.avi	0	0
+1490	10282	Launcher_T-Operate.avi	0	0
+1491	10274	Impactor_Awaken_ElusiveFist.avi	0	0
+1492	10272	Impactor_Awaken_LimitRunner.avi	0	0
+1493	10271	Machina_BodyCheck.avi	0	0
+1494	10300	Lustre_EternalLightSoul.avi	0	0
+1495	10301	Lustre_EternalLightQuartz.avi	0	0
+1496	10303	Lustre_CastCassia.avi	0	0
+1497	10304	Lustre_RazerPiercerEX.avi	0	0
+1498	10305	Lustre_LightningRiseEX.avi	0	0
+1499	10306	Lustre_FloodTrickEX.avi	0	0
+1500	10307	Lustre_CarnivalRushEX.avi	0	0
+1501	10308	Lustre_CastCassiaEX.avi	0	0
+1502	10350	Lustre_CountDown.avi	0	0
+1503	10351	Lustre_LiberoBlast.avi	0	0
+1504	10352	Lustre_Awaken_EternalLigntQuartz.avi	0	0
+1505	10353	Lustre_Awaken_FloodTrick.avi	0	0
+1506	10354	Lustre_Awaken_CastCassia.avi	0	0
+1507	10355	Lustre_Awaken_EternalLigntSoul.avi	0	0
+1508	10370	Lustre_Awaken_CastCassia.avi	0	0
+1509	10371	Lustre_Awaken_FloodTrick.avi	0	0
+1510	7413	Flurry_OverTheRainbow.avi	0	0
+1511	3817	Heretic_CrualSlash.avi	0	아크헤러틱
+1512	3830	Heretic_FatalFury.avi	0	0
+1513	5722	Oracle_RisingGust.avi	0	0
+1514	8401	Plaga_Fatalism.avi	0	0
+1515	8402	Plaga_ThornofReproof.avi	0	0
+1516	8403	Plaga_BloodShoot.avi	0	0
+1517	8404	Plaga_Subconscious.avi	0	0
+1518	8405	Plaga_Sacrifice.avi	0	0
+1519	8406	Plaga_Dissembler.avi	0	0
+1520	8407	Plaga_Grudge.avi	0	0
+1521	8408	Plaga_Infection.avi	0	0
+1522	8409	Plaga_FlowDown.avi	0	0
+1523	8410	Plaga_Projection.avi	0	0
+1524	8411	Plaga_Injury.avi	0	0
+1525	8412	Plaga_InjuryCombo.avi	0	0
+1526	8413	Plaga_Repression.avi	0	0
+1527	8500	VenaPlaga_VenaPlaga.avi	0	0
+1528	8505	VenaPlaga_LonelyCrowd.avi	0	0
+1529	8507	VenaPlaga_Manic.avi	0	0
+1530	8508	VenaPlaga_Sacrifice.avi	0	0
+1531	7308	Engineer_MechanicGatling.avi	0	0
+1532	7305	Engineer_MechanicCannon.avi	0	0
+1533	7306	Engineer_MechanicIcePump.avi	0	0
+1534	7304	Engineer_SummonTower.avi	0	0
+1535	4220	Engineer_ExtremeTower.avi	0	0
+1536	7307	GearMaster_MechanicChainSaw.avi	0	0
+1537	4619	GearMaster_AwG_AutoPump.avi	0	0
+1538	4620	GearMaster_AwG_FlagCannon.avi	0	0
+1539	4614	GearMaster_AwG_Mechaduck.avi	0	0
+1540	4724	GearMaster_AwG_MechanicGatling.avi	0	0
+1541	4721	GearMaster_MechanicCannon.avi	0	0
+1542	4722	GearMaster_MechanicIcePump.avi	0	0
+1543	4723	GearMaster_MechanicChainSaw.avi	0	0
+1544	4813	GearMaster_SummonTower.avi	0	0
+1545	4815	GearMaster_ExtremeTower.avi	0	0
+1546	8414	Plaga_Projection.avi	0	0
+1547	7310	Engineer_APLauncher.avi	0	0
+1548	4224	Engineer_PingPong Bomb.avi	0	0
+1549	3713	Saint_Heal.avi	0	
+1550	3428	Priest_FallingThunder.avi	0	
+1551	3429	Priest_LightningMove.avi	0	
+1552	3430	Priest_ShockSmash.avi	0	
+1553	3431	Priest_Purify.avi	0	
+1554	3432	Priest_HolyFlux.avi	0	
+1555	3433	Priest_MysticChain.avi	0	
+1556	3434	Priest_SacredWish.avi	0	
+1557	3512	Saint_ProtectionShell.avi	0	
+1558	3513	Saint_Purify.avi	0	
+1559	3514	Saint_HolyFlux_EX.avi	0	
+1560	3515	Saint_MysticChain_EX.avi	0	
+1561	3716	Priest_SacredWish.avi	0	
+1562	3717	Priest_SacredWish.avi	0	
+1563	3718		0	
+1564	3719	Priest_HolyBurst.avi	0	
+1565	3720		0	
+1566	3768	Priest_GrandCross.avi	0	
+1567	3756	Inquisitor_LightningFury.avi	0	
+1568	3565	Inquisitor_FallingThunder_EX.avi	0	
+1569	3566	Inquisitor_HeavensJudgement.avi	0	
+1570	12000	Vandar_DoubleSlash.avi	0	반다르
+1571	12001	Vandar_LowSlicer.avi	0	반다르
+1572	12002	Vandar_PiercingBolt.avi	0	반다르
+1573	12003	Vandar_IceBolt.avi	0	반다르
+1574	12004	Vandar_CrossFire.avi	0	반다르
+1575	12005	Vandar_KannaTherapy.avi	0	반다르
+1576	12006	Vandar_Inspiration.avi	0	반다르
+1577	12007	Vandar_Picking.avi	0	반다르
+1578	12008	Vandar_HammerSlam.avi	0	반다르
+1579	12009	Vandar_SideStep.avi	0	반다르
+1580	12010	Vandar_TacticalStep.avi	0	반다르
+1581	12011	Vandar_Dash.avi	0	반다르
+1582	12012	Vandar_Windmill.avi	0	반다르
+1583	12013	Vandar_DoubleCheck.avi	0	반다르
+1584	12014	Vandar_PowerDive.avi	0	반다르
+1585	12015	Vandar_HandleUpper.avi	0	반다르
+1586	12016	Vandar_AerialEvasion.avi	0	반다르
+1587	12030	TreasureHunter_AeroSword.avi	0	반다르
+1588	12031	TreasureHunter_RippleEffect.avi	0	반다르
+1589	12032	TreasureHunter_PaleBurst.avi	0	반다르
+1590	12033	TreasureHunter_Flush.avi	0	반다르
+1591	12034	TreasureHunter_Requiem.avi	0	반다르
+1592	12035	TreasureHunter_BladingEdge.avi	0	반다르
+1593	12036	TreasureHunter_ClawCrane.avi	0	반다르
+1594	12037	TreasureHunter_KannaEnchant.avi	0	반다르
+1595	12038	TreasureHunter_UnchainedBolt.avi	0	반다르
+1596	12039	TreasureHunter_SplitFire.avi	0	반다르
+1597	12040	TreasureHunter_ClutchField.avi	0	반다르
+1598	12041	TreasureHunter_OutLink.avi	0	반다르
+1599	12042	TreasureHunter_ShootTheMoon.avi	0	반다르
+1600	12086	TreasureHunter_BladingEdge.avi	0	
+1601	12044	TreasureHunter_MetalBody.avi	0	반다르
+1602	12046	TreasureHunter_DoubleRaise.avi	0	
+1603	12047	TreasureHunter_RevengeMoment.avi	0	반다르
+1604	12048	TreasureHunter_Rearrange.avi	0	반다르
+1605	12049	TreasureHunter_FallingArms.avi	0	반다르
+1606	12050	TreasureHunter_GuillotineBlade.avi	0	반다르
+1607	12070	Duelist_PhaseBlade.avi	0	반다르
+1608	12071	Duelist_Incrimination.avi	0	반다르
+1609	12072	Duelist_LightningRod.avi	0	반다르
+1610	12073	Duelist_AeroSwordEX.avi	0	반다르
+1611	12074	Duelist_RippleEffectEX.avi	0	반다르
+1612	12075	Duelist_PaleBurstEX.avi	0	반다르
+1613	12076	Duelist_FlushEX.avi	0	반다르
+1614	12077	Duelist_PhaseBladeEX.avi	0	반다르
+1615	12079	Duelist_ClassMastery2.avi	0	반다르
+1616	12080	Duelist_ClassMastery3.avi	0	반다르
+1617	12100	Trickster_HopStep.avi	0	반다르
+1618	12102	Trickster_SwordStorm.avi	0	반다르
+1619	12103	Trickster_UnchainedBoltEX.avi	0	
+1620	12104	Trickster_SplitFireEX.avi	0	반다르
+1621	12105	Trickster_ClutchFieldEX.avi	0	반다르
+1622	12106	Trickster_OutLinkEX.avi	0	반다르
+1623	12107	Trickster_SwordStormEX.avi	0	반다르
+1624	12110	Trickster_ClassMastery3.avi	0	반다르
+1625	12130	Duelist_Harrmattan.avi	0	반다르
+1626	12131	Duelist_AirCraft.avi	0	반다르
+1627	12136	Duelist_AwV_DoubleSideStep.avi	0	반다르
+1628	12134	Duelist_Duelist.avi	0	반다르
+1629	12135	Duelist_AwV_Requiem.avi	0	반다르
+1630	12150	Trickster_TheEye.avi	0	반다르
+1631	12151	Trickster_BlindRevolt.avi	0	반다르
+1632	12154	Trickster_AwV_Pendulum.avi	0	반다르
+1633	12155	Trickster_ShootTheMoon_Awaken.avi	0	반다르
+1634	12158	Trickster_ShootTheMoon_Awaken.avi	0	반다르
+1635	12159	TreasureHunter_KannaEnchant.avi	0	반다르
+1636	12156	Trickster_AwV_TrickArt.avi	0	
+1637	12143	Duelist_Excution.avi	0	반다르
+1638	4100	Mechanic_ElectronSpanner.avi	0	리메이크_후
+1639	4101	Mechanic_PlasmaField.avi	0	리메이크_후
+1640	4102	Mechanic_SpannerWhirlwind.avi	0	리메이크_후
+1641	4103	Mechanic_AtomicBlade.avi	0	리메이크_후
+1642	4104	Mechanic_Resonater.avi	0	리메이크_후
+1643	4105	Mechanic_Singularity.avi	0	리메이크_후
+1644	4106	Mechanic_Multiplexer.avi	0	리메이크_후
+1645	4107	Mechanic_QuantumMechanics.avi	0	리메이크_후
+1646	4108	Mechanic_AtomicCore.avi	0	리메이크_후
+1647	4109	Mechanic_CannonSwitching.avi	0	리메이크_후
+1648	4110	Mechanic_SelfRepair.avi	0	리메이크_후
+1649	4111	Mechanic_PlasmaGrenade.avi	0	리메이크_후
+1650	4112	Mechanic_DodgeAttack.avi	0	리메이크_후
+1651	4113	Mechanic_FlipFlop.avi	0	리메이크_후
+1652	4116	Mechanic_AtomicSheild.avi	0	리메이크_후
+1653	4941	RayMechanic_AlfredoFrontier2.avi	0	리메이크_후
+1654	4131	RayMechanic_DynamicVortex.avi	0	리메이크_후
+1655	4132	RayMechanic_PlasmaEngineering.avi	0	리메이크_후
+1656	4142	RayMechanic_AlfredoFrontierB.avi	0	리메이크_후
+1657	4145	RayMechanic_ClassMastery3.avi	0	리메이크_후
+1658	4134	RayMechanic_ClassMastery2.avi	0	리메이크_후
+1659	10417	Patrona_OverClocking.avi	0	
+1660	10418	Patrona_FootStomping.avi	0	
+1661	10419	Patrona_FollowUp.avi	0	
+1662	10420	Patrona_FollowThrough.avi	0	
+1663	10421	Patrona_StepUp.avi	0	
+1664	10422	Patrona_BeatDown.avi	0	
+1665	10423	Patrona_LeapingOver.avi	0	
+1666	10424	Patrona_FlyingKneeKick.avi	0	
+1667	10425	Patrona_KideneyBlow.avi	0	
+1668	10427	Patrona_MantoMan.avi	0	페트로나_리메이크_후
+1669	10428	Patrona_Wallop.avi	0	페트로나_리메이크_후
+1670	10467	Patrona_Ruination.avi	0	페트로나_리메이크_후
+1671	10430	Patrona_BoneBrake.avi	0	페트로나_리메이크_후
+1672	10431	Patrona_BodyBlow.avi	0	페트로나_리메이크_후
+1673	10432	Patrona_GroundSpike.avi	0	페트로나_리메이크_후
+1674	10433	Patrona_DemolishPunch.avi	0	페트로나_리메이크_후
+1675	10435	Patrona_WildRush.avi	0	페트로나_리메이크_후
+1676	10498	Patrona_DeusExMachina.avi	0	페트로나_리메이크_후
+1677	10437	Ruina_Ducking.avi	0	페트로나_리메이크_후
+1678	10452	Ruina_PalmStrike.avi	0	페트로나_리메이크_후
+1679	10440	Ruina_FollowUpEX.avi	0	페트로나_리메이크_후
+1680	10441	Ruina_FollowThroughEX.avi	0	페트로나_리메이크_후
+1681	10442	Ruina_FlyingKneeKickEX.avi	0	페트로나_리메이크_후
+1682	10443	Ruina_WildRushEX.avi	0	페트로나_리메이크_후
+1683	10444	Ruina_PalmStrikeEX.avi	0	페트로나_리메이크_후
+1684	10439		0	페트로나_리메이크_후
+1685	10445		0	페트로나_리메이크_후
+1686	10447		0	페트로나_리메이크_후
+1687	10492	Ruina_AwR_FlyingKneeKick.avi	0	페트로나_리메이크_후
+1688	10494	Ruina_AwR_WildRush.avi	0	페트로나_리메이크_후
+1689	10497	Ruina_GearBoost.avi	0	페트로나_리메이크_후
+1690	10438	Ruina_Flicker.avi	0	페트로나_리메이크_후
+1691	10434	Ruina_ImpactPunch.avi	0	페트로나_리메이크_후
+1692	10485	Ruina_AwR_KidneyBlow.avi	0	페트로나_리메이크_후
+1693	10486	Ruina_AwR_BeatDown.avi	0	페트로나_리메이크_후
+1694	10499	Ruina_AwR_GearBoost.avi	0	페트로나_리메이크_후
+1695	10448	Defensio_BoneBrakeEX.avi	0	페트로나_리메이크_후
+1696	10449	Defensio_RuinationEX.avi	0	페트로나_리메이크_후
+1697	10450	Defensio_GroundSpikeEX.avi	0	페트로나_리메이크_후
+1698	10453		0	페트로나_리메이크_후
+1699	10454	Defensio_ClassMastery2.avi	0	페트로나_리메이크_후
+1700	10455	Defensio_ClassMastery3.avi	0	페트로나_리메이크_후
+1701	10472	Defensio_TauntingBlow.avi	0	페트로나_리메이크_후
+1702	10473	Defensio_TauntingBlowEX.avi	0	페트로나_리메이크_후
+1703	10478	Defensio_LeapingOverEX.avi	0	페트로나_리메이크_후
+1704	10479	Defensio_OverDefence.avi	0	페트로나_리메이크_후
+1705	10487	Defensio_Repair.avi	0	페트로나_리메이크_후
+1706	10488	Defensio_Provoke.avi	0	페트로나_리메이크_후
+1707	10426	Defensio_Shoving.avi	0	페트로나_리메이크_후
+1708	10490	Defensio_AwD_StepUp.avi	0	페트로나_리메이크_후
+1709	10466	Defensio_ReverseOrder.avi	0	페트로나_리메이크_후
+1710	10451	Defensio_RockFist.avi	0	페트로나_리메이크_후
+1711	10500	Defensio_AwD_OverClocking.avi	0	페트로나_리메이크_후
+1712	10501	Defensio_AwD_MantoMan.avi	0	페트로나_리메이크_후
+1713	10468	Defensio_AwD_BombCloud.avi	0	페트로나_리메이크_후
+1714	10462	Ruina_AwR_Ducking.avi	0	페트로나_리메이크_후
+1715	10503	Defensio_FootStomping.avi	0	페트로나_리메이크_후
+1716	10507	Defensio_OverDefence.avi	0	페트로나_리메이크_후
+1717	1234	Bowmaster_FlashCatcher.avi	0	보마리메후
+1718	1235	Bowmaster_ReCharge.avi	0	보마리메후
+1719	1236	Bowmaster_SwiftStorm.avi	0	보마리메후
+1720	1314	Sniper_RangeEnder.avi	0	보마리메후
+1721	1313	Sniper_FlashCatcherEX.avi	0	보마리메후
+1722	1315	Sniper_RangeEnderEX.avi	0	보마리메후
+1723	1310	Sniper_ClassMastery2.avi	0	보마리메후
+1724	1524	Sniper_AwA_PinPointShot.avi	0	보마리메후
+1725	1547	Sniper_AwA_WindForce.avi	0	보마리메후
+1726	1807	Artillery_AwA_TriangleShot.avi	0	보마리메후
+1727	1808	Artillery_AwA_FakeShot.avi	0	보마리메후
+1728	1802	Artillery_AwS_Move_A.avi	0	보마리메후
+1729	1809	Artillery_AwA_DetonatingArrow.avi	0	보마리메후
+1730	712	Gladiator_PhantomSlash.avi	0	0
+1731	734	Moonload_AbsoluteLuna.avi	0	0
+1732	751	Babarian_FuriousBash.avi	0	0
+1733	779	Destroyer_Earthquake.avi	0	0
+1734	7614	DarkAvenger_WrathOfAvenger.avi	0	0
+1735	1820	Sniper_MultiSniping.avi	0	0
+1736	1821	Artillery_SpitfIre.avi	0	0
+1737	1822	Tempest_AstralStorm.avi	0	0
+1738	1823	Windwalker_WindSlicer.avi	0	0
+1739	1824	SilverHunter_SilverStream.avi	0	0
+1740	2611	Saleana_FlameVolcano.avi	0	0
+1741	2815	Elestra_FrozenStatue.avi	0	0
+1742	2769	Majesy_BigBang.avi	0	0
+1743	2664	Smasher_Disintegrate.avi	0	0
+1744	3165	Mara_UnfairContract.avi	0	0
+1745	3615	Guardian_DivineDriver.avi	0	0
+1746	3672	Crusades_Thunderstroke.avi	0	0
+1747	3771	Inquisitor_Superconduction.avi	0	0
+1748	3722	Saint_SaintSalvation.avi	0	0
+1749	3866	ArchHeretic_Fanaticism.avi	0	0
+1750	4609	ShootingStar_StarMortar.avi	0	0
+1751	4639	GearMaster_FullMekaSwiong.avi	0	0
+1752	4640	Adept_IceDrive.avi	0	0
+1753	4641	Physician_VenomDrop.avi	0	0
+1754	4146	RayMechanic_PlasmaSpark.avi	0	0
+1755	5334	DarkSummoner_PhantomSweep.avi	0	0
+1756	5433	SoulEater_BeastSlash.avi	0	0
+1757	5533	BladeDancer_Zephyr.avi	0	0
+1758	5633	SpiritDancer_IllusionFantasy.avi	0	0
+1759	5826	OracleElder_WildStorm.avi	0	0
+1760	6844	Ripper_BurningRipper.avi	0	0
+1761	6437	Raven_SpinningTalon.avi	0	0
+1762	6737	AbyssWalker_Transcendence.avi	0	0
+1763	6634	LightFury_EndOfNight.avi	0	0
+1764	6975	BleedPhantom_ViciousCircle.avi	0	0
+1765	7414	Flurry_FlashSkewer.avi	0	0
+1766	7462	Stingbreezer_DentImpact.avi	0	0
+1767	8119	Avalanche_IcicleStrike.avi	0	0
+1768	8317	Randgrid_JusticeExecution.avi	0	0
+1769	8524	VenaPlaga_OsmoticThorns.avi	0	0
+1770	10509	Defensio_HeatingChoke.avi	0	0
+1771	10508	Ruina_OneInchPunch.avi	0	0
+1772	10374	Lustre_OrbitalBombing.avi	0	0
+1773	10283	Impactor_ChainShoker.avi	0	0
+1774	12144	Duelist_MirageEdge.avi	0	0
+1775	12166	Trickster_TrickTrip.avi	0	0
+1776	1826	Archer_Harmony.avi	0	0
+1777	1243	Archer_Harmony.avi	0	0
+1778	1811	Archer_Harmony.avi	0	0
+1779	1599	Archer_Harmony.avi	0	0
+1780	1600	Archer_Harmony.avi	0	0
+1781	7415	Lencea_Harmony.avi	0	0
+1782	7463	Lencea_Harmony.avi	0	0
+1783	8120	Lencea_Harmony.avi	0	0
+1784	8318	Lencea_Harmony.avi	0	0
+1785	8525	Lencea_Harmony.avi	0	0
+1786	7615	Warior_Harmony.avi	0	0
+1787	713	Warior_Harmony.avi	0	0
+1788	735	Warior_Harmony.avi	0	0
+1789	752	Warior_Harmony.avi	0	0
+1790	780	Warior_Harmony.avi	0	0
+1791	5335	Kali_Harmony.avi	0	0
+1792	5434	Kali_Harmony.avi	0	0
+1793	5534	Kali_Harmony.avi	0	0
+1794	5634	Kali_Harmony.avi	0	0
+1795	5827	Kali_Harmony.avi	0	0
+1796	2665	Sorceress_Harmony.avi	0	0
+1797	2612	Sorceress_Harmony.avi	0	0
+1798	2770	Sorceress_Harmony.avi	0	0
+1799	2816	Sorceress_Harmony.avi	0	0
+1800	3166	Sorceress_Harmony.avi	0	0
+1801	10285	Machina_Harmony.avi	0	0
+1802	10376	Machina_Harmony.avi	0	0
+1803	10511	Machina_Harmony.avi	0	0
+1804	10510	Machina_Harmony.avi	0	0
+1805	6438	Assassin_Harmony.avi	0	0
+1806	6845	Assassin_Harmony.avi	0	0
+1807	6635	Assassin_Harmony.avi	0	0
+1808	6739	Assassin_Harmony.avi	0	0
+1809	6976	Assassin_Harmony.avi	0	0
+1810	3616	Cleric_Harmony.avi	0	0
+1811	3673	Cleric_Harmony.avi	0	0
+1812	3723	Cleric_Harmony.avi	0	0
+1813	3772	Cleric_Harmony.avi	0	0
+1814	3867	Cleric_Harmony.avi	0	0
+1815	12145	Vandar_Harmony.avi	0	0
+1816	12167	Vandar_Harmony.avi	0	0
+1817	4642	Academic_Harmony.avi	0	0
+1818	4643	Academic_Harmony.avi	0	0
+1819	4644	Academic_Harmony.avi	0	0
+1820	4645	Academic_Harmony.avi	0	0
+1821	4147	Academic_Harmony.avi	0	0
+1822	8303	Randgrid_Awaken_RadicalCharge.avi	0	8월밸패후
+1823	7215	Stingbreezer_SpringHaze_Lv2.avi	0	8월밸패후
+1824	7464	Stingbreezer_AwL_PokingBeehive.avi	0	8월밸패후
+1825	6324	LightFury_RingOfEnergy.avi	0	0
+1826	6630	LightFury_SummonAzuna.avi	0	0
+1827	6610	LightFury_ChakraHeal.avi	0	0
+1828	6842	Ripper_MotalBlow.avi	0	0
+1829	6429	Raven_Aws_CrookingDeadfall.avi	0	0
+1830	6436	Chaser_TheEnd.avi	0	0
+1831	6834	Chaser_DedicateCrow.avi	0	0
+1832	6846	Chaser_DedicateCrow.avi	0	0
+1833	6428	Chaser_Raindrop.avi	0	0
+1834	0	-2146826246	0	0
+1835	0	-2146826246	0	0
+1836	0	-2146826246	0	0

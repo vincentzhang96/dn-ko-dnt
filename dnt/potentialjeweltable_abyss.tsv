@@ -1,0 +1,9 @@
+ROWID	_ApplicableValue|INTEGER	_PotentialNo|INTEGER	_IsErasable|BOOLEAN	_CanApplySealedItem|BOOLEAN	_Issuffix|BOOLEAN	_Charge|INTEGER	_PopupType|INTEGER
+536870926	28851324	6	false	true	false	9300000	0
+536870927	28851203	6	false	true	false	13500000	0
+536870924	28852096	6	false	true	false	15900000	0
+536870925	29360127	0	true	true	false	0	1
+536871432	33045628	6	false	true	false	4650000	0
+536871433	33045507	6	false	true	false	6750000	0
+536871434	33046400	6	false	true	false	7950000	0
+536871435	33554431	0	true	true	false	0	1

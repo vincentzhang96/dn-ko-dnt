@@ -1,0 +1,2 @@
+ROWID	_mapId|INTEGER	_channelcount|INTEGER	_channelname|TEXT	_uiframe|INTEGER	_timecount|INTEGER	_time1|TEXT	_time2|TEXT	_time3|TEXT	_time4|TEXT	_time5|TEXT
+1	189	3	290;291;292	1	3	1500;1700	1800;2000	2100;2300		

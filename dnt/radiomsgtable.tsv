@@ -1,0 +1,51 @@
+ROWID	_NameID|INTEGER	_IconID|INTEGER	_MsgID1|INTEGER	_MsgID2|INTEGER	_MsgID3|INTEGER	_MsgID4|INTEGER	_MsgSnd1|TEXT	_MsgSnd2|TEXT	_MsgSnd3|TEXT	_MsgSnd4|TEXT	_bMacro|BOOLEAN	_MacroNum|INTEGER	_MacroDef|INTEGER	_IconFile|TEXT	_MsgID5|INTEGER	_MsgSnd5|TEXT	_MsgID6|INTEGER	_MsgSnd6|TEXT	_MsgID7|INTEGER	_MsgSnd7|TEXT	_MsgID8|INTEGER	_MsgSnd8|TEXT	_MsgID9|INTEGER	_MsgSnd9|TEXT	_MsgID10|INTEGER	_MsgSnd10|TEXT
+1	9800	0	9900	9901	9903	9902	Player_Warrior2_ra_f1_a.ogg;Player_Warrior2_ra_f1_b.ogg;Player_Warrior2_ra_f1_c.ogg;Player_Warrior2_ra_f1_d.ogg;Player_Warrior2_ra_f1_e.ogg	Player_Archer2_ra_f1_a.ogg;Player_Archer2_ra_f1_b.ogg;Player_Archer2_ra_f1_c.ogg;Player_Archer2_ra_f1_d.ogg	Player_Sorceress2_ra_f1_a.ogg;Player_Sorceress2_ra_f1_b.ogg;Player_Sorceress2_ra_f1_c.ogg	Player_Cleric2_ra_f1_a.ogg;Player_Cleric2_ra_f1_b.ogg;Player_Cleric2_ra_f1_c.ogg	false	0	0	RadioMsg_Heal.dds	9924	Player_Academic2_ra_f1_a.ogg	9933	Player_Kali_ra_01_a.ogg;Player_Kali_ra_01_b.ogg	1000061843	Player_Assassin_ra_01_a.ogg;Player_Assassin_ra_01_b.ogg;Player_Assassin_ra_01_c.ogg	9943	Player_Lencea_ra_01_a.ogg;Player_Lencea_ra_01_b.ogg	1000091796	Player_Machina_ra_01_c.ogg;Player_Machina_ra_01_d.ogg	1000164774	Vandar_Radiomsg_f1_a.ogg;Vandar_Radiomsg_f1_b.ogg
+2	9801	1	9904	9905	9907	9906	Player_Warrior2_ra_f2_a.ogg;Player_Warrior2_ra_f2_b.ogg;Player_Warrior2_ra_f2_c.ogg	Player_Archer2_ra_f2_a.ogg;Player_Archer2_ra_f2_b.ogg;Player_Archer2_ra_f2_c.ogg;Player_Archer2_ra_f2_d.ogg	Player_Sorceress2_ra_f2_a.ogg;Player_Sorceress2_ra_f2_b.ogg;Player_Sorceress2_ra_f2_c.ogg	Player_Cleric2_ra_f2_a.ogg;Player_Cleric2_ra_f2_b.ogg;Player_Cleric2_ra_f2_c.ogg;Player_Cleric2_ra_f2_d.ogg	false	0	0	RadioMsg_Attack.dds	9925	Player_Academic2_ra_f2_a.ogg	9934	Player_Kali_ra_02_a.ogg;Player_Kali_ra_02_b.ogg	1000061844	Player_Assassin_ra_02_a.ogg;Player_Assassin_ra_02_b.ogg;Player_Assassin_ra_02_c.ogg;Player_Assassin_ra_02_d.ogg	9944	Player_Lencea_ra_02_a.ogg;Player_Lencea_ra_02_b.ogg	1000091797	Player_Machina_ra_02_a.ogg;Player_Machina_ra_02_b.ogg	1000164775	Vandar_Radiomsg_f2_a.ogg;Vandar_Radiomsg_f2_b.ogg
+3	9802	2	9908	9909	9911	9910	Player_Warrior2_ra_f3_a.ogg;Player_Warrior2_ra_f3_b.ogg;Player_Warrior2_ra_f3_c.ogg	Player_Archer2_ra_f3_a.ogg;Player_Archer2_ra_f3_b.ogg;Player_Archer2_ra_f3_c.ogg	Player_Sorceress2_ra_f3_a.ogg;Player_Sorceress2_ra_f3_b.ogg;Player_Sorceress2_ra_f3_c.ogg	Player_Cleric2_ra_f3_a.ogg;Player_Cleric2_ra_f3_b.ogg;Player_Cleric2_ra_f3_c.ogg;Player_Cleric2_ra_f3_d.ogg;Player_Cleric2_ra_f3_e.ogg;Player_Cleric2_ra_f3_f.ogg	false	0	0	RadioMsg_Follow.dds	9926	Player_Academic2_ra_f3_a.ogg	9935	Player_Kali_ra_03_a.ogg;Player_Kali_ra_03_b.ogg	1000061991	Player_Assassin_ra_03_a.ogg;Player_Assassin_ra_03_b.ogg;Player_Assassin_ra_03_c.ogg	9945	Player_Lencea_ra_03_a.ogg;Player_Lencea_ra_03_b.ogg	1000091798	Player_Machina_ra_03_a.ogg;Player_Machina_ra_03_b.ogg	1000164776	Vandar_Radiomsg_f3_a.ogg;Vandar_Radiomsg_f3_b.ogg
+4	9803	3	9912	9913	9915	9914	Player_Warrior2_ra_f4_a.ogg;Player_Warrior2_ra_f4_b.ogg	Player_Archer2_ra_f4_a.ogg;Player_Archer2_ra_f4_b.ogg;Player_Archer2_ra_f4_c.ogg	Player_Sorceress2_ra_f4_a.ogg;Player_Sorceress2_ra_f4_b.ogg;Player_Sorceress2_ra_f4_c.ogg	Player_Cleric2_ra_f4_a.ogg;Player_Cleric2_ra_f4_b.ogg;Player_Cleric2_ra_f4_c.ogg	false	0	0	RadioMsg_Back.dds	9927	Player_Academic2_ra_f4_a.ogg	9936	Player_Kali_ra_04_a.ogg;Player_Kali_ra_04_b.ogg	1000061846	Player_Assassin_ra_04_a.ogg;Player_Assassin_ra_04_b.ogg;Player_Assassin_ra_04_c.ogg	9946	Player_Lencea_ra_04_a.ogg;Player_Lencea_ra_04_b.ogg	1000091799	Player_Machina_ra_04_a.ogg;Player_Machina_ra_04_b.ogg	1000164777	Vandar_Radiomsg_f4_a.ogg;Vandar_Radiomsg_f4_b.ogg
+5	9804	4	9916	9917	9919	9918	Player_Warrior2_ra_f5_a.ogg;Player_Warrior2_ra_f5_b.ogg;Player_Warrior2_ra_f5_c.ogg	Player_Archer2_ra_f5_a.ogg;Player_Archer2_ra_f5_b.ogg;Player_Archer2_ra_f5_c.ogg	Player_Sorceress2_ra_f5_a.ogg;Player_Sorceress2_ra_f5_b.ogg	Player_Cleric2_ra_f5_a.ogg;Player_Cleric2_ra_f5_b.ogg;Player_Cleric2_ra_f5_c.ogg	false	0	0	RadioMsg_Stop.dds	9928	Player_Academic2_ra_f5_a.ogg	9937	Player_Kali_ra_05_a.ogg;Player_Kali_ra_05_b.ogg	1000061992	Player_Assassin_ra_05_a.ogg;Player_Assassin_ra_05_b.ogg;Player_Assassin_ra_05_c.ogg	9947	Player_Lencea_ra_05_a.ogg;Player_Lencea_ra_05_b.ogg	1000091800	Player_Machina_ra_05_a.ogg;Player_Machina_ra_05_b.ogg	1000164778	Vandar_Radiomsg_f5_a.ogg;Vandar_Radiomsg_f5_b.ogg
+6	9805	5	9920	9921	9923	9922	Player_Warrior2_ra_f6_a.ogg;Player_Warrior2_ra_f6_b.ogg;Player_Warrior2_ra_f6_c.ogg	Player_Archer2_ra_f6_a.ogg;Player_Archer2_ra_f6_b.ogg;Player_Archer2_ra_f6_c.ogg;Player_Archer2_ra_f6_d.ogg	Player_Sorceress2_ra_f6_a.ogg;Player_Sorceress2_ra_f6_b.ogg;Player_Sorceress2_ra_f6_d.ogg	Player_Cleric2_ra_f6_a.ogg;Player_Cleric2_ra_f6_b.ogg;Player_Cleric2_ra_f6_c.ogg	false	0	0	RadioMsg_Help.dds	9929	Player_Academic2_ra_f6_a.ogg	9938	Player_Kali_ra_06_a.ogg;Player_Kali_ra_06_b.ogg	1000061847	Player_Assassin_ra_06_a.ogg;Player_Assassin_ra_06_b.ogg;Player_Assassin_ra_06_c.ogg;Player_Assassin_ra_06_d.ogg	9948	Player_Lencea_ra_06_a.ogg;Player_Lencea_ra_06_b.ogg	1000091801	Player_Machina_ra_06_c.ogg;Player_Machina_ra_06_d.ogg	1000164779	Vandar_Radiomsg_f6_a.ogg;Vandar_Radiomsg_f6_b.ogg
+7	9806	0	0	0	0	0					true	1	9826		0		0		0		0		0		0	
+8	9807	0	0	0	0	0					true	2	9827		0		0		0		0		0		0	
+9	9808	0	0	0	0	0					true	3	9828		0		0		0		0		0		0	
+10	9809	0	0	0	0	0					true	4	9829		0		0		0		0		0		0	
+11	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+12	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+13	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+14	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+15	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+16	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+17	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+18	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+19	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+20	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+21	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+22	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+23	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+24	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+25	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+26	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+27	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+28	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+29	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+30	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+31	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+32	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+33	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+34	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+35	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+36	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+37	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+38	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+39	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+40	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+41	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+42	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+43	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+44	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+45	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+46	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+47	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+48	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+49	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	
+50	0	0	0	0	0	0					false	0	0		0		0		0		0		0		0	

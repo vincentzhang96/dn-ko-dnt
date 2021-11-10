@@ -1,0 +1,13 @@
+ROWID	_PlayerCount|INTEGER	_MapSubType|INTEGER	_DeadExperienceWeight|DOUBLE	_CompleteExperienceWeight|DOUBLE	_DeadDurabilityWeight|DOUBLE	_HPWeight|DOUBLE	_AttackPMinWeight|DOUBLE	_AttackPMaxWeight|DOUBLE	_AttackMMinWeight|DOUBLE	_AttackMMaxWeight|DOUBLE	_DefensePWeight|DOUBLE	_DefenseMWeight|DOUBLE	_StiffWeight|DOUBLE	_CriticalWeight|DOUBLE	_StunWeight|DOUBLE	_StiffResistanceWeight|DOUBLE	_CriticalResistanceWeight|DOUBLE	_StunResistanceWeight|DOUBLE	_SuperAmmorWeight|DOUBLE	_Element_Str_Weight|DOUBLE	_Fire_Def_Weight|DOUBLE	_Ice_Def_Weight|DOUBLE	_Light_Def_Weight|DOUBLE	_Dark_Def_Weight|DOUBLE	_MoveSpeedWeight|DOUBLE	_DownDelayWeight|DOUBLE	_DurabilityWeight|DOUBLE
+1	1	1	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+2	2	1	1.0	1.0	1.0	1.8	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+3	3	1	1.0	1.0	1.0	2.4	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+4	4	1	1.0	1.0	1.0	2.8	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+5	5	1	1.0	1.0	1.0	5.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+6	6	1	1.0	1.0	1.0	4.2	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+7	7	1	1.0	1.0	1.0	7.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+8	8	1	1.0	1.0	1.0	8.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+51	1	0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+52	2	0	1.0	1.0	1.0	1.8	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.4	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+53	3	0	1.0	1.0	1.0	2.4	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.8	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+54	4	0	1.0	1.0	1.0	2.8	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	2.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0	1.0

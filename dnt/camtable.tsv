@@ -1,0 +1,43 @@
+ROWID	_CamType|INTEGER	_Camfilename|TEXT	_Soundfilename|TEXT
+1	0	Login_Camera_01	DN_BGM_2021_NewTitle.ogg
+2	1	Select_Cam_Main_Idle	
+3	2	NEW_Holding_Cam	
+4	2	NEW_Holding_Cam	
+5	3	Select_Cam_Wa_DeSelect	NewTitle_Cam_Back.ogg
+6	3	Select_Cam_Wa_FadeOut	
+7	3	Select_Cam_Wa_Idle	
+8	3	Select_Cam_Wa_Select	NewTitle_Cam_02.ogg
+9	3	Select_Cam_Ar_DeSelect	NewTitle_Cam_Back.ogg
+10	3	Select_Cam_Ar_FadeOut	
+11	3	Select_Cam_Ar_Idle	
+12	3	Select_Cam_Ar_Select	NewTitle_Cam_01.ogg
+13	3	Select_Cam_Cl_DeSelect	NewTitle_Cam_Back.ogg
+14	3	Select_Cam_Cl_FadeOut	
+15	3	Select_Cam_Cl_Idle	
+16	3	Select_Cam_Cl_Select	NewTitle_Cam_02.ogg
+17	3	Select_Cam_So_DeSelect	NewTitle_Cam_Back.ogg
+18	3	Select_Cam_So_FadeOut	
+19	3	Select_Cam_So_Idle	
+20	3	Select_Cam_So_Select	NewTitle_Cam_02.ogg
+21	3	Select_Cam_Ac_DeSelect	NewTitle_Cam_Back.ogg
+22	3	Select_Cam_Ac_FadeOut	
+23	3	Select_Cam_Ac_Idle	
+24	3	Select_Cam_Ac_Select	NewTitle_Cam_01.ogg
+25	3	Select_Cam_Kali_DeSelect	NewTitle_Cam_Back.ogg
+26	3	Select_Cam_Kali_FadeOut	
+27	3	Select_Cam_Kali_Idle	
+28	3	Select_Cam_Kali_Select	NewTitle_Cam_01.ogg
+29	4	NEW_Holding_Cam	
+30	4	Select_Cam_Start	NewTitle_Cam_BlackDragon Roar.ogg
+31	3	Select_Cam_As_DeSelect	NewTitle_Cam_Back.ogg
+32	3	Select_Cam_As_FadeOut	
+33	3	Select_Cam_As_Idle	
+34	3	Select_Cam_As_Select	NewTitle_Cam_02.ogg
+35	3	Select_Cam_Le_DeSelect	NewTitle_Cam_Back.ogg
+36	3	Select_Cam_Le_FadeOut	
+37	3	Select_Cam_Le_Idle	
+38	3	Select_Cam_Le_Select	NewTitle_Cam_02.ogg
+39	3	Select_Cam_Mc_DeSelect	NewTitle_Cam_Back.ogg
+40	3	Select_Cam_Mc_FadeOut	
+41	3	Select_Cam_Mc_Idle	
+42	3	Select_Cam_Mc_Select	NewTitle_Cam_02.ogg
