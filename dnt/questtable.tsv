@@ -1756,10 +1756,6 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 3082	[길드의뢰] 도굴꾼 처단	1	1	16	gq08_3082_n402_worship_hunt.xml	gq08_3082_n402_worship_hunt.lua	13770	0	0	0	true	24	3	0	false	false	0	0	0	0	0	0
 3083	[길드의뢰] 홉고블린의 제조장치 분석	1	1	16	gq08_3083_n402_worship_drop.xml	gq08_3083_n402_worship_drop.lua	13770	0	0	0	true	24	3	0	false	false	0	0	0	0	0	0
 3084	[길드의뢰] 꼬마 수집가 케빈 Ⅴ	1	1	16	gq08_3084_n402_worship_hard.xml	gq08_3084_n402_worship_hard.lua	13770	0	0	0	true	24	3	0	false	false	0	0	0	0	0	0
-3085		0	0	0			0	0	0	0	true	0	0	0	true	false	0	0	0	0	0	0
-3086		0	0	0			0	0	0	0	true	0	0	0	true	false	0	0	0	0	0	0
-3087		0	0	0			0	0	0	0	true	0	0	0	true	false	0	0	0	0	0	0
-3088		0	0	0			0	0	0	0	true	0	0	0	true	false	0	0	0	0	0	0
 3089	[길드의뢰] 심연 속으로 : 고돌이 토벌	1	1	23	gq08_3089_n402_worship_abyss.xml	gq08_3089_n402_worship_abyss.lua	13770	0	0	0	true	24	3	0	false	false	0	0	0	0	0	0
 3090	[길드의뢰] 역습 : 신전 예배당	1	1	16	gq08_3090_n402_worship_rank.xml	gq08_3090_n402_worship_rank.lua	13770	0	1	0	true	24	3	0	false	false	0	0	0	0	0	0
 3091	[길드의뢰] 겁쟁이가 아니야!	1	1	16	gq08_3091_n403_catacomb_normal.xml	gq08_3091_n403_catacomb_normal.lua	13770	0	0	0	true	24	3	0	false	false	0	0	0	0	0	0
@@ -2525,6 +2521,8 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 3892	북방의 흔적	1	1	95	sq_3892_vandar01.xml	sq_3892_vandar01.lua	13769	0	0	0	false	96	175	0	false	false	0	0	0	0	0	0
 3893	낯익은 의뢰인	1	1	95	sq_3893_vandar02.xml	sq_3893_vandar02.lua	13769	0	0	0	false	96	11	0	false	false	0	0	0	0	0	0
 3894	NPC 하이드용 더미 퀘스트	1	1	95			13769	0	0	0	false	96	11	0	false	false	0	0	0	0	0	0
+3895	복수를 꿈꾸는 이	1	1	45	sq_3895_dream_of_revenge.xml	sq_3895_dream_of_revenge.lua	13769	0	0	0	false	96	14	0	false	false	0	0	0	0	0	0
+3896	강자가 되는 비약	1	1	45	sq_3896_elixir_to_become_strong.xml	sq_3896_elixir_to_become_strong.lua	13769	0	0	0	false	96	14	0	false	false	0	0	0	0	0	0
 4000	편지 한장	1	1	47	sq15_4000_a_letter.xml	sq15_4000_a_letter.lua	13768	0	0	0	true	50	14	1	false	false	0	0	0	0	0	0
 4001	마지막 인사	1	1	47	sq15_4001_last_good_bye.xml	sq15_4001_last_good_bye.lua	13768	0	0	0	true	50	14	1	false	false	0	0	0	0	0	0
 4002	푸르른 나날	1	1	47	sq15_4002_ode_to_youth.xml	sq15_4002_ode_to_youth.lua	13768	0	0	0	true	50	14	1	false	false	0	0	0	0	0	0
@@ -3467,79 +3465,6 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 5012	아이린의 선물 I	1	1	1	nq25_5012_ilyn_30_reward.xml	nq25_5012_ilyn_30_reward.lua	13769	0	0	0	true	1	15036	0	false	false	0	0	0	0	0	0
 5013	아이린의 선물 II	1	1	1	nq25_5013_ilyn_60_reward.xml	nq25_5013_ilyn_60_reward.lua	13769	0	0	0	true	1	15036	0	false	false	0	0	0	0	0	0
 5014	뜻밖의 선물	1	1	1	nq25_5014_ilyn_90_reward.xml	nq25_5014_ilyn_90_reward.lua	13769	0	0	0	true	1	15036	0	false	false	0	0	0	0	0	0
-5015	떠도는 아이들 Ⅰ	1	1	28	nq25_5015_abandoned_infant1.xml	nq25_5015_abandoned_infant1.lua	13769	0	0	0	true	32	12	0	false	false	0	0	0	0	0	0
-5016	떠도는 아이들 Ⅱ	1	1	28	nq25_5016_abandoned_infant2.xml	nq25_5016_abandoned_infant2.lua	13769	0	0	0	true	32	12	0	false	false	0	0	0	0	0	0
-5017	아이들을 위한 후원	1	1	30	nq25_5017_salvation_children.xml	nq25_5017_salvation_children.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5018	남겨진 아이들	1	1	32	nq25_5018_left_in_the_basket.xml	nq25_5018_left_in_the_basket.lua	13769	0	0	0	true	40	12	0	false	false	0	0	0	0	0	0
-5019	아이들의 가족	1	1	32	nq25_5019_the_family.xml	nq25_5019_the_family.lua	13769	0	0	0	true	40	12	0	false	false	0	0	0	0	0	0
-5020	악몽을 꾸는 아이	1	1	38	nq25_5020_bad_dreaming.xml	nq25_5020_bad_dreaming.lua	13769	0	0	0	true	40	12	0	false	false	0	0	0	0	0	0
-5021	타라의 고민상담	1	1	32	nq19_5021_counselling_tara.xml	nq19_5021_counselling_tara.lua	13769	0	0	0	true	40	5	0	false	false	0	0	0	0	0	0
-5022	[대화] 상급 소서리스 신시아에 대해서	1	1	1	nq19_5022_tara_talk.xml	nq19_5022_tara_talk.lua	13769	0	0	0	true	1	5	0	false	false	0	0	0	0	0	0
-5023	[대화] 상급 클레릭 토마스에 대해	1	1	1	nq19_5023_tara_talk.xml	nq19_5023_tara_talk.lua	13769	0	0	0	true	1	5	0	false	false	0	0	0	0	0	0
-5024	[대화] 대장장이 보린에 대해	1	1	1	nq19_5024_tara_talk.xml	nq19_5024_tara_talk.lua	13769	0	0	0	true	1	5	0	false	false	0	0	0	0	0	0
-5025	[대화] 좋아하는 색깔에 대해서	1	1	1	nq19_5025_tara_talk.xml	nq19_5025_tara_talk.lua	13769	0	0	0	true	1	5	0	false	false	0	0	0	0	0	0
-5026	[대화] 장래희망에 대해서	1	1	1	nq19_5026_tara_talk.xml	nq19_5026_tara_talk.lua	13769	0	0	0	true	1	5	0	false	false	0	0	0	0	0	0
-5027	타라의 선물 I	1	1	1	nq19_5027_tara_30_reward.xml	nq19_5027_tara_30_reward.lua	13769	0	0	0	true	1	5	0	false	false	0	0	0	0	0	0
-5028	타라의 선물 II	1	1	1	nq19_5028_tara_60_reward.xml	nq19_5028_tara_60_reward.lua	13769	0	0	0	true	1	5	0	false	false	0	0	0	0	0	0
-5029	하운드에게 꿈을	1	1	24	nq18_5029_dream_for_hounds.xml	nq18_5029_dream_for_hounds.lua	13769	0	0	0	true	32	5	0	false	false	0	0	0	0	0	0
-5030	데커드의 당부	1	1	16	nq07_5030_decud_request.xml	nq07_5030_decud_request.lua	13769	0	0	0	true	24	8	0	false	false	0	0	0	0	0	0
-5031	[대화] 캐더락 관문에 대해서	1	1	1	nq07_5031_decud_talk.xml	nq07_5031_decud_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5032	[대화] 최근의 관심사에 대해서	1	1	1	nq07_5032_decud_talk.xml	nq07_5032_decud_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5033	[대화] 상급 워리어 챈들러에 대해서	1	1	1	nq07_5033_decud_talk.xml	nq07_5033_decud_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5034	[대화] 상급 클레릭 저메인에 대해서	1	1	1	nq07_5034_decud_talk.xml	nq07_5034_decud_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5035	[대화] 상급 소서리스 티아나에 대해서	1	1	1	nq07_5035_decud_talk.xml	nq07_5035_decud_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5036	[대화] 상급 아처 아델린에 대해서	1	1	1	nq07_5036_decud_talk.xml	nq07_5036_decud_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5037	[대화] {user_nick}에 대해서	1	1	1	nq07_5037_decud_talk.xml	nq07_5037_decud_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5038	[대화] 내기에 대해서	1	1	1	nq07_5038_decud_talk.xml	nq07_5038_decud_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5039	[대화] 가족에 대해서	1	1	1	nq07_5039_decud_talk.xml	nq07_5039_decud_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5040	[대화] 부인의 기일에 대해서	1	1	1	nq07_5040_decud_talk.xml	nq07_5040_decud_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5041	데커드의 선물 I	1	1	1	nq07_5041_decud_30_reward.xml	nq07_5041_decud_30_reward.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5042	데커드의 선물 II	1	1	1	nq07_5042_decud_60_reward.xml	nq07_5042_decud_60_reward.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5043	[대화] 세인트 헤이븐에 대해서	1	1	1	nq37_5043_gunter_talk.xml	nq37_5043_gunter_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5044	[대화] 드래곤 레이드에 대해서	1	1	1	nq37_5044_gunter_talk.xml	nq37_5044_gunter_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5045	[대화] 바르낙에 대해서	1	1	1	nq37_5045_gunter_talk.xml	nq37_5045_gunter_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5046	[대화] 나르실리아에 대해서	1	1	1	nq37_5046_gunter_talk.xml	nq37_5046_gunter_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5047	[대화] 카라큘에 대해서	1	1	1	nq37_5047_gunter_talk.xml	nq37_5047_gunter_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5048	[대화] 테라마이에 대해서	1	1	1	nq37_5048_gunter_talk.xml	nq37_5048_gunter_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5049	[대화] {user_nick}에 대해서	1	1	1	nq37_5049_gunter_talk.xml	nq37_5049_gunter_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5050	[대화] 제레인트에 대해서	1	1	1	nq37_5050_gunter_talk.xml	nq37_5050_gunter_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5051	[대화] 드래곤들에 대해서	1	1	1	nq37_5051_gunter_talk.xml	nq37_5051_gunter_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5052	[대화] 로터스 마쉬에 대해서	1	1	1	nq37_5052_gunter_talk.xml	nq37_5052_gunter_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5053	군터의 선물 I	1	1	1	nq37_5053_gunter_30_reward.xml	nq37_5053_gunter_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5054	군터의 선물 II	1	1	1	nq37_5054_gunter_60_reward.xml	nq37_5054_gunter_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5055	[이벤트] 이어지는 두 세계	1	1	95	nq49_5055_two_successive_worlds.xml	nq49_5055_two_successive_worlds.lua	13769	0	0	0	true	0	11	0	false	false	0	0	0	0	0	0
-5056	마이 네임	1	1	32	nq32_5056_my_name.xml	nq32_5056_my_name.lua	13769	0	0	0	true	40	11	0	false	false	0	0	0	0	0	0
-5057	톰이 아파	1	1	38	nq32_5057_sick_tom.xml	nq32_5057_sick_tom.lua	13769	0	0	0	true	40	11	0	false	false	0	0	0	0	0	0
-5058	먹으면 안 돼	1	1	38	nq32_5058_cannot_eat.xml	nq32_5058_cannot_eat.lua	13769	0	0	0	true	40	11	0	false	false	0	0	0	0	0	0
-5059	도망친 말	1	1	38	nq32_5059_runaway_horse.xml	nq32_5059_runaway_horse.lua	13769	0	0	0	true	40	12	0	false	false	0	0	0	0	0	0
-5060	둘이서 피크닉	1	1	38	nq32_5060_picnic_together.xml	nq32_5060_picnic_together.lua	13769	0	0	0	true	40	12	0	false	false	0	0	0	0	0	0
-5061	말이 좋아하는 풀	1	1	38	nq32_5061_good_glass.xml	nq32_5061_good_glass.lua	13769	0	0	0	true	40	12	0	false	false	0	0	0	0	0	0
-5062	애정의 조건	1	1	38	nq32_5062_condition_of_love.xml	nq32_5062_condition_of_love.lua	13769	0	0	0	true	40	11	0	false	false	0	0	0	0	0	0
-5063	성적순	1	1	38	nq32_5063_based_on_grades.xml	nq32_5063_based_on_grades.lua	13769	0	0	0	true	40	11	0	false	false	0	0	0	0	0	0
-5064	손잡고 합격	1	1	38	nq32_5064_holding_hand.xml	nq32_5064_holding_hand.lua	13769	0	0	0	true	40	11	0	false	false	0	0	0	0	0	0
-5065	[대화] 말 좋아해?	1	1	1	nq32_5065_lindsay_talk.xml	nq32_5065_lindsay_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5066	[대화] 좋아하는 음식	1	1	1	nq32_5066_lindsay_talk.xml	nq32_5066_lindsay_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5067	[대화] 이벤트 도우미	1	1	1	nq32_5067_lindsay_talk.xml	nq32_5067_lindsay_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5068	[대화] 새로 태어난 말	1	1	1	nq32_5068_lindsay_talk.xml	nq32_5068_lindsay_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5069	[대화] 장래희망	1	1	0	nq32_5069_lindsay_talk.xml	nq32_5069_lindsay_talk.lua	13769	0	0	0	true	0	11	0	false	false	0	0	0	0	0	0
-5070	[대화] 이상형	1	1	1	nq32_5070_lindsay_talk.xml	nq32_5070_lindsay_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5071	[대화] 아이린에 대해서	1	1	1	nq32_5071_lindsay_talk.xml	nq32_5071_lindsay_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5072	[대화] 좋아하는 색깔	1	1	1	nq32_5072_lindsay_talk.xml	nq32_5072_lindsay_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5073	[대화] 좋아하는 날씨	1	1	1	nq32_5073_lindsay_talk.xml	nq32_5073_lindsay_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5074	[대화] 싫어하는 것에 대해서	1	1	1	nq32_5074_lindsay_talk.xml	nq32_5074_lindsay_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5075	린제이의 선물 I	1	1	1	nq32_5075_lindsay_30_reward.xml	nq32_5075_lindsay_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5076	[대화] 포근이에 대해서	1	1	1	nq32_5076_lindsay_talk.xml	nq32_5076_lindsay_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5077	[대화] 좋아하는 음식에 대해서	1	1	1	nq43_5077_jose_talk.xml	nq43_5077_jose_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5078	[대화] 좋아하는 날씨에 대해서	1	1	1	nq43_5078_jose_talk.xml	nq43_5078_jose_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5079	[대화] 좋아하는 색깔에 대해서	1	1	1	nq43_5079_jose_talk.xml	nq43_5079_jose_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5080	[대화] 가장 힘든 일에 대해서	1	1	1	nq43_5080_jose_talk.xml	nq43_5080_jose_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5081	[대화] 취미에 대해서	1	1	1	nq43_5081_jose_talk.xml	nq43_5081_jose_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5082	[대화] 시델에 대해서	1	1	1	nq43_5082_jose_talk.xml	nq43_5082_jose_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5083	[대화] 아내에 대해서	1	1	1	nq43_5083_jose_talk.xml	nq43_5083_jose_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5084	[대화] 장래희망에 대해서	1	1	1	nq43_5084_jose_talk.xml	nq43_5084_jose_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5085	[대화] 이상형에 대해서	1	1	1	nq43_5085_jose_talk.xml	nq43_5085_jose_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5086	[대화] 지금 하고 싶은 말	1	1	1	nq43_5086_jose_talk.xml	nq43_5086_jose_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5087	호세의 선물 I	1	1	1	nq43_5087_jose_30_reward.xml	nq43_5087_jose_30_reward.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
 5094	떠도는 아이들 Ⅰ	1	1	28	nq25_5094_abandoned_infant1.xml	nq25_5094_abandoned_infant1.lua	13769	0	0	0	true	32	12	0	false	false	0	0	0	0	0	0
 5095	떠도는 아이들 Ⅱ	1	1	28	nq25_5095_abandoned_infant2.xml	nq25_5095_abandoned_infant2.lua	13769	0	0	0	true	32	12	0	false	false	0	0	0	0	0	0
 5096	아이들을 위한 후원	1	1	30	nq25_5096_salvation_children.xml	nq25_5096_salvation_children.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
@@ -3559,39 +3484,6 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 5111	[대화] 가장 바라는 것에 대해서	1	1	1	nq01_5111_may_talk.xml	nq01_5111_may_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
 5112	메이의 선물 I	1	1	9	nq01_5112_may_30_reward.xml	nq01_5112_may_30_reward.lua	13769	0	0	0	false	0	8	0	false	false	0	0	0	0	0	0
 5113	메이의 선물 II	1	1	9	nq01_5113_may_60_reward.xml	nq01_5113_may_60_reward.lua	13769	0	0	0	false	0	8	0	false	false	0	0	0	0	0	0
-5114	거래의 기본	1	1	38	nq10_5114_basic_of_deal.xml	nq10_5114_basic_of_deal.lua	13769	0	0	0	true	40	11	0	false	false	0	0	0	0	0	0
-5115	[대화] 비싼 상품	1	1	1	nq10_5115_dewen_talk.xml	nq10_5115_dewen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5116	[대화] 희귀한 거래	1	1	1	nq10_5116_dewen_talk.xml	nq10_5116_dewen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5117	[대화] 수수료를 아끼는 비법	1	1	1	nq10_5117_dewen_talk.xml	nq10_5117_dewen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5118	[대화] 가족에 관해	1	1	1	nq10_5118_dewen_talk.xml	nq10_5118_dewen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5119	[대화] 인생의 교훈	1	1	1	nq10_5119_dewen_talk.xml	nq10_5119_dewen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5120	더웬의 선물 I	1	1	1	nq10_5120_dewen_30_reward.xml	nq10_5120_dewen_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5121	더웬의 선물 II	1	1	1	nq10_5121_dewen_60_reward.xml	nq10_5121_dewen_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5122	중년의 순정	1	1	38	nq05_5122_middle_age_heart.xml	nq05_5122_middle_age_heart.lua	13769	0	0	0	true	40	11	0	false	false	0	0	0	0	0	0
-5123	[대화] 세인트 헤이븐에 대해서	1	1	1	nq05_5123_enoc_talk.xml	nq05_5123_enoc_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5124	[대화] 최근의 관심사에 대해서	1	1	1	nq05_5124_enoc_talk.xml	nq05_5124_enoc_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5125	[대화] 상급 워리어 로드리고에 대해서	1	1	1	nq05_5125_enoc_talk.xml	nq05_5125_enoc_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5126	[대화] 상급 아처 이실리엔에 대해서	1	1	1	nq05_5126_enoc_talk.xml	nq05_5126_enoc_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5127	[대화] 상급 소서리스 스텔라에 대해서	1	1	1	nq05_5127_enoc_talk.xml	nq05_5127_enoc_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5128	[대화] 테라마이에 대해서	1	1	1	nq05_5128_enoc_talk.xml	nq05_5128_enoc_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5129	[대화] {user_nick}에 대해서	1	1	1	nq05_5129_enoc_talk.xml	nq05_5129_enoc_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5130	[대화] 왕궁의 사정에 대해서	1	1	1	nq05_5130_enoc_talk.xml	nq05_5130_enoc_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5131	[대화] 용추종자에 대해서	1	1	1	nq05_5131_enoc_talk.xml	nq05_5131_enoc_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5132	[대화] 드래곤들에 대해서	1	1	1	nq05_5132_enoc_talk.xml	nq05_5132_enoc_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5133	에녹의 선물 I	1	1	1	nq05_5133_enoc_30_reward.xml	nq05_5133_enoc_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5134	에녹의 선물 II	1	1	1	nq05_5134_enoc_60_reward.xml	nq05_5134_enoc_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5135	순례의 동반자	1	1	42	nq41_5135_fellow_of_pilgrimage.xml	nq41_5135_fellow_of_pilgrimage.lua	13769	0	0	0	true	50	15	0	false	false	0	0	0	0	0	0
-5136	[대화] 좋아하는 시간에 대해서	1	1	1	nq41_5136_yohan_talk.xml	nq41_5136_yohan_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5137	[대화] 어린 시절의 장래희망에 대해서	1	1	1	nq41_5137_yohan_talk.xml	nq41_5137_yohan_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5138	[대화] 우정에 대해서	1	1	1	nq41_5138_yohan_talk.xml	nq41_5138_yohan_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5139	[대화] 인간들에 대해서	1	1	1	nq41_5139_yohan_talk.xml	nq41_5139_yohan_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5140	[대화] 이상형에 대해서	1	1	1	nq41_5140_yohan_talk.xml	nq41_5140_yohan_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5141	[대화] 엘프들에 대해서	1	1	1	nq41_5141_yohan_talk.xml	nq41_5141_yohan_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5142	[대화] 소서리스들에 대해서	1	1	1	nq41_5142_yohan_talk.xml	nq41_5142_yohan_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5143	[대화] 용추종자들에 대해서	1	1	1	nq41_5143_yohan_talk.xml	nq41_5143_yohan_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5144	[대화] 고민에 대해서	1	1	1	nq41_5144_yohan_talk.xml	nq41_5144_yohan_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5145	[대화] 앞으로의 계획에 대해서	1	1	1	nq41_5145_yohan_talk.xml	nq41_5145_yohan_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5146	요한의 선물 I	1	1	1	nq41_5146_yohan_30_reward.xml	nq41_5146_yohan_30_reward.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
 5151	[대화] 세인트 헤이븐에 대해서	1	1	1	nq34_5151_kelly_talk.xml	nq34_5151_kelly_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
 5152	[대화] 일에 대해서	1	1	1	nq34_5152_kelly_talk.xml	nq34_5152_kelly_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
 5153	[대화] 상급 워리어 로드리고에 대해서	1	1	1	nq34_5153_kelly_talk.xml	nq34_5153_kelly_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
@@ -3605,131 +3497,6 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 5161	켈리의 선물 I	1	1	1	nq34_5161_kelly_30_reward.xml	nq34_5161_kelly_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
 5162	켈리의 선물 II	1	1	1	nq34_5162_kelly_60_reward.xml	nq34_5162_kelly_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
 5163	뜻밖의 선물	1	1	1	nq34_5163_kelly_90_reward.xml	nq34_5163_kelly_90_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5164	귀찮은 일	1	1	30	nq06_5164_irksome_work.xml	nq06_5164_irksome_work.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5165	[대화] 카라큘에 대해서	1	1	1	nq06_5165_stella_talk.xml	nq06_5165_stella_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5166	[대화] 방해자는 누구?	1	1	1	nq06_5166_stella_talk.xml	nq06_5166_stella_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5167	[대화] 꽃에 대해서	1	1	1	nq06_5167_stella_talk.xml	nq06_5167_stella_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5168	[대화] 칼라엔에 대해서	1	1	1	nq06_5168_stella_talk.xml	nq06_5168_stella_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5169	[대화] 화장품에 대해서	1	1	1	nq06_5169_stella_talk.xml	nq06_5169_stella_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5170	[대화] 상급 아처 이실리엔에 대해서	1	1	1	nq06_5170_stella_talk.xml	nq06_5170_stella_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5171	[대화] 상급 워리어 로드리고에 대해서	1	1	1	nq06_5171_stella_talk.xml	nq06_5171_stella_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5172	[대화] 칵퉤꽃 밭은 포기했는가?	1	1	1	nq06_5172_stella_talk.xml	nq06_5172_stella_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5173	[대화] 날씨 이야기	1	1	1	nq06_5173_stella_talk.xml	nq06_5173_stella_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5174	[대화] 스텔라에 대해서	1	1	1	nq06_5174_stella_talk.xml	nq06_5174_stella_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5175	스텔라의 선물 I	1	1	1	nq06_5175_stella_30_reward.xml	nq06_5175_stella_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5176	스텔라의 선물 II	1	1	1	nq06_5176_stella_60_reward.xml	nq06_5176_stella_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5177	뜻밖의 선물	1	1	1	nq06_5177_stella_90_reward.xml	nq06_5177_stella_90_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5178	상냥한 소서리스	1	1	42	nq38_5178_kind_sorceress.xml	nq38_5178_kind_sorceress.lua	13769	0	0	0	true	50	15	0	false	false	0	0	0	0	0	0
-5179	[대화] 몹시 습한 날씨에 대해서	1	1	1	nq38_5179_tamara_talk.xml	nq38_5179_tamara_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5180	[대화] 시델에 대해서 Ⅰ	1	1	1	nq38_5180_tamara_talk.xml	nq38_5180_tamara_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5181	[대화] 시델에 대해서 Ⅱ	1	1	1	nq38_5181_tamara_talk.xml	nq38_5181_tamara_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5182	[대화] 카라큘에 대해서	1	1	1	nq38_5182_tamara_talk.xml	nq38_5182_tamara_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5183	[대화] 루시타에 대해서	1	1	1	nq38_5183_tamara_talk.xml	nq38_5183_tamara_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5184	[대화] 다른 제자들에 대해서	1	1	1	nq38_5184_tamara_talk.xml	nq38_5184_tamara_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5185	[대화] 장래희망에 대해서	1	1	1	nq38_5185_tamara_talk.xml	nq38_5185_tamara_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5186	[대화] 좋아하는 간식에 대해서	1	1	1	nq38_5186_tamara_talk.xml	nq38_5186_tamara_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5187	[대화] 취미에 대해서	1	1	1	nq38_5187_tamara_talk.xml	nq38_5187_tamara_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5188	[대화] 이상형에 대해서	1	1	1	nq38_5188_tamara_talk.xml	nq38_5188_tamara_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5189	타마라의 선물 I	1	1	1	nq38_5189_tamara_30_reward.xml	nq38_5189_tamara_30_reward.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5200	수상한 집회	1	1	33	nq09_5200_suspicious_assembly.xml	nq09_5200_suspicious_assembly.lua	13769	0	0	0	true	40	11	0	false	false	0	0	0	0	0	0
-5201	[대화] 세인트 헤이븐에 대해서	1	1	1	nq09_5201_saint_guardjoy_talk.xml	nq09_5201_saint_guardjoy_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5202	[대화] 입대한 이유에 대해서	1	1	1	nq09_5202_saint_guardjoy_talk.xml	nq09_5202_saint_guardjoy_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5203	[대화] 최근의 관심사에 대해서	1	1	1	nq09_5203_saint_guardjoy_talk.xml	nq09_5203_saint_guardjoy_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5204	[대화] 일의 어려움에 대해서	1	1	1	nq09_5204_saint_guardjoy_talk.xml	nq09_5204_saint_guardjoy_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5205	[대화] 친구 말콤에 대해서	1	1	1	nq09_5205_saint_guardjoy_talk.xml	nq09_5205_saint_guardjoy_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5206	조이의 선물 I	1	1	1	nq09_5206_saint_guardjoy_30_reward.xml	nq09_5206_saint_guardjoy_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5207	허세상인의 내기	1	1	24	nq22_5207_bet_wirh_pope.xml	nq22_5207_bet_wirh_pope.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5208	[대화] 가장 비싼 상품	1	1	1	nq22_5208_pope_talk.xml	nq22_5208_pope_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5209	[대화] 장사를 시작하게 된 계기	1	1	1	nq22_5209_pope_talk.xml	nq22_5209_pope_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5210	[대화] 비싸게 파는 법	1	1	1	nq22_5210_pope_talk.xml	nq22_5210_pope_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5211	[대화] 새로운 사업 아이템	1	1	1	nq22_5211_pope_talk.xml	nq22_5211_pope_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5212	[대화] 첫사랑 이야기	1	1	1	nq22_5212_pope_talk.xml	nq22_5212_pope_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5213	포프의 선물 I	1	1	1	nq22_5213_pope_30_reward.xml	nq22_5213_pope_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5214	뜻밖의 선물 7914	1	1	1	nq22_5214_pope_90_reward.xml	nq22_5214_pope_90_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5215	[대화] 영웅기사에 대해서	1	1	1	nq24_5215_little_boy_talk.xml	nq24_5215_little_boy_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5216	[대화] 받고 싶은 선물	1	1	1	nq24_5216_little_boy_talk.xml	nq24_5216_little_boy_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5217	[대화] 장래희망	1	1	1	nq24_5217_little_boy_talk.xml	nq24_5217_little_boy_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5218	[대화] 세인트헤이븐의 미인에 대해서	1	1	1	nq24_5218_little_boy_talk.xml	nq24_5218_little_boy_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5219	[대화] 왕성 근위병에 대해서	1	1	1	nq24_5219_little_boy_talk.xml	nq24_5219_little_boy_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5220	까치머리 꼬마의 선물 I	1	1	1	nq24_5220_little_boy_30_reward.xml	nq24_5220_little_boy_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5221	저주받은 금화	1	1	28	nq30_5221_cursed_gold_coin.xml	nq30_5221_cursed_gold_coin.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5222	[대화] 세인트 헤이븐에 대해서	1	1	1	nq30_5222_beggar_talk.xml	nq30_5222_beggar_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5223	[대화] 좋아하는 날씨에 대해서	1	1	1	nq30_5223_beggar_talk.xml	nq30_5223_beggar_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5224	[대화] 그동안 여행했던 장소에 대해서	1	1	1	nq30_5224_beggar_talk.xml	nq30_5224_beggar_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5225	[대화] 다른 도시에 대해서	1	1	0	nq30_5225_beggar_talk.xml	nq30_5225_beggar_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5226	[대화] 아누 아렌델에 대해서	1	1	1	nq30_5226_beggar_talk.xml	nq30_5226_beggar_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5227	[대화] 또 다른 모험 이야기에 대해서	1	1	1	nq30_5227_beggar_talk.xml	nq30_5227_beggar_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5228	[대화] 하얀 빛에 대해서	1	1	1	nq30_5228_beggar_talk.xml	nq30_5228_beggar_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5229	[대화] 최근의 관심사에 대해서	1	1	1	nq30_5229_beggar_talk.xml	nq30_5229_beggar_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5230	[대화] {user_nick}에 대해서	1	1	1	nq30_5230_beggar_talk.xml	nq30_5230_beggar_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5231	[대화] 행복했던 기억에 대해서	1	1	1	nq30_5231_beggar_talk.xml	nq30_5231_beggar_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5232	로피의 선물 I	1	1	1	nq30_5232_beggar_30_reward.xml	nq30_5232_beggar_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5233	뜻밖의 선물	1	1	1	nq30_5233_beggar_90_reward.xml	nq30_5233_beggar_90_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5234	숙명의 라이벌	1	1	22	nq03_5234_rival_of_destiny.xml	nq03_5234_rival_of_destiny.lua	13769	0	0	0	true	24	8	0	false	false	0	0	0	0	0	0
-5235	[대화] 캐더락 관문에 대해서	1	1	1	nq03_5235_chandler_talk.xml	nq03_5235_chandler_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5236	[대화] 최근의 관심사에 대해서	1	1	1	nq03_5236_chandler_talk.xml	nq03_5236_chandler_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5237	[대화] 상급 아처 아델린에 대해서	1	1	1	nq03_5237_chandler_talk.xml	nq03_5237_chandler_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5238	[대화] 상급 클레릭 저메인에 대해서	1	1	1	nq03_5238_chandler_talk.xml	nq03_5238_chandler_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5239	[대화] 상급 소서리스 티아나에 대해서	1	1	1	nq03_5239_chandler_talk.xml	nq03_5239_chandler_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5240	[대화] 모험자 길드장 데커드에 대해서	1	1	1	nq03_5240_chandler_talk.xml	nq03_5240_chandler_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5241	[대화] {user_nick}에 대해서	1	1	1	nq03_5241_chandler_talk.xml	nq03_5241_chandler_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5242	[대화] 타이푼 킴에 대해서	1	1	1	nq03_5242_chandler_talk.xml	nq03_5242_chandler_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5243	[대화] 첫사랑에 대해서	1	1	1	nq03_5243_chandler_talk.xml	nq03_5243_chandler_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5244	[대화] 가장 바라는 것에 대해서	1	1	1	nq03_5244_chandler_talk.xml	nq03_5244_chandler_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5245	챈들러의 선물 I	1	1	1	nq03_5245_chandler_30_reward.xml	nq03_5245_chandler_30_reward.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5246	챈들러의 선물 II	1	1	1	nq03_5246_chandler_60_reward.xml	nq03_5246_chandler_60_reward.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5247	꾸준히 걷는 길	1	1	40	nq42_5247_steadily_walk.xml	nq42_5247_steadily_walk.lua	13769	0	0	0	true	50	15	0	false	false	0	0	0	0	0	0
-5248	[대화] 아버지에 대해서	1	1	1	nq42_5248_fedro_talk.xml	nq42_5248_fedro_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5249	[대화] 취미에 대해서	1	1	1	nq42_5249_fedro_talk.xml	nq42_5249_fedro_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5250	[대화] 장래희망에 대해서	1	1	1	nq42_5250_fedro_talk.xml	nq42_5250_fedro_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5251	[대화] 이상형에 대해서	1	1	1	nq42_5251_fedro_talk.xml	nq42_5251_fedro_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5252	[대화] 싫어하는 음식에 대해서	1	1	1	nq42_5252_fedro_talk.xml	nq42_5252_fedro_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5253	[대화] 바르낙에 대해서	1	1	1	nq42_5253_fedro_talk.xml	nq42_5253_fedro_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5254	[대화] 바르낙의 제자들에 대해서	1	1	1	nq42_5254_fedro_talk.xml	nq42_5254_fedro_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5255	[대화] 재미있는 소문에 대해서	1	1	1	nq42_5255_fedro_talk.xml	nq42_5255_fedro_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5256	[대화] 묻고 싶은 것에 대해서	1	1	1	nq42_5256_fedro_talk.xml	nq42_5256_fedro_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5257	[대화] 앞으로의 계획에 대해서	1	1	1	nq42_5257_fedro_talk.xml	nq42_5257_fedro_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5258	페드로의 선물 I	1	1	1	nq42_5258_fedro_30_reward.xml	nq42_5258_fedro_30_reward.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5259	대장장이 일가	1	1	24	nq12_5259_blacksmith_family.xml	nq12_5259_blacksmith_family.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5260	[대화] 세인트 헤이븐에 대해서	1	1	1	nq12_5260_bellin_talk.xml	nq12_5260_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5261	[대화] 일에 대해서	1	1	1	nq12_5261_bellin_talk.xml	nq12_5261_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5262	[대화] 상급 워리어 로드리고에 대해서	1	1	1	nq12_5262_bellin_talk.xml	nq12_5262_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5263	[대화] 상급 아처 이실리엔에 대해서	1	1	1	nq12_5263_bellin_talk.xml	nq12_5263_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5264	[대화] 상급 소서리스 스텔라에 대해서	1	1	1	nq12_5264_bellin_talk.xml	nq12_5264_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5265	[대화] 모험자 길드장 군터에 대해서	1	1	1	nq12_5265_bellin_talk.xml	nq12_5265_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5266	[대화] {user_nick}에 대해서	1	1	1	nq12_5266_bellin_talk.xml	nq12_5266_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5267	[대화] 최근의 관심사에 대해서	1	1	1	nq12_5267_bellin_talk.xml	nq12_5267_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5268	[대화] 가치관에 대해서	1	1	1	nq12_5268_bellin_talk.xml	nq12_5268_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5269	[대화] 대장간의 미래에 대해서	1	1	1	nq12_5269_bellin_talk.xml	nq12_5269_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5270	부서진 무기의 용도	1	1	26	nq12_5270_breakup_weapon.xml	nq12_5270_breakup_weapon.lua	13769	0	0	0	true	32	13	0	false	false	0	0	0	0	0	0
-5271	암표 구하기	1	1	26	nq12_5271_illegal_ticket.xml	nq12_5271_illegal_ticket.lua	13769	0	0	0	true	32	12	0	false	false	0	0	0	0	0	0
-5272	하로리의 생일선물 I	1	1	26	nq12_5272_birthday_present1.xml	nq12_5272_birthday_present1.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5273	하로리의 생일선물 II	1	1	28	nq12_5273_birthday_present2.xml	nq12_5273_birthday_present2.lua	13769	0	0	0	true	32	12	0	false	false	0	0	0	0	0	0
-5274	대타 구하기	1	1	28	nq12_5274_substitute.xml	nq12_5274_substitute.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5275	새로운 일꾼 구하기 I	1	1	30	nq12_5275_new_worker1.xml	nq12_5275_new_worker1.lua	13769	0	0	0	true	32	13	0	false	false	0	0	0	0	0	0
-5276	새로운 일꾼 구하기 II	1	1	30	nq12_5276_new_worker2.xml	nq12_5276_new_worker2.lua	13769	0	0	0	true	32	13	0	false	false	0	0	0	0	0	0
-5277	말하는 하운드	1	1	30	nq12_5277_speaking_hound.xml	nq12_5277_speaking_hound.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5278	하운드에게 꿈을	1	1	30	nq12_5278_angel_hound.xml	nq12_5278_angel_hound.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5279	하로리의 영웅	1	1	32	nq12_5279_hero.xml	nq12_5279_hero.lua	13769	0	0	0	true	40	12	0	false	false	0	0	0	0	0	0
-5280	벨린의 선물 I	1	1	1	nq12_5280_bellin_30_reward.xml	nq12_5280_bellin_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5281	벨린의 선물 II	1	1	1	nq12_5281_bellin_60_reward.xml	nq12_5281_bellin_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5282	뜻밖의 선물	1	1	1	nq12_5282_bellin_90_reward.xml	nq12_5282_bellin_90_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5283	[대화] 레브리움에 대해서	1	1	1	nq12_5283_bellin_talk.xml	nq12_5283_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5284	[대화] 벨린 코퍼레이션의 신상품	1	1	1	nq12_5284_bellin_talk.xml	nq12_5284_bellin_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5285	또 다른 나를 아는 당신	1	1	27	nq26_5285_you_know_me.xml	nq26_5285_you_know_me.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5286	[대화] 좋아하는 날씨에 대해서	1	1	1	nq26_5286_lena_talk.xml	nq26_5286_lena_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5287	[대화] 좋아하는 장소에 대해서	1	1	1	nq26_5287_lena_talk.xml	nq26_5287_lena_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5288	[대화] 좋아하는 색에 대해서	1	1	1	nq26_5288_lena_talk.xml	nq26_5288_lena_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5289	[대화] 취미에 대해서	1	1	1	nq26_5289_lena_talk.xml	nq26_5289_lena_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5290	[대화] 일상에 대해서	1	1	1	nq26_5290_lena_talk.xml	nq26_5290_lena_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5291	[대화] 최근의 관심사에 대해서	1	1	1	nq26_5291_lena_talk.xml	nq26_5291_lena_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5292	[대화] {user_nick}에 대해서	1	1	1	nq26_5292_lena_talk.xml	nq26_5292_lena_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5293	[대화] 남장을 하는 이유에 대해서	1	1	1	nq26_5293_lena_talk.xml	nq26_5293_lena_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5294	[대화] 용추종자에 대해서	1	1	1	nq26_5294_lena_talk.xml	nq26_5294_lena_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5295	[대화] 앞으로의 계획에 대해서	1	1	1	nq26_5295_lena_talk.xml	nq26_5295_lena_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5296	레나 아가씨의 선물 I	1	1	1	nq26_5296_lena_30_reward.xml	nq26_5296_lena_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5297	레나 아가씨의 선물 II	1	1	1	nq26_5297_lena_60_reward.xml	nq26_5297_lena_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5298	뜻밖의 선물	1	1	1	nq26_5298_lena_90_reward.xml	nq26_5298_lena_90_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
 5301	몹시 심오한 의문	1	1	9	nq02_5301_baily_question.xml	nq02_5301_baily_question.lua	13769	0	0	0	true	9	8	0	false	false	0	0	0	0	0	0
 5302	[대화] 고민거리	1	1	1	nq02_5302_baily_talk.xml	nq02_5302_baily_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
 5303	[대화] 요즘 읽는 책	1	1	1	nq02_5303_baily_talk.xml	nq02_5303_baily_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
@@ -3738,86 +3505,6 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 5306	[대화] 장래희망	1	1	1	nq02_5306_baily_talk.xml	nq02_5306_baily_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
 5312	베일리의 선물 I	1	1	1	nq02_5312_baily_30_reward.xml	nq02_5312_baily_30_reward.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
 5313	베일리의 선물 II	1	1	1	nq02_5313_baily_60_reward.xml	nq02_5313_baily_60_reward.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5314	친절한 모험자님	1	1	40	nq40_5314_friendly_adventurer.xml	nq40_5314_friendly_adventurer.lua	13769	0	0	0	true	50	15	0	false	false	0	0	0	0	0	0
-5315	[대화] 좋아하는 음식에 대해서	1	1	1	nq40_5315_lucita_talk.xml	nq40_5315_lucita_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5316	[대화] 좋아하는 날씨에 대해서	1	1	1	nq40_5316_lucita_talk.xml	nq40_5316_lucita_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5317	[대화] 좋아하는 색깔에 대해서	1	1	1	nq40_5317_lucita_talk.xml	nq40_5317_lucita_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5318	[대화] 가장 힘든 일에 대해서	1	1	1	nq40_5318_lucita_talk.xml	nq40_5318_lucita_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5319	[대화] 취미에 대해서	1	1	1	nq40_5319_lucita_talk.xml	nq40_5319_lucita_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5320	[대화] 시델에 대해서	1	1	1	nq40_5320_lucita_talk.xml	nq40_5320_lucita_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5321	[대화] 오빠에 대해서	1	1	1	nq40_5321_lucita_talk.xml	nq40_5321_lucita_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5322	[대화] 장래희망에 대해서	1	1	1	nq40_5322_lucita_talk.xml	nq40_5322_lucita_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5323	[대화] 이상형에 대해서	1	1	1	nq40_5323_lucita_talk.xml	nq40_5323_lucita_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5324	[대화] 지금 하고 싶은 말	1	1	1	nq40_5324_lucita_talk.xml	nq40_5324_lucita_talk.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5325	루시타의 선물 I	1	1	1	nq40_5325_lucita_30_reward.xml	nq40_5325_lucita_30_reward.lua	13769	0	0	0	true	1	15	0	false	false	0	0	0	0	0	0
-5326	메이와 함께 중매를	1	1	15	nq28_5326_matchmaking.xml	nq28_5326_matchmaking.lua	13769	0	0	0	true	16	1	0	false	false	0	0	0	0	0	0
-5327	[대화] 프레리타운에 대해서	1	1	1	nq28_5327_steave_talk.xml	nq28_5327_steave_talk.lua	13769	0	0	0	true	1	1	0	false	false	0	0	0	0	0	0
-5328	[대화] 최근의 관심사에 대해서	1	1	1	nq28_5328_steave_talk.xml	nq28_5328_steave_talk.lua	13769	0	0	0	true	1	1	0	false	false	0	0	0	0	0	0
-5329	[대화] 취미에 대해서	1	1	1	nq28_5329_steave_talk.xml	nq28_5329_steave_talk.lua	13769	0	0	0	true	1	1	0	false	false	0	0	0	0	0	0
-5330	[대화] 이상형에 대해서	1	1	1	nq28_5330_steave_talk.xml	nq28_5330_steave_talk.lua	13769	0	0	0	true	1	1	0	false	false	0	0	0	0	0	0
-5331	[대화] 장래에 대해서	1	1	1	nq28_5331_steave_talk.xml	nq28_5331_steave_talk.lua	13769	0	0	0	true	1	1	0	false	false	0	0	0	0	0	0
-5332	스티브의 선물 I	1	1	1	nq28_5332_steave_30_reward.xml	nq28_5332_steave_30_reward.lua	13769	0	0	0	true	1	1	0	false	false	0	0	0	0	0	0
-5333	스티브의 선물 II	1	1	1	nq28_5333_steave_60_reward.xml	nq28_5333_steave_60_reward.lua	13769	0	0	0	true	1	1	0	false	false	0	0	0	0	0	0
-5334	고마운 손님	1	1	15	nq08_5334_thanx_visitor.xml	nq08_5334_thanx_visitor.lua	13769	0	0	0	true	16	23	0	false	false	0	0	0	0	0	0
-5335	[대화] 밀피유의 고민	1	1	1	nq08_5335_millefeuille_talk.xml	nq08_5335_millefeuille_talk.lua	13769	0	0	0	true	1	23	0	false	false	0	0	0	0	0	0
-5336	[대화] 파견에 대해서	1	1	1	nq08_5336_millefeuille_talk.xml	nq08_5336_millefeuille_talk.lua	13769	0	0	0	true	1	23	0	false	false	0	0	0	0	0	0
-5337	[대화] 맛있는 것	1	1	1	nq08_5337_millefeuille_talk.xml	nq08_5337_millefeuille_talk.lua	13769	0	0	0	true	1	23	0	false	false	0	0	0	0	0	0
-5338	[대화] 소년 데이비드의 대모험	1	1	1	nq08_5338_millefeuille_talk.xml	nq08_5338_millefeuille_talk.lua	13769	0	0	0	true	1	23	0	false	false	0	0	0	0	0	0
-5339	[대화] 심연의 장막에 대해서	1	1	1	nq08_5339_millefeuille_talk.xml	nq08_5339_millefeuille_talk.lua	13769	0	0	0	true	1	23	0	false	false	0	0	0	0	0	0
-5340	밀피유의 선물 I	1	1	1	nq08_5340_millefeuille_30_reward.xml	nq08_5340_millefeuille_30_reward.lua	13769	0	0	0	true	1	23	0	false	false	0	0	0	0	0	0
-5341	[대화] 왕자님 꿈	1	1	1	nq23_5341_kalaen_talk.xml	nq23_5341_kalaen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5342	[대화] 세상에 왕자님이 어딨어요?	1	1	1	nq23_5342_kalaen_talk.xml	nq23_5342_kalaen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5343	[대화] 장미에 대해서	1	1	1	nq23_5343_kalaen_talk.xml	nq23_5343_kalaen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5344	[대화] 국왕 카시우스에 대해	1	1	1	nq23_5344_kalaen_talk.xml	nq23_5344_kalaen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5345	[대화] 공작 스튜어트에 대해	1	1	1	nq23_5345_kalaen_talk.xml	nq23_5345_kalaen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5346	[대화] 레나 아가씨에 대해	1	1	1	nq23_5346_kalaen_talk.xml	nq23_5346_kalaen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5347	[대화] 새로운 화장법에 대해	1	1	1	nq23_5347_kalaen_talk.xml	nq23_5347_kalaen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5348	[대화] 얼마나 버시나요?	1	1	1	nq23_5348_kalaen_talk.xml	nq23_5348_kalaen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5349	[대화] 상급 소서리스 신시아에 대해	1	1	1	nq23_5349_kalaen_talk.xml	nq23_5349_kalaen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5350	[대화] 오래 간직한 꿈	1	1	1	nq23_5350_kalaen_talk.xml	nq23_5350_kalaen_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5351	칼라엔의 선물 I	1	1	1	nq23_5351_kalaen_30_reward.xml	nq23_5351_kalaen_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5352	칼라엔의 선물 II	1	1	1	nq23_5352_kalaen_60_reward.xml	nq23_5352_kalaen_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5353	꿈꾸는 소년	1	1	24	nq16_5353_dreaming_boy.xml	nq16_5353_dreaming_boy.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5354	[대화] 세인트 헤이븐에 대해서	1	1	1	nq16_5354_casius_talk.xml	nq16_5354_casius_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5355	[대화] 왕실에 대해서	1	1	1	nq16_5355_casius_talk.xml	nq16_5355_casius_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5356	[대화] 여섯 영웅에 대해서	1	1	1	nq16_5356_casius_talk.xml	nq16_5356_casius_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5357	[대화] 드래곤에 대해서	1	1	1	nq16_5357_casius_talk.xml	nq16_5357_casius_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5358	[대화] 최근의 관심거리에 대해서	1	1	1	nq16_5358_casius_talk.xml	nq16_5358_casius_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5359	카시우스의 선물 I	1	1	1	nq16_5359_casius_30_reward.xml	nq16_5359_casius_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5360	카시우스의 선물 II	1	1	1	nq16_5360_casius_60_reward.xml	nq16_5360_casius_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5361	뜻밖의 선물	1	1	1	nq16_5361_casius_90_reward.xml	nq16_5361_casius_90_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5362	공작의 진심	1	1	30	nq17_5362_stewart_true_heart.xml	nq17_5362_stewart_true_heart.lua	13769	0	0	0	true	32	11	0	false	false	0	0	0	0	0	0
-5363	[대화] 세인트 헤이븐에 대해서	1	1	1	nq17_5363_stewart_talk.xml	nq17_5363_stewart_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5364	[대화] 왕실에 대해서	1	1	1	nq17_5364_stewart_talk.xml	nq17_5364_stewart_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5365	[대화] 여섯 영웅에 대해서	1	1	1	nq17_5365_stewart_talk.xml	nq17_5365_stewart_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5366	[대화] 드래곤에 대해서	1	1	1	nq17_5366_stewart_talk.xml	nq17_5366_stewart_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5367	[대화] 통치에 대해서	1	1	1	nq17_5367_stewart_talk.xml	nq17_5367_stewart_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5368	스튜어트의 선물 I	1	1	1	nq17_5368_stewart_30_reward.xml	nq17_5368_stewart_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5369	스튜어트의 선물 II	1	1	1	nq17_5369_stewart_60_reward.xml	nq17_5369_stewart_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5370	증거인멸	1	1	25	nq27_5370_destruchtion_of_evidence.xml	nq27_5370_destruchtion_of_evidence.lua	13769	0	0	0	true	32	12	0	false	false	0	0	0	0	0	0
-5371	[대화] 세인트 헤이븐에 대해서	1	1	1	nq27_5371_duglars_talk.xml	nq27_5371_duglars_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5372	[대화] 왕실에 대해서	1	1	1	nq27_5372_duglars_talk.xml	nq27_5372_duglars_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5373	[대화] 여섯 영웅에 대해서	1	1	1	nq27_5373_duglars_talk.xml	nq27_5373_duglars_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5374	[대화] 드래곤에 대해서	1	1	1	nq27_5374_duglars_talk.xml	nq27_5374_duglars_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5375	[대화] 통치에 대해서	1	1	1	nq27_5375_duglars_talk.xml	nq27_5375_duglars_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5376	[대화] 레나에 대해서	1	1	1	nq27_5376_duglars_talk.xml	nq27_5376_duglars_talk.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5377	더글라스의 선물 I	1	1	1	nq27_5377_duglars_30_reward.xml	nq27_5377_duglars_30_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5378	더글라스의 선물 II	1	1	1	nq27_5378_duglars_60_reward.xml	nq27_5378_duglars_60_reward.lua	13769	0	0	0	true	1	11	0	false	false	0	0	0	0	0	0
-5379	위대한 괴도 슈팡	1	1	22	nq29_5379_the_phantom_thief.xml	nq29_5379_the_phantom_thief.lua	13769	0	0	0	true	24	8	0	false	false	0	0	0	0	0	0
-5380	[대화] 도둑이 된 이유	1	1	1	nq29_5380_invisible_thief_talk.xml	nq29_5380_invisible_thief_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5381	[대화] 소서리스	1	1	1	nq29_5381_invisible_thief_talk.xml	nq29_5381_invisible_thief_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5382	[대화] 가지고 싶은 것	1	1	1	nq29_5382_invisible_thief_talk.xml	nq29_5382_invisible_thief_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5383	[대화] 이상형에 대해서	1	1	1	nq29_5383_invisible_thief_talk.xml	nq29_5383_invisible_thief_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5384	[대화] 목적지에 대해서	1	1	1	nq29_5384_invisible_thief_talk.xml	nq29_5384_invisible_thief_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5385	안 보이는 도둑의 선물 I	1	1	1	nq29_5385_invisible_thief_30_reward.xml	nq29_5385_invisible_thief_30_reward.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5386	창고지기의 하소연	1	1	15	nq13_5386_storekeeper_appeal.xml	nq13_5386_storekeeper_appeal.lua	13769	0	0	0	true	16	8	0	false	false	0	0	0	0	0	0
-5387	[대화] 캐더락 관문에 대해서	1	1	1	nq13_5387_lupert_talk.xml	nq13_5387_lupert_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5388	[대화] 일을 시작하게 된 계기에 대해서	1	1	1	nq13_5388_lupert_talk.xml	nq13_5388_lupert_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5389	[대화] 최근의 관심사에 대해서	1	1	1	nq13_5389_lupert_talk.xml	nq13_5389_lupert_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5390	[대화] 이상형에 대해서	1	1	1	nq13_5390_lupert_talk.xml	nq13_5390_lupert_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5391	[대화] 앞으로의 일에 대해서	1	1	1	nq13_5391_lupert_talk.xml	nq13_5391_lupert_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5392	루퍼트의 선물 I	1	1	1	nq13_5392_lupert_30_reward.xml	nq13_5392_lupert_30_reward.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
-5393	루퍼트의 선물 II	1	1	1	nq13_5393_lupert_60_reward.xml	nq13_5393_lupert_60_reward.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
 5501	허구와 현실	1	1	10	nq04_5501_fiction_and_real.xml	nq04_5501_fiction_and_real.lua	13769	0	0	0	true	16	8	0	false	false	0	0	0	0	0	0
 5502	[대화] 캐더락 관문에 대해서	1	1	1	nq04_5502_adellin_talk.xml	nq04_5502_adellin_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
 5503	[대화] 최근의 관심사에 대해서	1	1	1	nq04_5503_adellin_talk.xml	nq04_5503_adellin_talk.lua	13769	0	0	0	true	1	8	0	false	false	0	0	0	0	0	0
@@ -4659,9 +4346,6 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 9743	이베르가 남긴 것 II	2	1	90	mqc18_9743_proviso_of_hiver2.xml	mqc18_9743_proviso_of_hiver2.lua	41377	247	0	0	false	0	54	0	false	false	0	0	0	0	0	0
 9744	과거의 유해	2	1	90	mqc18_9744_corpse_of_past.xml	mqc18_9744_corpse_of_past.lua	41378	248	0	0	false	0	54	0	false	false	0	0	0	0	0	0
 9745	누나를 부탁해	2	1	90	mqc18_9745_take_care_of_sister.xml	mqc18_9745_take_care_of_sister.lua	41379	249	0	0	false	0	54	0	false	false	0	0	0	0	0	0
-9832	잿더미 위에	2	1	90	mqc18_9832_on_the_ash.xml	mqc18_9832_on_the_ash.lua	58265	250	0	0	false	0	54	0	false	false	0	0	0	0	0	0
-9833	피어난 불씨	2	1	90	mqc18_9833_embers.xml	mqc18_9833_embers.lua	58266	251	0	0	false	0	54	0	false	false	0	0	0	0	0	0
-9834	그 따스함을 기억해	2	1	90	mqc18_9834_remember_the_warmth.xml	mqc18_9834_remember_the_warmth.lua	58267	252	0	0	false	0	54	0	false	false	0	0	0	0	0	0
 9746	라다메스를 향해	2	1	90	mqc19_9746_towards_radameseu.xml	mqc19_9746_towards_radameseu.lua	45499	253	0	0	false	0	11	0	false	false	0	0	0	0	0	0
 9747	단서와 열쇠 	2	1	90	mqc19_9747_clues_and_keys.xml	mqc19_9747_clues_and_keys.lua	45500	254	0	0	false	0	175	0	false	false	0	0	0	0	0	0
 9748	그가 남긴 말	2	1	90	mqc19_9748_what_he_left_behind.xml	mqc19_9748_what_he_left_behind.lua	45501	255	0	0	false	0	175	0	false	false	0	0	0	0	0	0
@@ -4695,7 +4379,6 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 9776	누나가 위험해	2	1	93	mqc20_9776_watch_out_sister.xml	mqc20_9776_watch_out_sister.lua	47329	283	0	0	false	0	175	0	false	false	0	0	0	0	0	0
 9777	유대의 끝	2	1	93	mqc20_9777_end_of_bonding.xml	mqc20_9777_end_of_bonding.lua	47330	284	0	0	false	0	175	0	false	false	0	0	0	0	0	0
 9778	헤매는 마음	2	1	93	mqc20_9778_wandering_heart.xml	mqc20_9778_wandering_heart.lua	47331	285	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9835	마몬의 궁전	2	1	93	mqc20_9835_rune_palace.xml	mqc20_9835_rune_palace.lua	58268	286	0	0	false	0	54	0	false	false	0	0	0	0	0	0
 9779	유골함의 열쇠	2	1	93	mqc21_9779_skeleton_box_key.xml	mqc21_9779_skeleton_box_key.lua	50739	287	0	0	false	0	11	0	false	false	0	0	0	0	0	0
 9780	카이론 섬	2	1	93	mqc21_9780_kairon_island.xml	mqc21_9780_kairon_island.lua	50740	288	0	0	false	0	54	0	false	false	0	0	0	0	0	0
 9781	베르니카의 지원	2	1	93	mqc21_9781_vernika_support.xml	mqc21_9781_vernika_support.lua	50741	289	0	0	false	0	54	0	false	false	0	0	0	0	0	0
@@ -4749,6 +4432,10 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 9829	무성한 소문	2	1	95	mqc23_9829_rumors_fly.xml	mqc23_9829_rumors_fly.lua	57114	337	0	0	false	0	54	0	false	false	0	0	0	0	0	0
 9830	한 줌의 가능성이라도	2	1	95	mqc23_9830_handful_of_chance.xml	mqc23_9830_handful_of_chance.lua	57115	338	0	0	false	0	54	0	false	false	0	0	0	0	0	0
 9831	출항 준비	2	1	95	mqc23_9831_ready_sail.xml	mqc23_9831_ready_sail.lua	57116	339	0	0	false	0	54	0	false	false	0	0	0	0	0	0
+9832	잿더미 위에	2	1	90	mqc18_9832_on_the_ash.xml	mqc18_9832_on_the_ash.lua	58265	250	0	0	false	0	54	0	false	false	0	0	0	0	0	0
+9833	피어난 불씨	2	1	90	mqc18_9833_embers.xml	mqc18_9833_embers.lua	58266	251	0	0	false	0	54	0	false	false	0	0	0	0	0	0
+9834	그 따스함을 기억해	2	1	90	mqc18_9834_remember_the_warmth.xml	mqc18_9834_remember_the_warmth.lua	58267	252	0	0	false	0	54	0	false	false	0	0	0	0	0	0
+9835	마몬의 궁전	2	1	93	mqc20_9835_rune_palace.xml	mqc20_9835_rune_palace.lua	58268	286	0	0	false	0	54	0	false	false	0	0	0	0	0	0
 9836	입성, 홍련궁	2	1	95	mqc24_9836_hongryun_1.xml	mqc24_9836_hongryun_1.lua	58931	340	0	0	false	0	11	0	false	false	0	0	0	0	0	0
 9837	소녀의 부탁	2	1	95	mqc24_9837_hongryun_2.xml	mqc24_9837_hongryun_2.lua	58932	341	0	0	false	0	187	0	false	false	0	0	0	0	0	0
 9838	핏빛 전설	2	1	95	mqc24_9838_hongryun_3.xml	mqc24_9838_hongryun_3.lua	58933	342	0	0	false	0	187	0	false	false	0	0	0	0	0	0
@@ -4850,3 +4537,33 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 9934	불꽃의 라다메스	2	1	95	mqc05_9934_v_burning_rhadames.xml	mqc05_9934_v_burning_rhadames.lua	67761	438	0	0	false	0	175	0	false	false	0	0	0	0	0	0
 9935	얼어붙은 둥지	2	1	95	mqc05_9935_v_frozen_nest.xml	mqc05_9935_v_frozen_nest.lua	67762	439	0	0	false	0	175	0	false	false	0	0	0	0	0	0
 9936	그림자를 뒤로 하고	2	1	95	mqc05_9936_v_above_the_shadows.xml	mqc05_9936_v_above_the_shadows.lua	67763	440	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9937	까마귀 도착하다	2	1	95	mqc28_9937_raven.xml	mqc28_9937_raven.lua	67754	441	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9938	그들의 길, 우리의 길	2	1	95	mqc28_9938_three_little_giants.xml	mqc28_9938_three_little_giants.lua	67755	442	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9939	깊어가는 갈등	2	1	95	mqc28_9939_struggle.xml	mqc28_9939_struggle.lua	67756	443	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9940	다르지 않았음을	2	1	95	mqc28_9940_value_of_trust.xml	mqc28_9940_value_of_trust.lua	67757	444	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9941	회의는 시작되고	2	1	95	mqc28_9941_conference_start.xml	mqc28_9941_conference_start.lua	67758	445	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9942	상처받은 소년	2	1	95	mqc28_9942_angry_geraint.xml	mqc28_9942_angry_geraint.lua	67759	446	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9943	걱정하는 소년	2	1	95	mqc28_9943_greles_feeling.xml	mqc28_9943_greles_feeling.lua	67760	447	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9944	물러설 수 없는 선언	2	1	95	mqc28_9944_my_manifesto.xml	mqc28_9944_my_manifesto.lua	67761	448	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9945	들어가기 위해 필요한 것	2	1	95	mqc28_9945_ticket_for_nest.xml	mqc28_9945_ticket_for_nest.lua	67762	449	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9946	푸른 독사의 소굴로	2	1	95	mqc28_9946_blue_viper.xml	mqc28_9946_blue_viper.lua	67763	450	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9947	마침내 다시 모여	2	1	95	mqc28_9947_reunion.xml	mqc28_9947_reunion.lua	67760	451	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9948	그의 사명	2	1	95	mqc28_9948_mission.xml	mqc28_9948_mission.lua	67761	452	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9949	이 땅의 희망	2	1	95	mqc28_9949_hope.xml	mqc28_9949_hope.lua	67762	453	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9950	희생의 대가	2	1	95	mqc28_9950_sacrifice.xml	mqc28_9950_sacrifice.lua	67763	454	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9951	잿더미에서 일어나	2	1	95	mqc06_9951_rise_from.xml	mqc06_9951_rise_from.lua	67754	455	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9952	잔인한 이야기	2	1	95	mqc06_9952_crule_conference.xml	mqc06_9952_crule_conference.lua	67755	456	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9953	방향 잡기	2	1	95	mqc06_9953_right_direction.xml	mqc06_9953_right_direction.lua	67756	457	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9954	그녀의 선언	2	1	95	mqc06_9954_her_manifesto.xml	mqc06_9954_her_manifesto.lua	67757	458	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9955	의외의 인연	2	1	95	mqc06_9955_mighty_nanny.xml	mqc06_9955_mighty_nanny.lua	67758	459	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9956	공녀가 지닌 힘	2	1	95	mqc06_9956_power_of_a_princess.xml	mqc06_9956_power_of_a_princess.lua	67759	460	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9957	용병이 원하는 것	2	1	95	mqc06_9957_mercenary.xml	mqc06_9957_mercenary.lua	67760	461	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9958	믿음과 의리	2	1	95	mqc06_9958_belief_and_loyalty.xml	mqc06_9958_belief_and_loyalty.lua	67761	462	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9959	말보다 가까운 것	2	1	95	mqc06_9959_closer_than_words.xml	mqc06_9959_closer_than_words.lua	67762	463	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9960	얼음 꽃에 담긴 이야기	2	1	95	mqc06_9960_ice_flower_story.xml	mqc06_9960_ice_flower_story.lua	67763	464	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9961	짧은 무용담	2	1	95	mqc06_9961_short_romance.xml	mqc06_9961_short_romance.lua	67760	465	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9962	그들의 다짐	2	1	95	mqc06_9962_their_vow.xml	mqc06_9962_their_vow.lua	67761	466	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9963	이베르, 그리고 그렐	2	1	95	mqc06_9963_hiver_and_grele.xml	mqc06_9963_hiver_and_grele.lua	67762	467	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9964	흑막의 윤곽	2	1	95	mqc06_9964_his_silhouette.xml	mqc06_9964_his_silhouette.lua	67763	468	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+14998	다섯자리 샘플퀘스트	1	1	90	sq_14998_sample.xml	sq_14998_sample.lua	44903	0	0	0	true	96	175	0	false	false	0	0	0	0	0	0
+14999	다섯자리 샘플메인퀘스트	2	1	90	mqc_14999_sample.xml	mqc_14999_sample.lua	67763	469	0	0	false	0	175	0	false	false	0	0	0	0	0	0

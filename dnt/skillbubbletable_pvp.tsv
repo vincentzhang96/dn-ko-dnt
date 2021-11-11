@@ -462,3 +462,30 @@ ROWID	_NeedJob|INTEGER	_IconIndex|INTEGER	_ConditionType1|INTEGER	_ConditionType
 1521	36	209	5	1	0	0	0	2803	2800				1	0	0	0	0	434;20000;3					
 1522	36	209	5	1	0	0	0	2803	2806				2	0	0	0	0	434;3					
 1523	36	209	5	4	0	0	0	2803	434				3	0	0	0	0	434;2814					
+1555	106	266	13	0	0	0	0	73;75;60;61;171;172					1	0	0	0	0	437;600000;1					
+1556	106	266	5	24	0	0	0	62	Skill_KnightPunch_Hit				1	0	0	0	0	437;600000;2					
+1557	106	266	5	24	0	0	0	62	Skill_AwA_KnightPunch_Hit				1	0	0	0	0	437;600000;5					
+1572	106	266	19	15	0	0	0	141;0	437				1	0	0	0	0	437;600000;2					
+1573	108	268	5	24	0	0	0	163	Skill_CrossoverEX_Enhance;Skill_CrossoverEX_Enhance_ChangeUp				1	0	0	0	0	438;600000;1					
+1575	108	268	5	24	0	0	0	163	Skill_WindBreakerEX_Enhance;Skill_WindBreakerEX_Enhance_ChangeUp				1	0	0	0	0	438;600000;1					
+1576	108	268	5	24	0	0	0	163	Skill_SpinDriftEX_Enhance;Skill_SpinDriftEX_Enhance_S1J				1	0	0	0	0	438;600000;1					
+1577	108	268	5	24	0	0	0	163	Skill_ImpalerEX_Enhance;Skill_ImpalerEX_Instant;Skill_ImpalerEX_Enhance_S2J				1	0	0	0	0	438;600000;1					
+1578	108	268	5	24	0	0	0	163	Skill_PanningCleaveEX_Enhance;Skill_PanningCleaveEX_Enhance_S3J				1	0	0	0	0	438;600000;1					
+1579	108	268	5	24	0	0	0	163	Skill_ImpactWave_Enhance				1	0	0	0	0	438;600000;1					
+1580	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot01				2	0	0	0	0	438;10					
+1581	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot02				2	0	0	0	0	438;10					
+1582	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot03				2	0	0	0	0	438;10					
+1583	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot04				2	0	0	0	0	438;10					
+1584	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot05				2	0	0	0	0	438;10					
+1585	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot06				2	0	0	0	0	438;10					
+1586	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot07				2	0	0	0	0	438;10					
+1587	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot08				2	0	0	0	0	438;10					
+1588	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot09				2	0	0	0	0	438;10					
+1589	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot10				2	0	0	0	0	438;10					
+1600	107	266	5	13	0	0	0	102	72;74;76				1	0	0	0	0	437;600000;1					
+1602	107	100000000	5	24	0	0	0	106	Skill_VisionBlowEX_Bubble_Charge				1	0	0	0	0	440;4000;1					
+1603	107	100000000	5	24	0	0	0	107	Skill_CelestialWaveEX_Bubble_Charge				1	0	0	0	0	440;2500;1					
+1604	107	100000000	5	24	0	0	0	108	Skill_OverLineEX_Bubble_Loop				1	0	0	0	0	440;4000;1					
+1605	107	100000000	5	1	0	0	0	106	112;113;114				2	0	0	0	0	440;1					
+1610	107	100000000	5	1	0	0	0	123	130				5	5	0	0	0	0;0;133;0	0;0;135;0				
+1611	107	100000000	5	1	0	0	0	123	136				5	0	0	0	0	0;0;133;0					

@@ -94,7 +94,7 @@ ROWID	_Title|INTEGER	_GateEnterImage|TEXT	_MapIndex1|INTEGER	_Map1_StartGate|INT
 45003	1000032407	Potal_Chaos_Field_24Lv.dds	0	1	0	1	0	1	0	1	0	1	0	0	1
 45004	10235	PotalSH_BossStage1.dds	0	1	0	1	0	1	0	1	0	1	2	0	1
 45005	10253	Potal_Hell_AA_VolcanoNest.dds	0	1	0	1	0	1	0	1	0	1	2	0	1
-45006	1000085188	Potal_Chaos_Field_BossA.dds	0	1	17501	1	0	1	0	1	0	1	0	0	1
+45006	1000085188	Potal_Chaos_Field_BossA.dds	0	1	0	1	0	1	0	1	0	1	0	0	1
 45007	10263	PotalAA_RedDragonNest.dds	0	1	0	1	0	1	0	1	0	1	2	0	1
 45008	1000085186	PotalAA_RedDragonNest_Memoria.dds	0	1	0	1	0	1	0	1	0	1	2	0	1
 45009	10303	PotalMC_IceDragonNest.dds	0	1	0	1	0	1	0	1	0	1	2	0	1
@@ -180,3 +180,4 @@ ROWID	_Title|INTEGER	_GateEnterImage|TEXT	_MapIndex1|INTEGER	_Map1_StartGate|INT
 57085	1000172996	PotalCS_BulkHopNest.dds	19690	1	0	1	0	1	0	1	0	1	2	0	1
 57090	1000174541	PotalWD_KarapachoNest.dds	19695	1	0	1	0	1	0	1	0	1	2	0	1
 57095	1000176293	PortalMR_BrynhildrNest.dds	19697	1	0	1	0	1	0	1	0	1	2	0	1
+57100	1000181126	Potal95Lv_Set_3.dds	0	1	0	1	0	1	0	1	0	1	0	0	1

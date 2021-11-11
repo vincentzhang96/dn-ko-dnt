@@ -1,3 +1,3 @@
 ROWID	_LabyrinthEnterID|INTEGER	_ExDifficultyTypeMin|INTEGER	_ExDifficultyTypeMax|INTEGER	_NeedItemID|INTEGER	_NeedItemCount|INTEGER	_NeedIgnoreItemID|INTEGER	_NeedIgnoreItemCount|INTEGER	_PartyNeedIgnoreItemID|INTEGER	_PartyNeedIgnoreItemOnly|BOOLEAN
 1	1	0	17	0	0	0	0	0	false
-2	1	18	21	268484914	1	0	0	0	false
+2	1	18	24	268484914	1	0	0	0	false

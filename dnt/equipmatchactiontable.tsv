@@ -98,5 +98,8 @@ ROWID	_Class|INTEGER	_WeaponType|INTEGER	_Action|TEXT	_ChangeAction|TEXT
 98	10	33	Attack3	Attack3_BattleSword
 99	10	33	Attack4	Attack4_BattleSword
 100	10	33	Jump_Attack	Jump_Attack_BattleSword
-101	0	-1		
-102	0	-1		
+101	1	36	Attack1	Attack1_EgoSword
+102	1	36	Attack2	Attack2_EgoSword
+103	1	36	Attack3	Attack3_EgoSword
+104	1	36	Attack4	Attack4_EgoSword
+105	1	36	Jump_Attack	Jump_Attack_EgoSword
