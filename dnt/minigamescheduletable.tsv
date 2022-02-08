@@ -1,2 +1,2 @@
 ROWID	_Show|BOOLEAN	_Icon|TEXT	_title|INTEGER	_StartDate|TEXT	_EndDate|TEXT	_Season|INTEGER	_MinLevel|INTEGER	_MaxLevel|INTEGER	_ContentsType|INTEGER
-1	true	MiniGame1.dds	140328	2021:06:19:09:00:0	2021:08:05:09:00:0	8	1	95	1
+1	true	MiniGame1.dds	140328	2022:01:13:09:00:0	2022:02:10:09:00:0	9	1	95	1

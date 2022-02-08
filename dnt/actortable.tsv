@@ -743,6 +743,7 @@ ROWID	_StaticName|TEXT	_Class|INTEGER	_SkinName|INTEGER	_AniName|INTEGER	_ActNam
 1918	Npc_Engineer_Aergal	100	69337	2655	69345	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
 1919	Npc_Woman_Mercenary_A	100	69333	69329	69348	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
 1920	Npc_Woman_Mercenary_B	100	69335	69329	69349	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
+1921	Npc_Blue_Raven_Boy_B	100	70372	2687	70362	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
 2001	X_Pet_Squirrel	10	2336	2775	3128	0	0	30	0	0	1.2	100	720.0	0	true	true	false	
 5001	Cleric_RelicOfLightning	10	14740	2776	3129	0	0	30	0	2	0.0	100	0.0	9	true	true	false	
 5002	Cleric_RelicOfHeal	10	14740	2776	3130	0	0	30	0	2	0.0	100	0.0	9	true	true	false	
@@ -2277,6 +2278,9 @@ ROWID	_StaticName|TEXT	_Class|INTEGER	_SkinName|INTEGER	_AniName|INTEGER	_ActNam
 80307		80	68835	68829	68844	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
 80308		80	68836	68829	68845	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
 80309		80	68837	68829	68846	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
+80310		80	70344	70350	70347	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
+80311		80	70345	70350	70348	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
+80312		80	70346	70350	70349	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
 85001	Pet_Hound	81	2550	2872	3287	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
 85002	Pet_Bulldog	81	2551	2872	3287	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
 85003	Pet_Halloween	81	14249	2872	3287	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
@@ -2399,6 +2403,7 @@ ROWID	_StaticName|TEXT	_Class|INTEGER	_SkinName|INTEGER	_AniName|INTEGER	_ActNam
 85128		81	67480	67479	67478	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
 85129		81	68299	68298	68297	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
 85130		81	68922	68921	68920	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
+85131		81	70332	70331	70330	0	0	0	0	0	1.0	100	720.0	0	true	true	false	
 90000	CrazyDug_LowDarkLair	10	2552	2774	3247	0	0	0	0	0	1.07	100	720.0	0	true	true	false	
 90001	Goblin_Xerxes	11	2286	2575	2892	3362	0	35	0	0	1.0	100	720.0	0	true	true	false	
 90002	Goblin_Spartan.skn	100	2553	2575	2892	3362	0	35	0	0	1.0	100	720.0	5	true	true	false	

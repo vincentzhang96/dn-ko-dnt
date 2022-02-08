@@ -488,6 +488,7 @@ ROWID	_NeedJob|INTEGER	_IconIndex|INTEGER	_ConditionType1|INTEGER	_ConditionType
 1587	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot08				2	0	0	0	0	438;10					
 1588	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot09				2	0	0	0	0	438;10					
 1589	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot10				2	0	0	0	0	438;10					
+1590	108	268	5	4	0	0	0	163	438				3	0	0	0	0	438;173					
 1600	107	266	5	13	0	0	0	102	72;74;76				1	0	0	0	0	437;600000;1					
 1602	107	100000000	5	24	0	0	0	106	Skill_VisionBlowEX_Bubble_Charge				1	0	0	0	0	440;4000;1					
 1603	107	100000000	5	24	0	0	0	107	Skill_CelestialWaveEX_Bubble_Charge				1	0	0	0	0	440;2500;1					

@@ -2322,7 +2322,7 @@ ROWID	_Name|TEXT	_ClassID|INTEGER	_VisibleProb|FLOAT	_VisibleWeather|TEXT	_AniNa
 3488	GD_N_GreenTree02.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 3489	GreenDragon_Beehive.skn	0	1.0	All			Idle	1	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 3501	PK_Amplification01.skn	1	1.0	All	PK_Amplification01.ani	PK_Amplification01.act	Close	2	0	0	10.0	0.5	0	false	0	true	true	false	true	false	false	0	false
-3502	PK_JumpTrap.skn	7	1.0	All		PK_JumpTrap.act	Idle	1	0	0	10.0	0.5	0	false	0	false	false	false	false	false	false	0	false
+3502	PK_JumpTrap.skn	7	1.0	All		PK_JumpTrap.act	Idle	1	0	0	10.0	0.5	0	false	0	false	false	false	false	true	false	0	false
 3503	PK_UFOWarp01.skn	1	1.0	All		PK_UFOWarp01.act	Idle	0	0	0	10.0	0.5	1000	false	0	false	false	false	false	false	false	0	false
 3504	PK_DamageTrap.skn	3	1.0	All		PK_DamageTrap.act	Idle	0	0	0	10.0	0.5	0	false	0	false	false	false	false	true	false	0	false
 3505	PK_MonsterWarp.skn	1	1.0	All	PK_MonsterWarp.ani	PK_MonsterWarp.act	Close	2	0	0	10.0	0.5	1000	false	0	false	false	false	false	false	false	0	false

@@ -203,6 +203,7 @@ ROWID	_Name1|TEXT	_FaceID1|INTEGER	_Name2|TEXT	_FaceID2|INTEGER	_Name3|TEXT	_Fac
 85128	Pet	93800	Flicker	93900	Anger01	94000	Surprise	94100	Sad	94200		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0	true
 85129	Pet	94300	Flicker	94400	Anger01	94500	Happy	94600	Sad	94700	Shine	94800		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0	true
 85130	Pet	94900	Flicker	95000	Anger01	95100	Sad	95200	Happy	95300		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0	true
+85131	Pet	95400	Flicker	95500	Anger01	95600	Grooming	95700	Sad	95800	Happy	95900		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0	true
 1000	NPC_Lily	10000	Flicker	20000	Sob	20001	Scream	20002	Scare	20003	Falldown	20004		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0	false
 1001	NPC_Rose	10001	Flicker	20010	Surprise	20011	Scare	20012	Scream	20013	Falldown	20014		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0	false
 1002	NPC_Elder_Harold	10002	Flicker	20020		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0		0	false

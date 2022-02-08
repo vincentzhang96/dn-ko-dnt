@@ -266,6 +266,9 @@ ROWID	_VehicleClassID|TEXT	_VehicleActorID|INTEGER	_DefaultBodyParts|INTEGER	_De
 1073924397	87	80307	0	0	0	1000	612	0	0	0	0		Vehicle_Little_Bluebird_	0	0	0	1	7	false	false	0	0.0	150.0	150.0	144	0	true		-35.0		0	false	0
 1073924877	87	80308	0	0	0	1000	612	0	0	0	0		Vehicle_Little_Bluebird_	0	0	0	1	7	false	false	0	0.0	150.0	150.0	144	0	true		-35.0		0	false	0
 1073925131	87	80309	0	0	0	1000	612	0	0	0	0		Vehicle_Little_Bluebird_	0	0	0	1	7	false	false	0	0.0	150.0	150.0	144	0	true		-35.0		0	false	0
+1073926476	88	80310	0	0	0	1000	612	0	0	0	0		Vehicle_FatDragon_	0	0	0	1	0	false	false	0	0.0	150.0	150.0	144	0	false		-35.0		0	false	0
+1073926477	88	80311	0	0	0	1000	612	0	0	0	0		Vehicle_FatDragon_	0	0	0	1	0	false	false	0	0.0	150.0	150.0	144	0	false		-35.0		0	false	0
+1073926479	88	80312	0	0	0	1000	612	0	0	0	0		Vehicle_FatDragon_	0	0	0	1	0	false	false	0	0.0	150.0	150.0	144	0	false		-35.0		0	false	0
 1073902561	79	80237	0	0	0	1000	786	0	0	0	0		Vehicle_	0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0
 1073905987	79	80253	0	0	0	1000	612	0	0	0	0		Vehicle_Pegasus_	0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0
 1073906111	83	80258	0	0	0	1000	612	0	0	0	0		Vehicle_Peacock_	0	0	0	1	0	false	false	0	0.0	76.5	150.0	191	0	false		-35.0		0	false	0
@@ -276,6 +279,7 @@ ROWID	_VehicleClassID|TEXT	_VehicleActorID|INTEGER	_DefaultBodyParts|INTEGER	_De
 1073919408	85	80301	0	0	0	1000	612	0	0	0	0		Vehicle_Orc_Santa_	0	0	0	1	0	false	false	0	0.0	60.0	150.0	144	0	true		-35.0		0	false	0
 1073921378	57	80304	0	0	0	1000	612	0	0	0	0		Vehicle_Scooter_	0	0	0	1	3	false	true	0	0.0	60.0	150.0	144	0	false		-35.0		0	false	0
 1073924878	87	80309	0	0	0	1000	612	0	0	0	0		Vehicle_Little_Bluebird_	0	0	0	1	7	false	false	0	0.0	150.0	150.0	144	0	true		-35.0		0	false	0
+1073926478	87	80312	0	0	0	1000	612	0	0	0	0		Vehicle_FatDragon_	0	0	0	1	0	false	false	0	0.0	150.0	150.0	144	0	false		-35.0		0	false	0
 1073766417	200	85008	0	0	0	1000	350	2	270008	0	500	Pick_Hound01		0	3	1	1	0	true	false	0	0.0	20.0	150.0	72	0	false		-35.0		0	false	0
 1073766418	200	85008	0	0	0	1000	350	2	270009	0	500	Pick_Hound01		0	3	1	1	0	true	false	0	0.0	20.0	150.0	72	0	false		-35.0		0	false	0
 1073785812	112	85010	0	0	0	1000	350	2	270008	0	500	Pick_Hound01		0	6	1	1	0	false	false	0	0.0	20.0	150.0	72	0	false		-35.0		0	false	0
@@ -356,4 +360,5 @@ ROWID	_VehicleClassID|TEXT	_VehicleActorID|INTEGER	_DefaultBodyParts|INTEGER	_De
 1073921008	161	85128	0	0	0	1000	350	16	0	0	500	Pick_Hound01		0	39	1	1	0	true	false	0	0.0	30.0	150.0	110	0	false		-35.0		0	false	0
 1073922183	162	85129	0	0	0	1000	350	17	0	0	500	Pick_Hound01		0	40	1	1	0	true	false	0	0.0	30.0	150.0	110	0	false		-35.0		0	false	0
 1073925152	163	85130	0	0	0	1000	350	18	0	0	500	Pick_Hound01		0	41	1	1	0	true	false	0	0.0	30.0	150.0	110	0	false		-35.0		0	false	0
+1073926473	164	85131	0	0	0	1000	350	19	0	0	500	Pick_Hound01		0	42	1	1	0	true	false	0	0.0	30.0	150.0	110	0	false		-35.0		0	false	0
 1073808763	102	85004	0	0	0	1000	350	0	270009	0	500	Pick_Hound01		0	2	1	1	0	false	false	0	0.0	20.0	150.0	72	0	false		-35.0		0	false	0

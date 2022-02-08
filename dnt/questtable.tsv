@@ -2524,6 +2524,7 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 3895	복수를 꿈꾸는 이	1	1	45	sq_3895_dream_of_revenge.xml	sq_3895_dream_of_revenge.lua	13769	0	0	0	false	96	14	0	false	false	0	0	0	0	0	0
 3896	강자가 되는 비약	1	1	45	sq_3896_elixir_to_become_strong.xml	sq_3896_elixir_to_become_strong.lua	13769	0	0	0	false	96	14	0	false	false	0	0	0	0	0	0
 3897	시린 꽃의 추억	4	1	95	sq_3897_flower_of_cold_memories.xml	sq_3897_flower_of_cold_memories.lua	13769	0	0	0	false	96	187	0	false	false	0	0	0	0	0	0
+3898	평야에 잠들다	1	1	95	sq_3898_rip.xml	sq_3898_rip.lua	44903	0	0	0	false	96	175	0	false	false	0	0	0	0	0	0
 4000	편지 한장	1	1	47	sq15_4000_a_letter.xml	sq15_4000_a_letter.lua	13768	0	0	0	true	50	14	1	false	false	0	0	0	0	0	0
 4001	마지막 인사	1	1	47	sq15_4001_last_good_bye.xml	sq15_4001_last_good_bye.lua	13768	0	0	0	true	50	14	1	false	false	0	0	0	0	0	0
 4002	푸르른 나날	1	1	47	sq15_4002_ode_to_youth.xml	sq15_4002_ode_to_youth.lua	13768	0	0	0	true	50	14	1	false	false	0	0	0	0	0	0

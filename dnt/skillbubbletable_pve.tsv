@@ -587,6 +587,7 @@ ROWID	_NeedJob|INTEGER	_IconIndex|INTEGER	_ConditionType1|INTEGER	_ConditionType
 1570	108	100000000	5	1	0	0	0	150	142				5	0	0	0	0	437;0;153;0					
 1572	106	266	19	15	0	0	0	141;0	437				1	0	0	0	0	437;600000;2					
 1573	108	268	5	24	0	0	0	163	Skill_CrossoverEX_Enhance;Skill_CrossoverEX_Enhance_ChangeUp				1	0	0	0	0	438;600000;1					
+1574	108	268	5	24	0	0	0	163	Skill_AwG_DoubleHelix;Skill_AwG_DoubleHelix_ChangeUp				1	0	0	0	0	438;600000;1					
 1575	108	268	5	24	0	0	0	163	Skill_WindBreakerEX_Enhance;Skill_WindBreakerEX_Enhance_ChangeUp				1	0	0	0	0	438;600000;1					
 1576	108	268	5	24	0	0	0	163	Skill_SpinDriftEX_Enhance;Skill_SpinDriftEX_Enhance_S1J				1	0	0	0	0	438;600000;1					
 1577	108	268	5	24	0	0	0	163	Skill_ImpalerEX_Enhance;Skill_ImpalerEX_Instant;Skill_ImpalerEX_Enhance_S2J				1	0	0	0	0	438;600000;1					
@@ -602,7 +603,8 @@ ROWID	_NeedJob|INTEGER	_IconIndex|INTEGER	_ConditionType1|INTEGER	_ConditionType
 1587	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot08				2	0	0	0	0	438;10					
 1588	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot09				2	0	0	0	0	438;10					
 1589	108	268	5	24	0	0	0	163	Skill_AwG_SwordOfRain_Shoot10				2	0	0	0	0	438;10					
-1600	107	266	5	13	0	0	0	102	72;74;76				1	0	0	0	0	437;600000;1					
+1590	108	268	5	4	0	0	0	163	438				3	0	0	0	0	438;173					
+1600	107	266	5	13	0	0	0	102	72;74;76;120				1	0	0	0	0	437;600000;1					
 1602	107	100000000	5	24	0	0	0	106	Skill_VisionBlowEX_Bubble_Charge				1	0	0	0	0	440;4000;1					
 1603	107	100000000	5	24	0	0	0	107	Skill_CelestialWaveEX_Bubble_Charge				1	0	0	0	0	440;2500;1					
 1604	107	100000000	5	24	0	0	0	108	Skill_OverLineEX_Bubble_Loop				1	0	0	0	0	440;4000;1					
