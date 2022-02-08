@@ -258,3 +258,6 @@ ROWID	_FileName|TEXT	_TotalFrame|INTEGER	_Descriotion|TEXT
 10101	Mqc26_03_Boss_Down.Dmv	0	#286767: [26챕터 보물고] 메인퀘스트 컷신 3. 보물고 보스 퇴장_반다르
 10102	Mqc04_9910_Boss_dead.dmv	0	#287699: [26챕터 보물고] 메인퀘스트 컷신 6. 보물고 보스 등장_반다르
 10103	Mqc26_01_Boss_Alteia_02.dmv	0	#282098: 보물고 제작
+10104	Mqc28_01_Salica_Fall.Dmv	0	#297265 [28챕터] 메인 퀘스트 컷신 제작
+10105	Mqc28_02_Frozen_Altar.Dmv	0	#297265 [28챕터] 메인 퀘스트 컷신 제작
+10106	Mqc28_03_Greles_Sacrifice.Dmv	0	#297265 [28챕터] 메인 퀘스트 컷신 제작

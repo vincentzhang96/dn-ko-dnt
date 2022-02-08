@@ -1,0 +1,3 @@
+ROWID	_seasongroupid|INTEGER	_seasongroupratio|FLOAT	_state|INTEGER	_statevalue|TEXT
+6	1	100.0	9	8016
+7	2	100.0	25	285013

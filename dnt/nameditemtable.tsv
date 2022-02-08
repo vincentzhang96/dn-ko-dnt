@@ -39,3 +39,4 @@ ROWID	_Named_Max_count|INTEGER	_NamedItem_ID|INTEGER	_Item_ID|INTEGER	_Loop_Effe
 16	1	268449967	346031104		Blessstone_Skill	Blessstone_Target	1	8860
 24	3	536875917	346031104				8	9875
 36	46	536882269	346031104	Sunset_Loop	Sunset_Loop	Sunset_Loop	14	0
+37	0	268498365	346031104		Dragon_Buff_World	Dragon_Buff_World	9	1000181165

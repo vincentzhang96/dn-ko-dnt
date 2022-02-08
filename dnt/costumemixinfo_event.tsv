@@ -1756,6 +1756,10 @@ ROWID	_MixUseCompound|BOOLEAN	_MixRank|INTEGER	_MixMsg|BOOLEAN	_MixResultAble|BO
 805312842	false	0	false	false
 805312904	false	2	false	false
 805312905	false	2	false	false
+805312969	false	5	false	false
+805312970	false	5	false	false
+805312971	false	5	false	false
+805312972	false	1	false	false
 1073762477	false	0	false	false
 1073762478	false	0	false	false
 1073767097	false	0	false	false

@@ -2772,6 +2772,7 @@ ROWID	_Name|TEXT	_ClassID|INTEGER	_VisibleProb|FLOAT	_VisibleWeather|TEXT	_AniNa
 4054	Login_Wolf_Jade_Prop.skn	1	1.0	All	Login_Wolf_Jade_Prop.ani	Login_Wolf_Jade_Prop.act	Idle	0	0	0	10.0	0.5	0	true	0	true	true	true	true	false	false	0	false
 4055	Login_Vandar_Prop.skn	1	1.0	All	Login_Vandar_Prop.ani	Login_Vandar_Prop.act	Idle	0	0	0	10.0	0.5	0	true	0	true	true	true	true	false	false	0	false
 4056	Login_Npc_Hologram_Nophee_Prop.skn	1	1.0	All	Login_Npc_Hologram_Nophee_Prop.ani	Login_Npc_Hologram_Nophee_Prop.act	Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+4059	Login_FrozenDragon_Prop.skn	1	1.0	All	Login_FrozenDragon_Prop.ani	Login_FrozenDragon_Prop.act	Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 4101	EYE_FXL_WO_Water_02_slow_01.skn	1	1.0	All		EYE_FXL_WO_Water_02_slow_01.act	Idle	1	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 4102	EYE_FXL_WO_Water_02_slow_02.skn	1	1.0	All		EYE_FXL_WO_Water_02_slow_02.act	Idle	1	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 4103	EYE_FXL_WO_Water_02.skn	1	1.0	All		EYE_FXL_WO_Water_02.act	Idle	1	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
@@ -5399,6 +5400,7 @@ ROWID	_Name|TEXT	_ClassID|INTEGER	_VisibleProb|FLOAT	_VisibleWeather|TEXT	_AniNa
 7664	Gathering_Rarity3.skn	18	0.001	All	VellynRevivalDevice.ani	Gathering_Rarity3.act	Idle	2	0	0	10.0	0.5	0	false	0	false	false	false	false	false	false	0	false
 7665	Gathering_Rarity4.skn	18	0.001	All	VellynRevivalDevice.ani	Gathering_Rarity4.act	Idle	2	0	0	10.0	0.5	0	false	0	false	false	false	false	false	false	0	false
 7666	Gathering_Rarity5.skn	18	0.001	All	VellynRevivalDevice.ani	Gathering_Rarity5.act	Idle	2	0	0	10.0	0.5	0	false	0	false	false	false	false	false	false	0	false
+7667	Gathering_Event01.skn	18	1.0	All	VellynRevivalDevice.ani	Gathering_Event01.act	Idle	2	0	0	10.0	0.5	0	false	0	false	false	false	false	false	false	0	false
 7681	GM_A_BMBluegate01.skn 	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 7721	RLP_A_LongWidthStair_02.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 7722	RLP_A_LinkLamp_02.skn	0	1.0	All			Idle	1	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
@@ -6036,10 +6038,18 @@ ROWID	_Name|TEXT	_ClassID|INTEGER	_VisibleProb|FLOAT	_VisibleWeather|TEXT	_AniNa
 8565	Treasurebox_ArmorSwordManWeapon.skn	6	1.0	All	Treasurebox_ArmorSwordManWeapon.ani	Treasurebox_ArmorSwordManWeapon.act	Idle	2	0	0	10.0	0.5	0	false	0	true	false	true	true	false	false	0	false
 8566	Prop_Npc_Hiver2.skn	1	1.0	All	Prop_Npc_Hiver2.ani	Prop_Npc_Hiver2.act	Stand_Idle	2	0	0	10.0	0.5	0	false	0	true	false	true	true	false	false	0	false
 8567	FZD_A_2rd_Gate01.skn	1	1.0	All	FZD_A_2rd_Gate01.ani	FZD_A_2rd_Gate01.act	Open	2	0	0	10.0	0.5	0	false	0	true	false	false	true	false	false	0	false
-8568	FZD_A_2rd_BuffGlass_Chills.skn	20	1.0	All		FZD_A_2rd_BuffGlass_Malice.act	Off	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8568	FZD_A_2rd_BuffGlass_Chills.skn	20	1.0	All		FZD_A_2rd_BuffGlass_Chills.act	Off	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 8569	FZD_A_2rd_BuffGlass_Malice.skn	20	1.0	All		FZD_A_2rd_BuffGlass_Malice.act	Off	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 8570	FZD_A_2rd_CrystalSwitch_Chills.skn	5	1.0	All	FZD_A_2rd_CrystalSwitch_Chills.ani	FZD_A_2rd_CrystalSwitch_Chills.act	Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 8571	FZD_A_2rd_CrystalSwitch_Malice.skn	5	1.0	All	FZD_A_2rd_CrystalSwitch_Malice.ani	FZD_A_2rd_CrystalSwitch_Malice.act	Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8572	FZD_A_2rd_Brazier01.skn	5	1.0	All	FZD_A_2rd_Brazier01.ani	FZD_A_2rd_Brazier01.act	Off	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8573	FZD_A_3rd_Switch01.skn	5	1.0	All	FZD_A_3rd_Switch01.ani	FZD_A_3rd_Switch01.act	Idle	2	0	0	10.0	0.5	0	false	0	false	false	false	true	false	false	0	false
+8574	FZD_TBK_3rd_StoneCube.skn	5	1.0	All	FZD_TBK_3rd_StoneCube.ani	FZD_TBK_3rd_StoneCube.act	Idle	2	0	0	10.0	0.5	0	false	0	true	false	false	true	false	false	0	false
+8575	FZD_TBK_3rd_IceCube.skn	5	1.0	All	FZD_TBK_3rd_IceCube.ani	FZD_TBK_3rd_IceCube.act	Idle	2	0	0	10.0	0.5	0	false	0	true	false	false	true	false	false	0	false
+8576	FZD_A_3rd_Gate01.skn	1	1.0	All	FZD_A_2rd_Gate01.ani	FZD_A_3rd_Gate01.act	Open	2	0	0	10.0	0.5	0	false	0	true	false	false	true	false	false	0	false
+8577	FZD_A_3rd_Switch01.skn	5	1.0	All	FZD_A_3rd_Switch01.ani	FZD_A_3rd_Switch01.act	Idle	2	0	0	10.0	0.5	0	false	0	false	false	false	true	false	false	0	false
+8578	NPC_HalfGolem_FrozenDragonNest.skn	5	1.0	All	NPC_HalfGolem.ani	NPC_HalfGolem_FrozenDragonNest.act	Stand	2	0	0	10.0	0.5	0	false	0	false	false	true	true	false	false	0	false
+8579	FZD_StateSeason_Effect Dummy.skn	1	1.0	All		FZD_StateSeason_Effect Dummy.act	Idle	0	0	0	10.0	0.5	50	false	0	false	false	false	false	true	false	0	false
 8601	BH_A_4stRuinsCliffDoor01.skn	1	1.0	All	BH_A_4stRuinsCliffDoor01.ani	BH_A_4stRuinsCliffDoor01.act	Close	2	0	0	10.0	0.5	0	false	0	true	false	false	true	false	false	0	false
 8602	BH_A_IceWall_Broken.skn	1	1.0	All	BH_A_IceWall_Broken.ani	BH_A_IceWall_Broken.act	Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 8603	BH_N_CliffRockShield01.skn	2	1.0	All	GustD_N_CliffRockShield01.ani	BH_N_CliffRockShield01.act	Idle	2	0	142	10.0	0.5	0	false	0	false	false	true	true	false	false	0	false
@@ -6160,3 +6170,51 @@ ROWID	_Name|TEXT	_ClassID|INTEGER	_VisibleProb|FLOAT	_VisibleWeather|TEXT	_AniNa
 8750	FZD_A_2rd_FrozenRoom_Ice02.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 8751	FZD_A_2rd_GreenLiquid01.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
 8752	FZD_A_2rd_PoisonFloor.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8753	FZD_A_3rd_BossGround_01.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8754	FZD_A_3rd_IceFence01.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8755	FZD_A_3rd_IceFence02.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8756	FZD_A_3rd_IceGate01.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8757	FZD_A_3rd_IceGatecliff01.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8758	FZD_A_3rd_IceProp_a.skn	1	1.0	All	FZD_A_3rd_IceProp_a.ani	FZD_A_3rd_IceProp_a.act	Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8759	FZD_A_3rd_IceProp_b.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8760	FZD_A_3rd_IceProp_c.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8761	FZD_A_3rd_IceProp_d.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8762	FZD_A_3rd_IceProp_Under.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8763	FZD_A_3rd_IceRemnants01.skn	1	1.0	All	FZD_A_3rd_IceRemnants01.ani	FZD_A_3rd_IceRemnants01.act	Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8764	FZD_A_3rd_IceWay01.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8765	FZD_A_3rd_IceWay02.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8766	FZD_A_3rd_IceWay03.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8767	FZD_A_3rd_IceWay04.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8768	FZD_A_3rd_IceWay05.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8769	FZD_A_3rd_IceWay06.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8770	FZD_A_3rd_Tower.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8771	FZD_A_3rd_Tower_Jewel.skn	1	1.0	All	FZD_A_3rd_Tower_Jewel.ani	FZD_A_3rd_Tower_Jewel.act	Idle	0	0	0	10.0	0.5	300	true	0	true	false	true	true	false	false	0	false
+8772	RLP_A_HolyGrailkey_combine.skn	1	1.0	All	RLP_A_HolyGrailkey_combine.ani	\RLP_A_HolyGrailkey_combine.act	Idle	1	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8801	RN01_Sainthaven_A_CastleGardenA_brown.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8802	RN01_Sainthaven_A_CastleGardenB_brown.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8803	RN01_Sainthaven_N_BigTreeA_billboard.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8804	RN01_Sainthaven_N_BigTreeA_brown.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8805	RN01_Sainthaven_N_BigTreeA_snow.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8806	RN01_Sainthaven_N_FlowerPot01_brown.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8807	RN01_Sainthaven_N_FlowerPot02_brown.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8808	RN01_Sainthaven_N_SmallTreeA_brown.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8809	RN01_Sainthaven_N_SmallTreeB_brown.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8810	RN01_Sainthaven_N_SmallTreeC_brown.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8811	RN01_Sainthaven_N_SmallTreeD_brown.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8812	RN01_Sainthaven_N_SmallTreeE_brown.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8813	RN01_Sainthaven_N_SmallTreeF_brown.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8814	RN01_Christmas_A_flag03.skn	1	1.0	All	RN01_Sainthaven_A_flag03.ani	RN01_Christmas_A_flag03.act	Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8815	RN01_Christmas_SnowmanSet.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8816	RN01_Christmas_StandLamp.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8817	RN01_Christmas_TreeLighting.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8818	RN01_Christmas_WallDeco.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8819	RN01_Christmas_WallDeco_Small.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8820	RN01_Christmas2013_Bigribbon.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8821	RN01_Christmas2013_BigribbonA.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8822	RN01_Sainthaven_A_GoddessStatue_Renew_02.skn	0	1.0	All			Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8823	RN01_Sainthaven_A_EntranceStairs_GrassBrown.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8824	RN01_Christmas_TreeSnow.skn	1	1.0	All	RN01_Christmas_TreeSnow.ani	RN01_Christmas_TreeSnow.act	Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8825	RN01_Christmas_Tree.skn	1	1.0	All	RN01_Christmas_TreeSnow.ani	RN01_Christmas_Tree.act	Idle	2	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8826	RN01_Christmas_Tree_LineLighting.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8827	RN01_ChristmasStatueSupport_02.skn	0	1.0	All			Idle	0	0	0	10.0	0.5	0	true	0	true	false	true	true	false	false	0	false
+8829	RN01_ChristmasStatueSupport_01.skn	1	1.0	All	RN01_ChristmasStatueSupport_01.ani	RN01_ChristmasStatueSupport_01.act	Idle	2	0	0	10.0	0.5	400	true	0	true	false	true	true	false	false	0	false

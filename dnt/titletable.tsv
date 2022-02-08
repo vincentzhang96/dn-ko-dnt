@@ -34,4 +34,5 @@ ROWID	_MapID|INTEGER	_PropID|INTEGER	_Camfilename1|TEXT	_Camfilename2|TEXT	_UseM
 34	16131	6035	Login_RedLotusPalace_Cam_Idle	Login_RedLotusPalace_Cam_FadeOut	0	false
 35	16132	1257	Login_Walf_Jade_Cam_Idle	Login_Walf_Jade_Cam_FadeOut	0	false
 36	16133	8008	Login_Vandar_Cam_Idle	Login_Vandar_Cam_FadeOut	0	false
-37	16134	1516	Login_Rhadames_TitleRenewal_Cam_Idle	Login_Rhadames_TitleRenewal_Cam_FadeOut	1	false
+37	16134	1516	Login_Rhadames_TitleRenewal_Cam_Idle	Login_Rhadames_TitleRenewal_Cam_FadeOut	0	false
+38	16135	3869	Login_FrozenDragon_Cam_Idle	Login_FrozenDragon_Cam_FadeOut	1	false

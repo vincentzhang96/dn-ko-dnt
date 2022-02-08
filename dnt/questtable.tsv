@@ -2523,6 +2523,7 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 3894	NPC 하이드용 더미 퀘스트	1	1	95			13769	0	0	0	false	96	11	0	false	false	0	0	0	0	0	0
 3895	복수를 꿈꾸는 이	1	1	45	sq_3895_dream_of_revenge.xml	sq_3895_dream_of_revenge.lua	13769	0	0	0	false	96	14	0	false	false	0	0	0	0	0	0
 3896	강자가 되는 비약	1	1	45	sq_3896_elixir_to_become_strong.xml	sq_3896_elixir_to_become_strong.lua	13769	0	0	0	false	96	14	0	false	false	0	0	0	0	0	0
+3897	시린 꽃의 추억	4	1	95	sq_3897_flower_of_cold_memories.xml	sq_3897_flower_of_cold_memories.lua	13769	0	0	0	false	96	187	0	false	false	0	0	0	0	0	0
 4000	편지 한장	1	1	47	sq15_4000_a_letter.xml	sq15_4000_a_letter.lua	13768	0	0	0	true	50	14	1	false	false	0	0	0	0	0	0
 4001	마지막 인사	1	1	47	sq15_4001_last_good_bye.xml	sq15_4001_last_good_bye.lua	13768	0	0	0	true	50	14	1	false	false	0	0	0	0	0	0
 4002	푸르른 나날	1	1	47	sq15_4002_ode_to_youth.xml	sq15_4002_ode_to_youth.lua	13768	0	0	0	true	50	14	1	false	false	0	0	0	0	0	0
@@ -4537,33 +4538,34 @@ ROWID	_Name|TEXT	_QuestType|INTEGER	_QuestCode|INTEGER	_QuestLv|INTEGER	_QuestTa
 9934	불꽃의 라다메스	2	1	95	mqc05_9934_v_burning_rhadames.xml	mqc05_9934_v_burning_rhadames.lua	67761	438	0	0	false	0	175	0	false	false	0	0	0	0	0	0
 9935	얼어붙은 둥지	2	1	95	mqc05_9935_v_frozen_nest.xml	mqc05_9935_v_frozen_nest.lua	67762	439	0	0	false	0	175	0	false	false	0	0	0	0	0	0
 9936	그림자를 뒤로 하고	2	1	95	mqc05_9936_v_above_the_shadows.xml	mqc05_9936_v_above_the_shadows.lua	67763	440	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9937	까마귀 도착하다	2	1	95	mqc28_9937_raven.xml	mqc28_9937_raven.lua	67754	441	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9938	그들의 길, 우리의 길	2	1	95	mqc28_9938_three_little_giants.xml	mqc28_9938_three_little_giants.lua	67755	442	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9939	깊어가는 갈등	2	1	95	mqc28_9939_struggle.xml	mqc28_9939_struggle.lua	67756	443	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9940	다르지 않았음을	2	1	95	mqc28_9940_value_of_trust.xml	mqc28_9940_value_of_trust.lua	67757	444	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9941	회의는 시작되고	2	1	95	mqc28_9941_conference_start.xml	mqc28_9941_conference_start.lua	67758	445	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9942	상처받은 소년	2	1	95	mqc28_9942_angry_geraint.xml	mqc28_9942_angry_geraint.lua	67759	446	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9943	걱정하는 소년	2	1	95	mqc28_9943_greles_feeling.xml	mqc28_9943_greles_feeling.lua	67760	447	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9944	물러설 수 없는 선언	2	1	95	mqc28_9944_my_manifesto.xml	mqc28_9944_my_manifesto.lua	67761	448	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9945	들어가기 위해 필요한 것	2	1	95	mqc28_9945_ticket_for_nest.xml	mqc28_9945_ticket_for_nest.lua	67762	449	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9946	푸른 독사의 소굴로	2	1	95	mqc28_9946_blue_viper.xml	mqc28_9946_blue_viper.lua	67763	450	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9947	마침내 다시 모여	2	1	95	mqc28_9947_reunion.xml	mqc28_9947_reunion.lua	67760	451	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
-9948	그의 사명	2	1	95	mqc28_9948_mission.xml	mqc28_9948_mission.lua	67761	452	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9949	이 땅의 희망	2	1	95	mqc28_9949_hope.xml	mqc28_9949_hope.lua	67762	453	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9950	희생의 대가	2	1	95	mqc28_9950_sacrifice.xml	mqc28_9950_sacrifice.lua	67763	454	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9951	잿더미에서 일어나	2	1	95	mqc06_9951_rise_from.xml	mqc06_9951_rise_from.lua	67754	455	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9952	잔인한 이야기	2	1	95	mqc06_9952_crule_conference.xml	mqc06_9952_crule_conference.lua	67755	456	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9953	방향 잡기	2	1	95	mqc06_9953_right_direction.xml	mqc06_9953_right_direction.lua	67756	457	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9954	그녀의 선언	2	1	95	mqc06_9954_her_manifesto.xml	mqc06_9954_her_manifesto.lua	67757	458	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9955	의외의 인연	2	1	95	mqc06_9955_mighty_nanny.xml	mqc06_9955_mighty_nanny.lua	67758	459	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9956	공녀가 지닌 힘	2	1	95	mqc06_9956_power_of_a_princess.xml	mqc06_9956_power_of_a_princess.lua	67759	460	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
-9957	용병이 원하는 것	2	1	95	mqc06_9957_mercenary.xml	mqc06_9957_mercenary.lua	67760	461	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
-9958	믿음과 의리	2	1	95	mqc06_9958_belief_and_loyalty.xml	mqc06_9958_belief_and_loyalty.lua	67761	462	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
-9959	말보다 가까운 것	2	1	95	mqc06_9959_closer_than_words.xml	mqc06_9959_closer_than_words.lua	67762	463	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
-9960	얼음 꽃에 담긴 이야기	2	1	95	mqc06_9960_ice_flower_story.xml	mqc06_9960_ice_flower_story.lua	67763	464	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
-9961	짧은 무용담	2	1	95	mqc06_9961_short_romance.xml	mqc06_9961_short_romance.lua	67760	465	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
-9962	그들의 다짐	2	1	95	mqc06_9962_their_vow.xml	mqc06_9962_their_vow.lua	67761	466	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9963	이베르, 그리고 그렐	2	1	95	mqc06_9963_hiver_and_grele.xml	mqc06_9963_hiver_and_grele.lua	67762	467	0	0	false	0	175	0	false	false	0	0	0	0	0	0
-9964	흑막의 윤곽	2	1	95	mqc06_9964_his_silhouette.xml	mqc06_9964_his_silhouette.lua	67763	468	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9937	까마귀 도착하다	2	1	95	mqc28_9937_raven.xml	mqc28_9937_raven.lua	69255	441	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9938	그들의 길, 우리의 길	2	1	95	mqc28_9938_three_little_giants.xml	mqc28_9938_three_little_giants.lua	69256	442	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9939	깊어가는 갈등	2	1	95	mqc28_9939_struggle.xml	mqc28_9939_struggle.lua	69257	443	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9940	다르지 않았음을	2	1	95	mqc28_9940_value_of_trust.xml	mqc28_9940_value_of_trust.lua	69258	444	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9941	회의는 시작되고	2	1	95	mqc28_9941_conference_start.xml	mqc28_9941_conference_start.lua	69259	445	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9942	상처받은 소년	2	1	95	mqc28_9942_angry_geraint.xml	mqc28_9942_angry_geraint.lua	69260	446	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9943	걱정하는 소년	2	1	95	mqc28_9943_greles_feeling.xml	mqc28_9943_greles_feeling.lua	69261	447	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9944	물러설 수 없는 선언	2	1	95	mqc28_9944_my_manifesto.xml	mqc28_9944_my_manifesto.lua	69262	448	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9945	들어가기 위해 필요한 것	2	1	95	mqc28_9945_ticket_for_nest.xml	mqc28_9945_ticket_for_nest.lua	69268	449	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9946	푸른 독사의 소굴로	2	1	95	mqc28_9946_blue_viper.xml	mqc28_9946_blue_viper.lua	69263	450	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9947	마침내 다시 모여	2	1	95	mqc28_9947_reunion.xml	mqc28_9947_reunion.lua	69264	451	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9948	그의 사명	2	1	95	mqc28_9948_mission.xml	mqc28_9948_mission.lua	69265	452	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9949	이 땅의 희망	2	1	95	mqc28_9949_hope.xml	mqc28_9949_hope.lua	69266	453	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9950	희생의 대가	2	1	95	mqc28_9950_sacrifice.xml	mqc28_9950_sacrifice.lua	69267	454	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9951	잿더미에서 일어나	2	1	95	mqc06_9951_rise_from.xml	mqc06_9951_rise_from.lua	69255	455	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9952	잔인한 이야기	2	1	95	mqc06_9952_crule_conference.xml	mqc06_9952_crule_conference.lua	69256	456	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9953	방향 잡기	2	1	95	mqc06_9953_right_direction.xml	mqc06_9953_right_direction.lua	69257	457	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9954	그녀의 선언	2	1	95	mqc06_9954_her_manifesto.xml	mqc06_9954_her_manifesto.lua	69258	458	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9955	의외의 인연	2	1	95	mqc06_9955_mighty_nanny.xml	mqc06_9955_mighty_nanny.lua	69259	459	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9956	공녀가 지닌 힘	2	1	95	mqc06_9956_power_of_a_princess.xml	mqc06_9956_power_of_a_princess.lua	69260	460	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9957	용병이 원하는 것	2	1	95	mqc06_9957_mercenary.xml	mqc06_9957_mercenary.lua	69261	461	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9958	믿음과 의리	2	1	95	mqc06_9958_belief_and_loyalty.xml	mqc06_9958_belief_and_loyalty.lua	69262	462	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9959	말보다 가까운 것	2	1	95	mqc06_9959_closer_than_words.xml	mqc06_9959_closer_than_words.lua	69268	463	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9960	얼음 꽃에 담긴 이야기	2	1	95	mqc06_9960_ice_flower_story.xml	mqc06_9960_ice_flower_story.lua	69263	464	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9961	짧은 무용담	2	1	95	mqc06_9961_short_romance.xml	mqc06_9961_short_romance.lua	69264	465	0	0	false	0	13043	0	false	false	0	0	0	0	0	0
+9962	그들의 다짐	2	1	95	mqc06_9962_their_vow.xml	mqc06_9962_their_vow.lua	69265	466	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9963	이베르, 그리고 그렐	2	1	95	mqc06_9963_hiver_and_grele.xml	mqc06_9963_hiver_and_grele.lua	69266	467	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+9964	흑막의 윤곽	2	1	95	mqc06_9964_his_silhouette.xml	mqc06_9964_his_silhouette.lua	69267	468	0	0	false	0	175	0	false	false	0	0	0	0	0	0
+14997	외전퀘 샘플퀘스트	1	1	45	sq_14997_sample.xml	sq_14997_sample.lua	44903	0	0	0	true	96	15	0	false	false	0	0	0	0	0	0
 14998	다섯자리 샘플퀘스트	1	1	90	sq_14998_sample.xml	sq_14998_sample.lua	44903	0	0	0	true	96	175	0	false	false	0	0	0	0	0	0
 14999	다섯자리 샘플메인퀘스트	2	1	90	mqc_14999_sample.xml	mqc_14999_sample.lua	67763	469	0	0	false	0	175	0	false	false	0	0	0	0	0	0

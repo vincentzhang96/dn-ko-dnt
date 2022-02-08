@@ -46,7 +46,7 @@ ROWID	_Title|INTEGER	_GateEnterImage|TEXT	_MapIndex1|INTEGER	_Map1_StartGate|INT
 30003	1000077305	Potal_IngameWorld02.dds	0	1	0	1	0	1	0	1	0	1	1	0	1
 30004	1000077306	Potal_IngameWorld02.dds	0	1	0	1	0	1	0	1	0	1	1	0	1
 30005	1000047084	Potal_Treasure.dds	901	1	912	1	922	1	0	1	0	1	0	0	1
-30006	1000077305	Potal_IngameWorld02.dds	0	1	0	1	0	1	13659	1	13658	1	1	0	1
+30006	1000077305	Potal_IngameWorld02.dds	0	1	0	1	13659	1	13669	1	13658	1	1	0	1
 30007	1000104191	Potal_IngameWorld02.dds	13668	1	0	1	0	1	0	1	0	1	1	0	1
 30101	10153	Potal_FellowShip_60Lv.dds	0	1	0	1	0	1	0	1	0	1	0	0	1
 30102	1000073126	Potal_AllstarBattle.dds	0	1	0	1	0	1	0	1	0	1	0	0	1
@@ -181,3 +181,4 @@ ROWID	_Title|INTEGER	_GateEnterImage|TEXT	_MapIndex1|INTEGER	_Map1_StartGate|INT
 57090	1000174541	PotalWD_KarapachoNest.dds	19695	1	0	1	0	1	0	1	0	1	2	0	1
 57095	1000176293	PortalMR_BrynhildrNest.dds	19697	1	0	1	0	1	0	1	0	1	2	0	1
 57100	1000181126	Potal95Lv_Set_3.dds	0	1	0	1	0	1	0	1	0	1	0	0	1
+57105	1000169275	PotalRD_FrozenDragonNest.dds	14980	1	0	1	0	1	0	1	0	1	2	0	1

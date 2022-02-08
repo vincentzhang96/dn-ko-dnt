@@ -738,6 +738,11 @@ ROWID	_StaticName|TEXT	_Class|INTEGER	_SkinName|INTEGER	_AniName|INTEGER	_ActNam
 1913	NPC_Frozen_Dragon	100	68616	68615	68614	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
 1914	Npc_HolyGrail_Combine	100	68945	68947	68946	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
 1915	Npc_Warrior_Magenta	100	69275	69274	69273	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
+1916	Npc_Salica_Child_Crying	100	65848	31813	69347	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
+1917	Npc_Old_Master	100	69331	69329	69346	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
+1918	Npc_Engineer_Aergal	100	69337	2655	69345	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
+1919	Npc_Woman_Mercenary_A	100	69333	69329	69348	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
+1920	Npc_Woman_Mercenary_B	100	69335	69329	69349	0	0	30	0	0	1.0	100	720.0	10	true	true	false	
 2001	X_Pet_Squirrel	10	2336	2775	3128	0	0	30	0	0	1.2	100	720.0	0	true	true	false	
 5001	Cleric_RelicOfLightning	10	14740	2776	3129	0	0	30	0	2	0.0	100	0.0	9	true	true	false	
 5002	Cleric_RelicOfHeal	10	14740	2776	3130	0	0	30	0	2	0.0	100	0.0	9	true	true	false	

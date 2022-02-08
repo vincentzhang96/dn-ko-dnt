@@ -337,3 +337,6 @@ ROWID	_Name|TEXT	_Type|INTEGER
 437	Ground_Dry42.dds	1
 438	Ground_Dry43.dds	1
 439	Stone_Dry39.dds	4
+440	Snow_Ground04.dds	1
+441	Snow_Stone04.dds	1
+442	Green_Dry17.dds	2
