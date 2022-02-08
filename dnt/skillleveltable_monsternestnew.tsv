@@ -769,6 +769,8 @@ ROWID	_SkillIndex|INTEGER	_SkillLevel|INTEGER	_SkillLevelIconID|INTEGER	_EffectC
 260845	324131	1	0	-0.99;0	100	-1	100		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260869	324132	1	0	0.5	100	-0.5	100		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260870	324133	1	0	-0.5;0	100	0.5	100		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260875	324134	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_To_ThreeSwitch										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260876	324135	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack02_To_BattleZone										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260839	324141	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_P1_FullChage_Start	Attack01_P1_FullChage_Loop	Attack01_P1_FullChage_End	5000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260840	324142	1	0		1000		0		0		0		0	0	0	0	0	0	0	0	0	1000111745		0	0											Attack03_BlackZone_Start	Attack03_BlackZone_Loop	Attack03_BlackZone_End	6000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260841	324143	1	0		99999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
@@ -918,12 +920,12 @@ ROWID	_SkillIndex|INTEGER	_SkillLevel|INTEGER	_SkillLevelIconID|INTEGER	_EffectC
 260290	324292	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack021-2_RightWindSwing_Start	Attack021-2_RightWindSwing_Loop	Attack021-2_RightWindSwing_End	2000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260291	324293	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack022_WindSwing_Start	Attack022_WindSwing_Loop	Attack022_WindSwing_End	100							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260292	324294	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack022-2_WindSwing_Start	Attack022-2_WindSwing_Loop	Attack022-2_WindSwing_End	4000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
-260340	324295	1	0	10;999999999	52000		0		0		0		0	0	0	0	0	0	0	0	0	1015748		23607	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260340	324295	1	0	10;50000000	52000	-0.99;0	0		0		0		0	0	0	0	0	0	0	0	0	1015748		23607	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260370	324296	1	0		1990		0		0		0		0	0	0	0	0	0	0	0	0	1015710		0	0											Attack01_Pulse_Defense_SaveZone										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260383	324297	1	0	-0.5	20000	-0.5	20000		0		0		0	0	0	0	0	0	0	0	0	1015721		22	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260384	324298	1	0	-0.5	20000	-0.5	20000		0		0		0	0	0	0	0	0	0	0	0	1015722		19	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260385	324299	1	0	-0.5	30000	-0.5	30000	-0.5	30000	-0.5	30000	-0.05	30000	0	0	0	0	0	0	0	0	1015723		23633	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
-260402	324300	1	0	-0.04	9999999		9999999		0		0		0	0	0	0	0	0	0	0	0	1015726		23621	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260402	324300	1	0	-0.04	9999999		9999999	2	9999999	1;66105;245;169;180;255	9999999		0	0	0	0	0	0	0	0	0	1015726		23621	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260403	324301	1	0	-0.3	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack099_Julpae1_Start	Attack099_Julpae1_Loop	Attack099_Julpae1_End	7000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260404	324302	1	0	-0.7	5000	-0.7	5000		0		0		0	0	0	0	0	0	0	0	0	1015721		22	0											Attack01_Short_Attack										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260405	324303	1	0		60000		99999999		0		0		0	0	0	0	0	0	0	0	0	1000181163		23629	0											Attack02_SelfDestruct_Start	Attack02_SelfDestruct_Loop	Attack02_SelfDestruct_End	1500							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
@@ -962,7 +964,7 @@ ROWID	_SkillIndex|INTEGER	_SkillLevel|INTEGER	_SkillLevelIconID|INTEGER	_EffectC
 260641	324336	1	0	-0.7	20000	-0.7	20000		0		0		0	0	0	0	0	0	0	0	0	1015721		10012	0											Attack010-2_SpearShower_Start	Attack010-2_SpearShower_Loop	Attack010-2_SpearShower_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260771	324337	1	0		5000		0		0		0		0	0	0	0	0	0	0	0	0	1015746		23637	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260843	324338	1	0		5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack01_Pulse_Attack_Reverse										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
-260853	324339	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack100_HP0_LastDance_Start	Attack100_HP0_LastDance_Loop	Attack100_HP0_LastDance_End	200000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260853	324339	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack100_HP0_LastDance_Start	Attack100_HP0_LastDance_Loop	Attack100_HP0_LastDance_End	300000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260854	324340	1	0		100000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack101_HP0_LastDance_ExtinctionMagic_Start	Attack101_HP0_LastDance_ExtinctionMagic_End									0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260858	324341	1	0		70000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260859	324342	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack009-2_VicinityBreath_Start	Attack009-2_VicinityBreath_Loop	Attack009-2_VicinityBreath_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
@@ -970,6 +972,9 @@ ROWID	_SkillIndex|INTEGER	_SkillLevel|INTEGER	_SkillLevelIconID|INTEGER	_EffectC
 260868	324344	1	0	324341	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260872	324345	1	0		5000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260873	324346	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack096_MagicCasting_Start	Attack096_MagicCasting_Loop	Attack096_MagicCasting_End	7000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260874	324347	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack095_MagicCasting_Revive_Start	Attack095_MagicCasting_Revive_Loop	Attack095_MagicCasting_Revive_End	7000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260877	324348	1	0	1;1	0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260905	324349	1	0	324339	9999999		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 167736	324351	1	0	1;4;1;324380	45000		0		0		0		0	0	0	0	0	0	0	0	0	1000176925		23555	0											Attack01_Swipe										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 167737	324352	1	0	1;4;1;324380	45000		0		0		0		0	0	0	0	0	0	0	0	0	1000176925		23555	0											Attack01_Swipe_powerup										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 167738	324353	1	0	1;1	10000		1000		0		0		0	0	0	0	0	0	0	0	0	1000111740		3	0											Attack02_Freeze										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
@@ -1305,6 +1310,20 @@ ROWID	_SkillIndex|INTEGER	_SkillLevel|INTEGER	_SkillLevelIconID|INTEGER	_EffectC
 260375	324924	1	0		10000	-0.12	10000		0		0		0	0	0	0	0	0	0	0	0	1000181197		23664	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260376	324925	1	0		10000	-0.12	10000		1000		0		0	0	0	0	0	0	0	0	0	1000181198		23665	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260377	324926	1	0	324924;324925;324927;324928;324929;324930;324931	1000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0																					0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260423	324927	1	0	-0.3	3000	-0.3	3000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260424	324928	1	0	-0.5	3000	-0.5	3000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260425	324929	1	0	-0.9	1000	-0.9	1000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260426	324930	1	0	324927;324927;324928;324931;324929;	9000	23667	9000		0		0		0	0	0	0	0	0	0	0	0	1000183121		23667	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260427	324931	1	0	-0.8	2000	-0.8	2000		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260428	324932	1	0	1;0;Hit_Front;1	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		23668	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260429	324933	1	0	1;0;Hit_Front;1	5000		0		0		0		0	0	0	0	0	0	0	0	0	0		23669	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260430	324934	1	0	2	4000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260431	324935	1	0		2000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260432	324936	1	0	1	4000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260433	324937	1	0	23670	10000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260434	324938	1	0	23671	10000		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260435	324939	1	0	Tumble_Right;Tumble_Left;Tumble_Back;Tumble_Front;Skill_HopStep_Front;Skill_HopStep_Back;Skill_HopStep_Left;Skill_HopStep_Right	7000		0		0		0		0	0	0	0	0	0	0	0	0	0		23672	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
+260436	324940	1	0	Tumble_Right;Tumble_Left;Tumble_Back;Tumble_Front;Skill_HopStep_Front;Skill_HopStep_Back;Skill_HopStep_Left;Skill_HopStep_Right	7000	-0.7	7000	-0.7	7000		0		0	0	0	0	0	0	0	0	0	0		23673	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260838	324941	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Activate										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260643	324951	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack001_Blue_Energy_Start	Attack001_Blue_Energy_Loop1	Attack001_Blue_Energy_End	3000							0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
 260644	324952	1	0		0		0		0		0		0	0	0	0	0	0	0	0	0	0		0	0											Attack002_Blue_Clap										0	0	0.0	0.0	0	0	100.0	true	0		0		0	0.0	0.0
